@@ -1,0 +1,402 @@
+{
+  "tutorial_id": "tut2",
+  "tables": [],
+  "questions": [
+    {
+      "question_id": 1,
+      "text": "You are told that Country A experienced growth of real GDP per person of 4 percent per year throughout the 1900s. In view of other countries’ experience, you would have to characterize Country A’s growth as",
+      "options": [
+        {
+          "text": "exceptionally high.",
+          "is_correct": true
+        },
+        {
+          "text": "moderately high.",
+          "is_correct": false
+        },
+        {
+          "text": "moderately low.",
+          "is_correct": false
+        },
+        {
+          "text": "exceptionally low.",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "question_id": 2,
+      "text": "The level of real GDP person",
+      "options": [
+        {
+          "text": "differs widely across countries, but the growth rate of real GDP per person is similar across countries.",
+          "is_correct": false
+        },
+        {
+          "text": "is very similar across countries, but the growth rate of real GDP per person differs widely across countries.",
+          "is_correct": false
+        },
+        {
+          "text": "and the growth rate of real GDP per person are similar across countries.",
+          "is_correct": false
+        },
+        {
+          "text": "and the growth rate of real GDP per person vary widely across countries.",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "question_id": 3,
+      "text": "Which of the following countries had the highest growth rate over the last 100 or so years?",
+      "options": [
+        {
+          "text": "Brazil",
+          "is_correct": true
+        },
+        {
+          "text": "Germany",
+          "is_correct": false
+        },
+        {
+          "text": "Canada",
+          "is_correct": false
+        },
+        {
+          "text": "United States",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "question_id": 4,
+      "text": "Which of the following countries had the highest level of real GDP per person in 2006?",
+      "options": [
+        {
+          "text": "Germany",
+          "is_correct": false
+        },
+        {
+          "text": "United Kingdom",
+          "is_correct": false
+        },
+        {
+          "text": "United States",
+          "is_correct": true
+        },
+        {
+          "text": "Japan",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "question_id": 5,
+      "text": "The average amount of goods and services produced from each hour of a worker's time is called",
+      "options": [
+        {
+          "text": "GDP.",
+          "is_correct": false
+        },
+        {
+          "text": "per capita GDP.",
+          "is_correct": false
+        },
+        {
+          "text": "productivity.",
+          "is_correct": true
+        },
+        {
+          "text": "technological knowledge.",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "question_id": 6,
+      "text": "Dilbert’s Incorporated produced 5,000,000 units of accounting software in 2004. At the start of 2005 the pointy-haired boss reduced total annual hours of employment from 10,000 to 8,000 and production was 4,800,000. These numbers indicate that productivity",
+      "options": [
+        {
+          "text": "fell by 4%.",
+          "is_correct": false
+        },
+        {
+          "text": "fell by 20%.",
+          "is_correct": false
+        },
+        {
+          "text": "rose by 12%.",
+          "is_correct": false
+        },
+        {
+          "text": "rose by 20%.",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "question_id": 7,
+      "text": "Dilbert’s Incorporated produced 6,000,000 units of software in 2005. At the start of 2006 the pointy- haired boss raised employment from 10,000 total annual hours to 14,000 annual hours and production was 7,000,000 units. Based on these numbers what happened to productivity?",
+      "options": [
+        {
+          "text": "It fell by about 16.7%.",
+          "is_correct": true
+        },
+        {
+          "text": "It stayed the same.",
+          "is_correct": false
+        },
+        {
+          "text": "It rose by about 16.7%.",
+          "is_correct": false
+        },
+        {
+          "text": "It rose by about 40%.",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "question_id": 8,
+      "text": "Which of the following is human capital?",
+      "options": [
+        {
+          "text": "textbooks",
+          "is_correct": false
+        },
+        {
+          "text": "hand held power tools",
+          "is_correct": false
+        },
+        {
+          "text": "understanding how to repair cars",
+          "is_correct": true
+        },
+        {
+          "text": "All of the above are correct.",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "question_id": 9,
+      "text": "Which of the following statements is true?",
+      "options": [
+        {
+          "text": "Natural resources per worker influence productivity only when those natural resources are renewable.",
+          "is_correct": false
+        },
+        {
+          "text": "The prices of most natural resources are stable or falling relative to other prices.",
+          "is_correct": true
+        },
+        {
+          "text": "Technology requires greater use of natural resources.",
+          "is_correct": false
+        },
+        {
+          "text": "The terms human capital and technological knowledge are used interchangeably.",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "question_id": 10,
+      "text": "Suppose over the last year that the price of iron ore increased from $1,200 a ton to $1,300 a ton. Over the same time a measure of the overall price level increased from 168 to 187. The price of iron ore increased by",
+      "options": [
+        {
+          "text": "less than inflation, and this means it became relatively less scarce.",
+          "is_correct": true
+        },
+        {
+          "text": "less than inflation, and this means it became scarcer.",
+          "is_correct": false
+        },
+        {
+          "text": "more than inflation, and this means it became scarcer.",
+          "is_correct": false
+        },
+        {
+          "text": "more than inflation, but this doesn’t necessarily mean that it become scarcer.",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "question_id": 11,
+      "text": "Human capital is",
+      "options": [
+        {
+          "text": "the same thing as technological knowledge.",
+          "is_correct": false
+        },
+        {
+          "text": "the same thing as labor.",
+          "is_correct": false
+        },
+        {
+          "text": "the tools and equipment operated by humans.",
+          "is_correct": false
+        },
+        {
+          "text": "knowledge and skills that workers have acquired.",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "question_id": 12,
+      "text": "If there are constant returns to scale, the production function can be written as",
+      "options": [
+        {
+          "text": "xY = 2xAF(L, K, H, N).",
+          "is_correct": false
+        },
+        {
+          "text": "Y/L = A F(xL, xK, xH, xN).",
+          "is_correct": false
+        },
+        {
+          "text": "Y/L = A F( 1, K/L, H/L, N/L).",
+          "is_correct": true
+        },
+        {
+          "text": "L = AF(Y, K, H, N). Scenario 25-1. An economy’s production form takes the form Y = AF(L, K, H, N).",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "question_id": 13,
+      "text": "Refer to Scenario 25-1. In the production function, which variable would increase in value as technology improved?",
+      "options": [
+        {
+          "text": "A",
+          "is_correct": true
+        },
+        {
+          "text": "K",
+          "is_correct": false
+        },
+        {
+          "text": "H",
+          "is_correct": false
+        },
+        {
+          "text": "N",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "question_id": 14,
+      "text": "Refer to Scenario 25-1. If the production function has the constant-returns-to-scale property, then if we know the values of A, K/L, H/L, and N/L, we also know the value of",
+      "options": [
+        {
+          "text": "output.",
+          "is_correct": false
+        },
+        {
+          "text": "labor productivity.",
+          "is_correct": false
+        },
+        {
+          "text": "A.",
+          "is_correct": false
+        },
+        {
+          "text": "All of the above are correct.",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "question_id": 15,
+      "text": "Consider three imaginary countries. In Old York, saving amounts to $3,000 and consumption amounts to $7,000; in New Frank, saving amounts to $2,000 and consumption amounts to $8,000; and in Ganzee, saving amounts to $4,500 and consumption amounts to $10,500. The saving rate is",
+      "options": [
+        {
+          "text": "higher in Old York than in Ganzee, and it is higher in Ganzee than in New Frank.",
+          "is_correct": false
+        },
+        {
+          "text": "higher in New Frank than in Ganzee, and it is higher in Ganzee than in Old York.",
+          "is_correct": false
+        },
+        {
+          "text": "higher in Ganzee than in New Frank, and it is the same in New Frank and Old York.",
+          "is_correct": false
+        },
+        {
+          "text": "higher in Old York than in New Frank, and it is the same in Old York and Ganzee.",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "question_id": 16,
+      "text": "Over the period 1960-1991,",
+      "options": [
+        {
+          "text": "South Korea had a higher growth rate than the United States because it had a higher ratio of investment to GDP.",
+          "is_correct": true
+        },
+        {
+          "text": "the United States had a higher growth rate than South Korea because it had a higher ratio of investment to GDP.",
+          "is_correct": false
+        },
+        {
+          "text": "South Korea had a higher growth rate than the United States even though it had a similar ratio of investment to GDP.",
+          "is_correct": false
+        },
+        {
+          "text": "the United States had a higher growth rate than South Korea even though it had a similar ratio of investment to real GDP.",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "question_id": 17,
+      "text": "All else equal, if there are diminishing returns, then which of the following is true if a country increases its capital by one unit?",
+      "options": [
+        {
+          "text": "Output will rise by more than it did when the previous unit was added.",
+          "is_correct": false
+        },
+        {
+          "text": "Output will rise but by less than it did when the previous unit was added.",
+          "is_correct": true
+        },
+        {
+          "text": "Output will fall by more than it did when the previous unit was added.",
+          "is_correct": false
+        },
+        {
+          "text": "Output will fall but by less then it did when the previous unit was added.",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "question_id": 18,
+      "text": "All else equal, if there are diminishing returns, then if a country raised its capital by 100 units last year and by 100 units this year,",
+      "options": [
+        {
+          "text": "the increase in output was greater for this year than last year.",
+          "is_correct": false
+        },
+        {
+          "text": "the increase in output was greater last year than this year.",
+          "is_correct": true
+        },
+        {
+          "text": "the increase in output is the same in both years.",
+          "is_correct": false
+        },
+        {
+          "text": "None of the above is necessarily correct.",
+          "is_correct": false
+        }
+      ]
+    }
+  ]
+}

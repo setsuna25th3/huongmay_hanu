@@ -1,0 +1,424 @@
+{
+  "tutorial_id": "tut4",
+  "tables": [],
+  "questions": [
+    {
+      "question_id": 1,
+      "text": "If the government's expenditures exceeded its receipts, it would likely",
+      "options": [
+        {
+          "text": "lend money to a bank or other financial intermediary.",
+          "is_correct": false
+        },
+        {
+          "text": "borrow money from a bank or other financial intermediary.",
+          "is_correct": false
+        },
+        {
+          "text": "buy bonds directly from the public.",
+          "is_correct": false
+        },
+        {
+          "text": "sell bonds directly to the public.",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "question_id": 2,
+      "text": "Which of the following is correct?",
+      "options": [
+        {
+          "text": "Some bonds have terms as short as a few months.",
+          "is_correct": true
+        },
+        {
+          "text": "Because they are so risky, junk bonds pay a low rate of interest.",
+          "is_correct": false
+        },
+        {
+          "text": "Corporations buy bonds to raise funds.",
+          "is_correct": false
+        },
+        {
+          "text": "All of the above are correct.",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "question_id": 3,
+      "text": "Which of the following is not correct?",
+      "options": [
+        {
+          "text": "If you buy a bond from a corporation, you can sell the bond to someone else before it matures.",
+          "is_correct": false
+        },
+        {
+          "text": "Term refers to the scheduling of periodic interest rate payments on a bond.",
+          "is_correct": true
+        },
+        {
+          "text": "A bond is an IOU.",
+          "is_correct": false
+        },
+        {
+          "text": "There are millions of different bonds in the U.S. economy.",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "question_id": 4,
+      "text": "ABC Co. sells newly issued bonds. JLG Co. sells newly issued stocks. Which company is raising funds in financial markets?",
+      "options": [
+        {
+          "text": "only ABC",
+          "is_correct": false
+        },
+        {
+          "text": "only JLG",
+          "is_correct": false
+        },
+        {
+          "text": "both ABC and JLG",
+          "is_correct": true
+        },
+        {
+          "text": "neither ABC nor JLG",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "question_id": 5,
+      "text": "Suppose the government finds a major defect in one of a company's products and demands that the product be taken off the market. We would expect that the",
+      "options": [
+        {
+          "text": "supply of existing shares of the stock and the price will both rise.",
+          "is_correct": false
+        },
+        {
+          "text": "supply of existing shares of the stock and the price will both fall.",
+          "is_correct": false
+        },
+        {
+          "text": "demand for existing shares of the stock and the price will both rise.",
+          "is_correct": false
+        },
+        {
+          "text": "demand for existing shares of the stock and the price will both fall.",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "question_id": 6,
+      "text": "In the Coen Brothers’ movie The Hudsucker Proxy the board of directors picks someone to run the company who they believe will make poor decisions. If things turn out as they plan,",
+      "options": [
+        {
+          "text": "the price of a share of stock in the Hudsucker corporation should decline as the demand for shares falls.",
+          "is_correct": true
+        },
+        {
+          "text": "the price of a share of stock in the Hudsucker corporation should rise as the demand for shares rises.",
+          "is_correct": false
+        },
+        {
+          "text": "the price of a share of stock in the Hudsucker corporation should decline as the supply of existing shares falls.",
+          "is_correct": false
+        },
+        {
+          "text": "the price of a share of stock in the Hudsucker corporation should rise as the supply of existing shares rises.",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "question_id": 7,
+      "text": "After a corporation issues stock, the stock",
+      "options": [
+        {
+          "text": "can not be resold.",
+          "is_correct": false
+        },
+        {
+          "text": "can be resold only if the corporation wants to buy it back.",
+          "is_correct": false
+        },
+        {
+          "text": "can be resold on exchanges; the resale will raise additional funds for the corporation.",
+          "is_correct": false
+        },
+        {
+          "text": "None of the above are correct.",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "question_id": 8,
+      "text": "Which of the following is both a financial institution and a financial intermediary?",
+      "options": [
+        {
+          "text": "banks",
+          "is_correct": true
+        },
+        {
+          "text": "stock exchanges",
+          "is_correct": false
+        },
+        {
+          "text": "the bond market",
+          "is_correct": false
+        },
+        {
+          "text": "All of the above are correct.",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "question_id": 9,
+      "text": "The primary advantage of mutual funds is that they",
+      "options": [
+        {
+          "text": "always make a return that \"beats the market.\"",
+          "is_correct": false
+        },
+        {
+          "text": "allow people with small amounts of money to diversify.",
+          "is_correct": true
+        },
+        {
+          "text": "provide customers with a medium of exchange.",
+          "is_correct": false
+        },
+        {
+          "text": "All of the above are correct.",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "question_id": 10,
+      "text": "Suppose a closed economy had public saving of $3 trillion and private saving of $2 trillion. What are national saving and investment for this country?",
+      "options": [
+        {
+          "text": "$5 trillion, $5 trillion",
+          "is_correct": true
+        },
+        {
+          "text": "$5 trillion, $2 trillion",
+          "is_correct": false
+        },
+        {
+          "text": "$1 trillion, $5 trillion",
+          "is_correct": false
+        },
+        {
+          "text": "$1 trillion, $2 trillion",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "question_id": 11,
+      "text": "For a closed economy, GDP is $11 trillion, consumption is $7 trillion, taxes are $3 trillion and the government runs a surplus of $1 trillion. What are private saving and national saving?",
+      "options": [
+        {
+          "text": "$4 trillion and $1 trillion, respectively",
+          "is_correct": false
+        },
+        {
+          "text": "$4 trillion and $5 trillion, respectively",
+          "is_correct": false
+        },
+        {
+          "text": "$1 trillion and $2 trillion, respectively",
+          "is_correct": true
+        },
+        {
+          "text": "$1 trillion and $1 trillion, respectively",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "question_id": 12,
+      "text": "If in a closed economy Y = $11 trillion, which of the following combinations would be consistent with national saving of $2.5 trillion?",
+      "options": [
+        {
+          "text": "C = $8 trillion, G = $.5 trillion",
+          "is_correct": true
+        },
+        {
+          "text": "C = $6.5 trillion, G = $3 trillion",
+          "is_correct": false
+        },
+        {
+          "text": "C = $8.5 trillion, G = $2 trillion",
+          "is_correct": false
+        },
+        {
+          "text": "C = $9 trillion, G = $.5 trillion",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "question_id": 13,
+      "text": "The country of Yokovia does not trade with any other country. Its GDP is $30 billion. Its government purchases $5 billion worth of goods and services each year, collects $7 billion in taxes, and provides $3 billion in transfer payments to households. Private saving in Yokovia amounts to $5 billion. What are consumption and investment in Yokovia?",
+      "options": [
+        {
+          "text": "$18 billion and $5 billion, respectively",
+          "is_correct": false
+        },
+        {
+          "text": "$21 billion and $4 billion, respectively",
+          "is_correct": true
+        },
+        {
+          "text": "$13 billion and $7 billion, respectively",
+          "is_correct": false
+        },
+        {
+          "text": "There is not enough information to answer the question.",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "question_id": 14,
+      "text": "Other things the same, when the interest rate rises,",
+      "options": [
+        {
+          "text": "people would want to lend more, making the supply of loanable funds increase.",
+          "is_correct": false
+        },
+        {
+          "text": "people would want to lend less, making the supply of loanable funds decrease.",
+          "is_correct": false
+        },
+        {
+          "text": "people would want to lend more, making the quantity of loanable funds supplied increase.",
+          "is_correct": true
+        },
+        {
+          "text": "people would want to lend less, making the quantity of loanable funds supplied decrease.",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "question_id": 15,
+      "text": "Which of the following could explain an increase in the interest rate and the equilibrium quantity of loanable funds?",
+      "options": [
+        {
+          "text": "The demand for loanable funds shifted rightward.",
+          "is_correct": true
+        },
+        {
+          "text": "The demand for loanable funds shifted leftward.",
+          "is_correct": false
+        },
+        {
+          "text": "The supply of loanable funds shifted rightward.",
+          "is_correct": false
+        },
+        {
+          "text": "The supply of loanable funds shifted leftward.",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "question_id": 16,
+      "text": "Which of the following statements is correct?",
+      "options": [
+        {
+          "text": "As a group, economists see no purpose in distinguishing between the nominal interest rate and the real interest rate.",
+          "is_correct": false
+        },
+        {
+          "text": "The interest rate that is usually reported is the nominal interest rate.",
+          "is_correct": true
+        },
+        {
+          "text": "If the nominal interest rate increases and the inflation rate remains unchanged, then the real interest rate decreases.",
+          "is_correct": false
+        },
+        {
+          "text": "All of the above are correct.",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "question_id": 17,
+      "text": "Suppose that Congress were to institute an investment tax credit. What would happen in the market for loanable funds?",
+      "options": [
+        {
+          "text": "The demand for loanable funds would shift left.",
+          "is_correct": false
+        },
+        {
+          "text": "The supply of loanable funds would shift left.",
+          "is_correct": false
+        },
+        {
+          "text": "The demand for loanable funds would shift right.",
+          "is_correct": true
+        },
+        {
+          "text": "The supply of loanable funds would shift right.",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "question_id": 18,
+      "text": "Suppose government expenditures on goods and services and net taxes both decrease, and expenditures fall by more than net taxes. The effects of these changes on the budget deficit cause",
+      "options": [
+        {
+          "text": "both the equilibrium interest rate and the equilibrium quantity of loanable funds to fall.",
+          "is_correct": false
+        },
+        {
+          "text": "both the equilibrium interest rate and the equilibrium quantity of loanable funds to rise.",
+          "is_correct": false
+        },
+        {
+          "text": "the equilibrium interest rate to rise and the equilibrium quantity of loanable funds to fall.",
+          "is_correct": false
+        },
+        {
+          "text": "the equilibrium interest rate to fall and the equilibrium quantity of loanable funds to rise.",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "question_id": 19,
+      "text": "A change in the tax laws that increases the supply of loanable funds will have a bigger effect on investment when",
+      "options": [
+        {
+          "text": "the demand for loanable funds is more elastic and the supply of loanable funds is more inelastic.",
+          "is_correct": true
+        },
+        {
+          "text": "the demand for loanable funds is more inelastic and the supply of loanable funds is more elastic.",
+          "is_correct": false
+        },
+        {
+          "text": "both the demand for and supply of loanable funds are more elastic.",
+          "is_correct": false
+        },
+        {
+          "text": "both the demand for and supply of loanable funds are more inelastic.",
+          "is_correct": false
+        }
+      ]
+    }
+  ]
+}

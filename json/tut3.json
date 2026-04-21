@@ -1,0 +1,365 @@
+{
+  "tutorial_id": "tut3",
+  "tables": [
+    {
+      "table_id": "table_28_2",
+      "title": "Table 28-2",
+      "html": "<pre style='margin:0; white-space:pre; font-family:Consolas,monospace; font-size:13px; line-height:1.35'>Table 28-2\n          2009 Labor Data for Wrexington\n          Number of adults                                                               20,000\n          Number of adults who are paid employees                                        8,000\n          Number of adults who work in their own businesses                              1,600\n          Number of adults who are unpaid workers in a family member’s business          1,000\n          Number of adults who were temporarily absent from their jobs because of an     400\n          earthquake\n          Number of adults who were waiting to be recalled to a job from which they      200\n          had been laid off\n          Number of adults who do not have a job, are available for work, and have       1,400\n          tried to find a job within the past four weeks\n          Number of adults who do not have a job, are available for work, but have not   780\n          tried to find a job within the past four weeks\n          Number of adults who are full-time students                                    3,000\n          Number of adults who are homemakers or retirees                                3,620</pre>"
+    }
+  ],
+  "questions": [
+    {
+      "question_id": 1,
+      "text": "Wages in excess of their equilibrium level help explain",
+      "options": [
+        {
+          "text": "structural unemployment but not the natural rate of unemployment.",
+          "is_correct": false
+        },
+        {
+          "text": "the natural rate of unemployment but not structural unemployment.",
+          "is_correct": false
+        },
+        {
+          "text": "both structural unemployment and the natural rate of unemployment.",
+          "is_correct": true
+        },
+        {
+          "text": "neither structural unemployment nor the natural rate of unemployment.",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "question_id": 2,
+      "text": "Which of the following is not a reason that paying efficiency wages may increase a firm's profit?",
+      "options": [
+        {
+          "text": "Efficiency wages increase worker health and therefore increase worker productivity.",
+          "is_correct": false
+        },
+        {
+          "text": "Efficiency wages decrease worker turnover and therefore decrease hiring and training costs.",
+          "is_correct": false
+        },
+        {
+          "text": "Efficiency wages decrease worker shirking and therefore increase worker productivity.",
+          "is_correct": false
+        },
+        {
+          "text": "Efficiency wages decrease a country's natural rate of unemployment and therefore increase its standard of living.",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "question_id": 3,
+      "text": "Who of the following would be included in the Bureau of Labor Statistics’ “unemployed” category?",
+      "options": [
+        {
+          "text": "Cemal, a full-time student who is not looking for work",
+          "is_correct": false
+        },
+        {
+          "text": "Halim, who is on temporary layoff",
+          "is_correct": true
+        },
+        {
+          "text": "Zeynep, who has retired and is not looking for work",
+          "is_correct": false
+        },
+        {
+          "text": "All of the above are correct.",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "question_id": 4,
+      "text": "Who is not included in the labor force by the Bureau of Labor Statistics?",
+      "options": [
+        {
+          "text": "Kawanari, who is on temporary layoff",
+          "is_correct": false
+        },
+        {
+          "text": "Takuji, who has retired and is not looking for work",
+          "is_correct": true
+        },
+        {
+          "text": "Izumi, who does not have a job, but has applied for several in the last week",
+          "is_correct": false
+        },
+        {
+          "text": "None of the above is correct.",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "question_id": 5,
+      "text": "A person who is counted as unemployed by the Bureau of Labor Statistics",
+      "options": [
+        {
+          "text": "is also in the labor force.",
+          "is_correct": false
+        },
+        {
+          "text": "must have recently looked for work or be on temporary layoff.",
+          "is_correct": false
+        },
+        {
+          "text": "be at least 16 years old.",
+          "is_correct": false
+        },
+        {
+          "text": "All of the above are correct.",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "question_id": 6,
+      "text": "The labor-force participation rate tells us the fraction of the population that",
+      "options": [
+        {
+          "text": "is able to participate in the labor market.",
+          "is_correct": false
+        },
+        {
+          "text": "has ever been employed.",
+          "is_correct": false
+        },
+        {
+          "text": "has chosen to participate in the labor market.",
+          "is_correct": true
+        },
+        {
+          "text": "has chosen not to participate in the labor market.",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "question_id": 7,
+      "text": "The labor-force participation rate is computed as",
+      "options": [
+        {
+          "text": "(Employed Adult Population) 100.",
+          "is_correct": false
+        },
+        {
+          "text": "(Employed Labor Force) 100.",
+          "is_correct": false
+        },
+        {
+          "text": "(Labor Force Adult Population) 100.",
+          "is_correct": true
+        },
+        {
+          "text": "(Adult Population Labor Force) 100.",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "question_id": 8,
+      "text": "Refer to Table 28-2. How many people were employed in Wrexington in 2009?",
+      "options": [
+        {
+          "text": "9,600",
+          "is_correct": false
+        },
+        {
+          "text": "10,600",
+          "is_correct": false
+        },
+        {
+          "text": "11,000",
+          "is_correct": true
+        },
+        {
+          "text": "11,200",
+          "is_correct": false
+        }
+      ],
+      "table_id": "table_28_2"
+    },
+    {
+      "question_id": 9,
+      "text": "Which of the following is not correct?",
+      "options": [
+        {
+          "text": "Most people who become unemployed will soon find jobs.",
+          "is_correct": false
+        },
+        {
+          "text": "In an ideal labor market, wages would adjust to ensure that all workers are always fully employed.",
+          "is_correct": false
+        },
+        {
+          "text": "The unemployment rate occasionally falls to zero.",
+          "is_correct": true
+        },
+        {
+          "text": "There are always some workers without jobs, even when the overall economy is doing well.",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "question_id": 10,
+      "text": "Meredith is looking for work as a computer programmer. Although her prospects are good, she hasn't yet taken a job. Julie is looking for work in a steel mill. Every time she shows up for an interview, there are more people looking for work than their are openings. Someone waiting in line with her tells her it has been that way for a long time.",
+      "options": [
+        {
+          "text": "Meredith and Julie are both frictionally unemployed.",
+          "is_correct": false
+        },
+        {
+          "text": "Meredith and Julie are both structurally unemployed.",
+          "is_correct": false
+        },
+        {
+          "text": "Meredith is frictionally unemployed, and Julie is structurally unemployed.",
+          "is_correct": true
+        },
+        {
+          "text": "Meredith is structurally unemployed, and Julie is frictionally unemployed.",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "question_id": 11,
+      "text": "From time to time, the demand for workers has risen in one region of the United States and fallen in another. This illustrates",
+      "options": [
+        {
+          "text": "frictional unemployment created by efficiency wages.",
+          "is_correct": false
+        },
+        {
+          "text": "structural unemployment created by efficiency wages.",
+          "is_correct": false
+        },
+        {
+          "text": "frictional unemployment created by sectoral shifts.",
+          "is_correct": true
+        },
+        {
+          "text": "structural unemployment created by sectoral shifts.",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "question_id": 12,
+      "text": "Which of the following is not a cause of frictional unemployment?",
+      "options": [
+        {
+          "text": "the destruction of manufacturing jobs",
+          "is_correct": false
+        },
+        {
+          "text": "a worker leaving a job to find one with better benefits",
+          "is_correct": false
+        },
+        {
+          "text": "minimum-wage laws",
+          "is_correct": true
+        },
+        {
+          "text": "unemployment insurance",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "question_id": 13,
+      "text": "Which of the following does not help reduce frictional unemployment?",
+      "options": [
+        {
+          "text": "government-run employment agencies",
+          "is_correct": false
+        },
+        {
+          "text": "public training programs",
+          "is_correct": false
+        },
+        {
+          "text": "unemployment insurance",
+          "is_correct": true
+        },
+        {
+          "text": "All of the above help reduce frictional unemployment.",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "question_id": 14,
+      "text": "Of the following groups, who is eligible for unemployment insurance benefits?",
+      "options": [
+        {
+          "text": "the unemployed who quit their jobs",
+          "is_correct": false
+        },
+        {
+          "text": "the unemployed who were laid off because their previous employers no longer needed their skills",
+          "is_correct": true
+        },
+        {
+          "text": "the unemployed who were fired for cause",
+          "is_correct": false
+        },
+        {
+          "text": "the unemployed who just entered the labor force",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "question_id": 15,
+      "text": "When a minimum-wage law forces the wage to remain above the level that balances supply and demand, there are",
+      "options": [
+        {
+          "text": "more workers willing to work than there are jobs, so some workers are unemployed.",
+          "is_correct": true
+        },
+        {
+          "text": "fewer workers willing to work than there are jobs, so some workers are unemployed.",
+          "is_correct": false
+        },
+        {
+          "text": "more workers willing to work than there are jobs, so unemployment decreases.",
+          "is_correct": false
+        },
+        {
+          "text": "fewer workers willing to work than there are jobs, so unemployment decreases.",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "question_id": 16,
+      "text": "If the minimum wage were currently above the equilibrium wage, than a decrease in the minimum wage would",
+      "options": [
+        {
+          "text": "increase both the quantity demanded and the quantity supplied of labor.",
+          "is_correct": false
+        },
+        {
+          "text": "decrease both the quantity demanded and the quantity supplied of labor.",
+          "is_correct": false
+        },
+        {
+          "text": "increase the quantity of labor demanded but decrease the quantity of labor supplied.",
+          "is_correct": true
+        },
+        {
+          "text": "decrease the quantity of labor demanded but increase the quantity of labor supplied.",
+          "is_correct": false
+        }
+      ]
+    }
+  ]
+}

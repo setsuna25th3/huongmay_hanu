@@ -1,0 +1,511 @@
+<!DOCTYPE html>
+<html lang="vi">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Macroeconomics Quiz Hub</title>
+  <style>
+    * { box-sizing: border-box; }
+    body {
+      margin: 0;
+      font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+      background: linear-gradient(120deg, #4c6ef5 0%, #6f42c1 100%);
+      min-height: 100vh;
+      color: #1f2937;
+      padding: 20px;
+    }
+
+    .wrap {
+      max-width: 1040px;
+      margin: 0 auto;
+      background: #ffffff;
+      border-radius: 16px;
+      box-shadow: 0 20px 60px rgba(0, 0, 0, 0.25);
+      padding: 28px;
+    }
+
+    .title {
+      text-align: center;
+      margin-bottom: 24px;
+      border-bottom: 3px solid #4c6ef5;
+      padding-bottom: 14px;
+    }
+
+    .title h1 {
+      margin: 0;
+      font-size: 2rem;
+      color: #111827;
+    }
+
+    .title p {
+      margin: 10px 0 0;
+      color: #4b5563;
+    }
+
+    .grid {
+      display: grid;
+      grid-template-columns: repeat(auto-fit, minmax(160px, 1fr));
+      gap: 12px;
+      margin-bottom: 20px;
+    }
+
+    .tut-link {
+      display: inline-block;
+      text-decoration: none;
+      text-align: center;
+      padding: 12px;
+      border-radius: 10px;
+      font-weight: 700;
+      color: #1f2937;
+      background: #eef2ff;
+      border: 1px solid #c7d2fe;
+      transition: all 0.2s ease;
+    }
+
+    .tut-link:hover {
+      background: #e0e7ff;
+      transform: translateY(-1px);
+    }
+
+    .random-box {
+      background: #f8fafc;
+      border: 1px solid #dbeafe;
+      border-radius: 12px;
+      padding: 14px;
+      margin-bottom: 20px;
+    }
+
+    .btn {
+      border: none;
+      border-radius: 10px;
+      padding: 12px 16px;
+      font-weight: 700;
+      cursor: pointer;
+      transition: all 0.2s ease;
+    }
+
+    .btn-primary {
+      color: #fff;
+      background: linear-gradient(135deg, #4c6ef5, #6f42c1);
+    }
+
+    .btn-primary:hover { transform: translateY(-1px); }
+
+    .btn-secondary {
+      color: #111827;
+      background: #e5e7eb;
+    }
+
+    .btn-secondary:disabled {
+      opacity: 0.6;
+      cursor: not-allowed;
+    }
+
+    .muted {
+      color: #6b7280;
+      font-size: 0.95rem;
+    }
+
+    .hidden { display: none; }
+
+    .quiz-shell {
+      margin-top: 12px;
+      border: 1px solid #e5e7eb;
+      border-radius: 12px;
+      padding: 16px;
+      background: #fff;
+    }
+
+    .progress {
+      width: 100%;
+      height: 8px;
+      background: #e5e7eb;
+      border-radius: 999px;
+      overflow: hidden;
+      margin-bottom: 14px;
+    }
+
+    .progress-bar {
+      height: 100%;
+      width: 0;
+      background: linear-gradient(90deg, #4c6ef5, #6f42c1);
+      transition: width 0.2s ease;
+    }
+
+    .q-meta {
+      color: #4c6ef5;
+      font-size: 0.9rem;
+      font-weight: 700;
+      margin-bottom: 8px;
+    }
+
+    .q-text {
+      font-size: 1.15rem;
+      font-weight: 600;
+      margin-bottom: 12px;
+      line-height: 1.55;
+    }
+
+    .table-wrap {
+      overflow-x: auto;
+      border: 1px solid #d1d5db;
+      border-radius: 8px;
+      padding: 8px;
+      margin-bottom: 14px;
+      background: #f9fafb;
+    }
+
+    .table-wrap table {
+      border-collapse: collapse;
+      min-width: 620px;
+    }
+
+    .table-wrap th,
+    .table-wrap td {
+      border: 1px solid #d1d5db;
+      padding: 6px 8px;
+      text-align: left;
+    }
+
+    .options {
+      display: flex;
+      flex-direction: column;
+      gap: 10px;
+    }
+
+    .opt {
+      display: flex;
+      gap: 10px;
+      align-items: flex-start;
+      border: 2px solid #e5e7eb;
+      border-radius: 8px;
+      background: #fff;
+      padding: 10px;
+      cursor: pointer;
+    }
+
+    .opt.selected { border-color: #4c6ef5; background: #eef2ff; }
+    .opt.correct { border-color: #16a34a; background: #dcfce7; }
+    .opt.incorrect { border-color: #dc2626; background: #fee2e2; }
+
+    .controls {
+      display: flex;
+      gap: 10px;
+      margin-top: 14px;
+      flex-wrap: wrap;
+    }
+
+    .status {
+      margin-top: 12px;
+      padding: 10px;
+      border-radius: 8px;
+      font-weight: 700;
+    }
+
+    .status.ok { background: #dcfce7; color: #166534; border: 1px solid #86efac; }
+    .status.bad { background: #fee2e2; color: #991b1b; border: 1px solid #fca5a5; }
+    .status.warn { background: #fef3c7; color: #92400e; border: 1px solid #fcd34d; }
+
+    .stats {
+      margin-top: 12px;
+      display: grid;
+      grid-template-columns: repeat(4, minmax(0, 1fr));
+      gap: 10px;
+    }
+
+    .stat {
+      text-align: center;
+      background: #f8fafc;
+      border: 1px solid #e5e7eb;
+      border-radius: 8px;
+      padding: 10px;
+    }
+
+    .stat .n { font-size: 1.5rem; color: #4c6ef5; font-weight: 800; }
+
+    @media (max-width: 720px) {
+      .stats { grid-template-columns: repeat(2, minmax(0, 1fr)); }
+    }
+  </style>
+</head>
+<body>
+  <div class="wrap">
+    <div class="title">
+      <h1>Macroeconomics Quiz Hub</h1>
+      <p>Chọn TUT để làm theo chương hoặc làm bộ random 50 câu từ TUT 1-9.</p>
+    </div>
+
+    <div class="grid">
+      <a class="tut-link" href="quiz1.html">TUT 1</a>
+      <a class="tut-link" href="quiz2.html">TUT 2</a>
+      <a class="tut-link" href="quiz3.html">TUT 3</a>
+      <a class="tut-link" href="quiz4.html">TUT 4</a>
+      <a class="tut-link" href="quiz5.html">TUT 5</a>
+      <a class="tut-link" href="quiz6.html">TUT 6</a>
+      <a class="tut-link" href="quiz7.html">TUT 7</a>
+      <a class="tut-link" href="quiz8.html">TUT 8</a>
+      <a class="tut-link" href="quiz9.html">TUT 9</a>
+    </div>
+
+    <div class="random-box">
+      <button id="startRandom" class="btn btn-primary">Làm ngẫu nhiên 50 câu bất kỳ</button>
+      <p class="muted" style="margin:10px 0 0;">
+        Lưu ý: điểm sẽ chính xác khi dữ liệu trong file JSON đã có is_correct đúng/sai đầy đủ.
+      </p>
+    </div>
+
+    <div id="randomQuiz" class="quiz-shell hidden">
+      <div class="progress"><div id="bar" class="progress-bar"></div></div>
+      <div id="qMeta" class="q-meta"></div>
+      <div id="qText" class="q-text"></div>
+      <div id="qTable" class="table-wrap hidden"></div>
+      <div id="qOptions" class="options"></div>
+
+      <div class="controls">
+        <button id="prevBtn" class="btn btn-secondary" type="button">Previous</button>
+        <button id="submitBtn" class="btn btn-primary" type="button">Submit</button>
+        <button id="nextBtn" class="btn btn-secondary" type="button">Next</button>
+      </div>
+
+      <div id="statusBox" class="status hidden"></div>
+
+      <div class="stats">
+        <div class="stat"><div id="sCurrent" class="n">1</div><div>Current</div></div>
+        <div class="stat"><div id="sDone" class="n">0</div><div>Submitted</div></div>
+        <div class="stat"><div id="sCorrect" class="n">0</div><div>Correct</div></div>
+        <div class="stat"><div id="sPercent" class="n">0%</div><div>Score</div></div>
+      </div>
+    </div>
+  </div>
+
+  <script>
+    const tutFiles = [
+      "json/tut1.json",
+      "json/tut2.json",
+      "json/tut3.json",
+      "json/tut4.json",
+      "json/tut5.json",
+      "json/tut6.json",
+      "json/tut7.json",
+      "json/tut8.json",
+      "json/tut9.json"
+    ];
+
+    let pool = [];
+    let currentIndex = 0;
+    let answers = {};
+    let submitted = {};
+
+    const randomQuizEl = document.getElementById("randomQuiz");
+    const qMeta = document.getElementById("qMeta");
+    const qText = document.getElementById("qText");
+    const qTable = document.getElementById("qTable");
+    const qOptions = document.getElementById("qOptions");
+    const statusBox = document.getElementById("statusBox");
+
+    const startRandomBtn = document.getElementById("startRandom");
+    const prevBtn = document.getElementById("prevBtn");
+    const submitBtn = document.getElementById("submitBtn");
+    const nextBtn = document.getElementById("nextBtn");
+
+    function shuffle(arr) {
+      const a = [...arr];
+      for (let i = a.length - 1; i > 0; i--) {
+        const j = Math.floor(Math.random() * (i + 1));
+        [a[i], a[j]] = [a[j], a[i]];
+      }
+      return a;
+    }
+
+    function normalize(raw) {
+      if (Array.isArray(raw)) return { questions: raw, tables: [] };
+      if (raw && Array.isArray(raw.questions)) {
+        return { questions: raw.questions, tables: Array.isArray(raw.tables) ? raw.tables : [] };
+      }
+      return { questions: [], tables: [] };
+    }
+
+    async function loadAllQuestions() {
+      const all = [];
+
+      for (let idx = 0; idx < tutFiles.length; idx++) {
+        const file = tutFiles[idx];
+        const tutNo = idx + 1;
+
+        const res = await fetch(file, { cache: "no-store" });
+        if (!res.ok) {
+          throw new Error("Không đọc được " + file + " (HTTP " + res.status + ")");
+        }
+
+        const raw = await res.json();
+        const norm = normalize(raw);
+        const tableMap = {};
+
+        norm.tables.forEach((t) => {
+          if (t && t.table_id) tableMap[t.table_id] = t;
+        });
+
+        norm.questions.forEach((q) => {
+          if (!q || !Array.isArray(q.options) || q.options.length < 2) return;
+          const item = { ...q, sourceTut: tutNo };
+          if (q.table_id && tableMap[q.table_id] && tableMap[q.table_id].html) {
+            item._tableHtml = tableMap[q.table_id].html;
+            item._tableTitle = tableMap[q.table_id].title || "";
+          }
+          all.push(item);
+        });
+      }
+
+      return all;
+    }
+
+    function initStates(list) {
+      answers = {};
+      submitted = {};
+      list.forEach((_, i) => {
+        answers[i] = null;
+        submitted[i] = false;
+      });
+    }
+
+    function render() {
+      if (!pool.length) return;
+
+      const q = pool[currentIndex];
+      const isDone = submitted[currentIndex];
+
+      qMeta.textContent = "Question " + (currentIndex + 1) + " / " + pool.length + "  |  TUT " + q.sourceTut + "  |  ID " + q.question_id;
+      qText.textContent = q.text;
+
+      if (q._tableHtml) {
+        qTable.classList.remove("hidden");
+        qTable.innerHTML = (q._tableTitle ? ("<div style='font-weight:700; margin-bottom:8px;'>" + q._tableTitle + "</div>") : "") + q._tableHtml;
+      } else {
+        qTable.classList.add("hidden");
+        qTable.innerHTML = "";
+      }
+
+      qOptions.innerHTML = "";
+
+      q.options.forEach((opt, optIndex) => {
+        const label = document.createElement("label");
+        label.className = "opt";
+
+        const selected = answers[currentIndex] === optIndex;
+        if (selected && !isDone) label.classList.add("selected");
+
+        if (isDone) {
+          if (selected && opt.is_correct) label.classList.add("correct");
+          else if (selected && !opt.is_correct) label.classList.add("incorrect");
+          else if (!selected && opt.is_correct) label.classList.add("correct");
+        }
+
+        const radio = document.createElement("input");
+        radio.type = "radio";
+        radio.name = "opt";
+        radio.checked = selected;
+        radio.disabled = isDone;
+        radio.addEventListener("change", () => {
+          answers[currentIndex] = optIndex;
+          render();
+        });
+
+        const span = document.createElement("span");
+        span.textContent = opt.text;
+
+        label.appendChild(radio);
+        label.appendChild(span);
+        qOptions.appendChild(label);
+      });
+
+      statusBox.classList.add("hidden");
+      statusBox.textContent = "";
+      statusBox.className = "status hidden";
+
+      if (isDone) {
+        const correctCount = q.options.filter((o) => o.is_correct).length;
+
+        if (correctCount !== 1) {
+          statusBox.className = "status warn";
+          statusBox.textContent = "Câu này chưa có đáp án đúng hợp lệ trong JSON (cần đúng 1 đáp án có is_correct=true).";
+          statusBox.classList.remove("hidden");
+        } else {
+          const chosen = answers[currentIndex];
+          const ok = chosen !== null && q.options[chosen] && q.options[chosen].is_correct;
+          statusBox.className = ok ? "status ok" : "status bad";
+          statusBox.textContent = ok ? "Chính xác." : "Chưa đúng. Đáp án đúng đã được tô màu xanh.";
+          statusBox.classList.remove("hidden");
+        }
+      }
+
+      submitBtn.disabled = isDone;
+      document.getElementById("bar").style.width = (((currentIndex + 1) / pool.length) * 100).toFixed(2) + "%";
+
+      const done = Object.values(submitted).filter(Boolean).length;
+      let correct = 0;
+      Object.keys(submitted).forEach((k) => {
+        if (!submitted[k]) return;
+        const i = Number(k);
+        const ans = answers[i];
+        if (ans === null) return;
+        const qq = pool[i];
+        if (qq.options[ans] && qq.options[ans].is_correct) correct += 1;
+      });
+
+      document.getElementById("sCurrent").textContent = String(currentIndex + 1);
+      document.getElementById("sDone").textContent = String(done);
+      document.getElementById("sCorrect").textContent = String(correct);
+      const pct = done ? Math.round((correct / done) * 100) : 0;
+      document.getElementById("sPercent").textContent = pct + "%";
+    }
+
+    async function startRandomQuiz() {
+      startRandomBtn.disabled = true;
+      startRandomBtn.textContent = "Đang tải dữ liệu...";
+
+      try {
+        const all = await loadAllQuestions();
+        if (!all.length) throw new Error("Không tìm thấy câu hỏi hợp lệ trong các file TUT.");
+
+        pool = shuffle(all).slice(0, Math.min(50, all.length));
+        currentIndex = 0;
+        initStates(pool);
+
+        randomQuizEl.classList.remove("hidden");
+        render();
+
+        randomQuizEl.scrollIntoView({ behavior: "smooth", block: "start" });
+      } catch (err) {
+        alert("Không thể tạo quiz ngẫu nhiên: " + err.message + "\nNếu đang mở file trực tiếp, hãy dùng Live Server.");
+      } finally {
+        startRandomBtn.disabled = false;
+        startRandomBtn.textContent = "Làm quiz ngẫu nhiên 50 câu (TUT 1-9)";
+      }
+    }
+
+    startRandomBtn.addEventListener("click", startRandomQuiz);
+
+    prevBtn.addEventListener("click", () => {
+      if (!pool.length) return;
+      currentIndex = (currentIndex - 1 + pool.length) % pool.length;
+      render();
+    });
+
+    nextBtn.addEventListener("click", () => {
+      if (!pool.length) return;
+      currentIndex = (currentIndex + 1) % pool.length;
+      render();
+    });
+
+    submitBtn.addEventListener("click", () => {
+      if (!pool.length) return;
+      if (answers[currentIndex] === null) {
+        alert("Hãy chọn đáp án.");
+        return;
+      }
+      submitted[currentIndex] = true;
+      render();
+    });
+  </script>
+</body>
+</html>

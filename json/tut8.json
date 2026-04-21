@@ -1,0 +1,358 @@
+{
+  "tutorial_id": "tut8",
+  "tables": [],
+  "questions": [
+    {
+      "question_id": 1,
+      "text": "According to the liquidity preference theory, an increase in the overall price level of 10 percent",
+      "options": [
+        {
+          "text": "increases the equilibrium interest rate, which in turn decreases the quantity of goods and services demanded.",
+          "is_correct": true
+        },
+        {
+          "text": "decreases the equilibrium interest rate, which in turn increases the quantity of goods and services demanded.",
+          "is_correct": false
+        },
+        {
+          "text": "increases the quantity of money supplied by 10 percent, leaving the interest rate and the quantity of goods and services demanded unchanged.",
+          "is_correct": false
+        },
+        {
+          "text": "decreases the quantity of money demanded by 10 percent, leaving the interest rate and the quantity of goods and services demanded unchanged.",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "question_id": 2,
+      "text": "In which of the following cases would the quantity of money demanded be largest?",
+      "options": [
+        {
+          "text": "r = 0.03, P = 1.4",
+          "is_correct": true
+        },
+        {
+          "text": "r = 0.03, P = 1.2",
+          "is_correct": false
+        },
+        {
+          "text": "r = 0.04, P = 1.2",
+          "is_correct": false
+        },
+        {
+          "text": "r = 0.06, P = 1.0",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "question_id": 3,
+      "text": "According to the theory of liquidity preference, which variable adjusts to balance the supply and demand for money?",
+      "options": [
+        {
+          "text": "interest rate",
+          "is_correct": true
+        },
+        {
+          "text": "money supply",
+          "is_correct": false
+        },
+        {
+          "text": "quantity of output",
+          "is_correct": false
+        },
+        {
+          "text": "price level Figure 34-2. On the left-hand graph, MS represents the supply of money and MD represents the demand for money; on the right-hand graph, AD represents aggregate demand. The usual quantities are measured along the axes of both graphs.",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "question_id": 4,
+      "text": "Refer to Figure 34-2. A decrease in Y from Y1 to Y2 is explained as follows:",
+      "options": [
+        {
+          "text": "The Federal Reserve increases the money supply, causing the money-demand curve to shift from MD1 to MD2; this shift of MD causes r to increase from r1 to r2; and this increase in r causes Y to decrease from Y1 to Y2.",
+          "is_correct": false
+        },
+        {
+          "text": "An increase in P from P1 to P2 causes the money-demand curve to shift from MD1 to MD2; this shift of MD causes r to increase from r1 to r2; and this increase in r causes Y to decrease from Y1 to Y2.",
+          "is_correct": true
+        },
+        {
+          "text": "A decrease in P from P2 to P1 causes the money-demand curve to shift from MD1 to MD2; this shift of MD causes r to increase from r1 to r2; and this increase in r causes Y to decrease from Y1 to Y2.",
+          "is_correct": false
+        },
+        {
+          "text": "An increase in the price level causes the money-demand curve to shift from MD2 to MD1; this shift of MD causes r to decrease from r2 to r1; and this decrease in r causes Y to decrease from Y1 to Y2.",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "question_id": 5,
+      "text": "Refer to Figure 34-2. As we move from one point to another along the money-demand curve MD1,",
+      "options": [
+        {
+          "text": "the price level is held fixed at P1.",
+          "is_correct": true
+        },
+        {
+          "text": "the interest rate is held fixed at r1.",
+          "is_correct": false
+        },
+        {
+          "text": "the money supply is changing so as to keep the money market in equilibrium.",
+          "is_correct": false
+        },
+        {
+          "text": "the expected inflation rate is changing so as to keep the real interest rate constant.",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "question_id": 6,
+      "text": "Refer to Figure 34-2. Assume the money market is always in equilibrium, and suppose r1 = 0.08; r2 = 0.12; Y1 = 13,000; Y2 = 10,000; P1 = 1.0; and P2 = 1.2. Which of the following statements is correct? When P = P2,",
+      "options": [
+        {
+          "text": "investment is lower than it is when P = P1.",
+          "is_correct": true
+        },
+        {
+          "text": "nominal output is higher than it is when P = P1.",
+          "is_correct": false
+        },
+        {
+          "text": "the expected rate of inflation is higher than it is when P = P1.",
+          "is_correct": false
+        },
+        {
+          "text": "the velocity of money is higher than it is when P = P1.",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "question_id": 7,
+      "text": "According to liquidity preference theory, if the quantity of money demanded is greater than the quantity supplied, then the interest rate will",
+      "options": [
+        {
+          "text": "increase and the quantity of money demanded will decrease.",
+          "is_correct": true
+        },
+        {
+          "text": "increase and the quantity of money demanded will increase.",
+          "is_correct": false
+        },
+        {
+          "text": "decrease and the quantity of money demanded will decrease.",
+          "is_correct": false
+        },
+        {
+          "text": "decrease and the quantity of money demanded will increase.",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "question_id": 8,
+      "text": "Which of the following events would shift money demand to the right?",
+      "options": [
+        {
+          "text": "an increase in the interest rate or an increase in the price level",
+          "is_correct": false
+        },
+        {
+          "text": "an increase in the interest rate, but not an increase in the price level",
+          "is_correct": false
+        },
+        {
+          "text": "an increase in the price level, but not an increase in the interest rate",
+          "is_correct": true
+        },
+        {
+          "text": "neither an increase in the interest rate nor an increase in the price level",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "question_id": 9,
+      "text": "Which of the following events would shift money demand to the left?",
+      "options": [
+        {
+          "text": "an increase in the interest rate or an increase in the price level",
+          "is_correct": false
+        },
+        {
+          "text": "an increase in the interest rate, but not an increase in the price level",
+          "is_correct": false
+        },
+        {
+          "text": "an increase in the price level, but not an increase in the interest rate",
+          "is_correct": false
+        },
+        {
+          "text": "neither an increase in the interest rate nor an increase in the price level",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "question_id": 10,
+      "text": "The multiplier for changes in government spending is calculated as",
+      "options": [
+        {
+          "text": "MPC.",
+          "is_correct": false
+        },
+        {
+          "text": "1 - MPC.",
+          "is_correct": false
+        },
+        {
+          "text": "1/MPC.",
+          "is_correct": false
+        },
+        {
+          "text": "1/(1 - MPC). Figure 34-4. On the figure, MS represents money supply and MD represents money demand.",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "question_id": 11,
+      "text": "Refer to Figure 34-4. A shift of the money-demand curve from MD2 to MD1 is consistent with which of the following sets of events?",
+      "options": [
+        {
+          "text": "The government cuts taxes, resulting in an increase in people’s incomes.",
+          "is_correct": false
+        },
+        {
+          "text": "The government reduces government spending, resulting in a decrease in people’s incomes.",
+          "is_correct": true
+        },
+        {
+          "text": "The Federal Reserve increases the supply of money, which decreases the interest rate.",
+          "is_correct": false
+        },
+        {
+          "text": "All of the above are correct.",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "question_id": 12,
+      "text": "An increase in government spending initially and primarily shifts",
+      "options": [
+        {
+          "text": "aggregate demand to the right.",
+          "is_correct": true
+        },
+        {
+          "text": "aggregate demand to the left.",
+          "is_correct": false
+        },
+        {
+          "text": "aggregate supply to the right.",
+          "is_correct": false
+        },
+        {
+          "text": "neither aggregate demand nor aggregate supply in either direction.",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "question_id": 14,
+      "text": "If taxes",
+      "options": [
+        {
+          "text": "increase, then consumption increases, and aggregate demand shifts rightward.",
+          "is_correct": false
+        },
+        {
+          "text": "increase, then consumption decreases, and aggregate demand shifts leftward.",
+          "is_correct": true
+        },
+        {
+          "text": "decrease, then consumption increases, and aggregate demand shifts leftward.",
+          "is_correct": false
+        },
+        {
+          "text": "decrease, then consumption decreases, and aggregate demand shifts rightward.",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "question_id": 17,
+      "text": "If businesses and consumers become pessimistic, the Federal Reserve can attempt to reduce the impact on the price level and real GDP by",
+      "options": [
+        {
+          "text": "increasing the money supply, which raises interest rates.",
+          "is_correct": false
+        },
+        {
+          "text": "increasing the money supply, which lowers interest rates.",
+          "is_correct": true
+        },
+        {
+          "text": "decreasing the money supply, which raises interest rates.",
+          "is_correct": false
+        },
+        {
+          "text": "decreasing the money supply, which lowers interest rates.",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "question_id": 18,
+      "text": "Which of the following policies would be advocated by proponents of stabilization policy when the economy is experiencing severe unemployment?",
+      "options": [
+        {
+          "text": "a decrease in the money supply",
+          "is_correct": false
+        },
+        {
+          "text": "a reduction in tax rates",
+          "is_correct": true
+        },
+        {
+          "text": "a decrease in government purchases",
+          "is_correct": false
+        },
+        {
+          "text": "None of the above is correct. Figure 34-6.",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "question_id": 19,
+      "text": "Refer to Figure 34-6. Which of the following is correct?",
+      "options": [
+        {
+          "text": "Unemployment rises as the economy moves from point a to point b.",
+          "is_correct": false
+        },
+        {
+          "text": "Either fiscal or monetary policy could be used to move the economy from point b to point a.",
+          "is_correct": false
+        },
+        {
+          "text": "If the economy is left alone, then as the economy moves from point b to long-run equilibrium, the price level will fall farther.",
+          "is_correct": false
+        },
+        {
+          "text": "All of the above are correct.",
+          "is_correct": true
+        }
+      ]
+    }
+  ]
+}

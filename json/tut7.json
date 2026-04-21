@@ -1,0 +1,424 @@
+{
+  "tutorial_id": "tut7",
+  "tables": [],
+  "questions": [
+    {
+      "question_id": 1,
+      "text": "During recessions investment",
+      "options": [
+        {
+          "text": "falls by a larger percentage than GDP.",
+          "is_correct": true
+        },
+        {
+          "text": "falls by about the same percentage as GDP.",
+          "is_correct": false
+        },
+        {
+          "text": "falls by a smaller percentage than GDP.",
+          "is_correct": false
+        },
+        {
+          "text": "falls but the percentage change is sometimes much larger and sometimes much smaller.",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "question_id": 2,
+      "text": "According to classical macroeconomic theory, changes in the money supply affect",
+      "options": [
+        {
+          "text": "nominal variables and real variables.",
+          "is_correct": false
+        },
+        {
+          "text": "nominal variables, but not real variables.",
+          "is_correct": true
+        },
+        {
+          "text": "real variables, but not nominal variables.",
+          "is_correct": false
+        },
+        {
+          "text": "neither nominal nor real variables.",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "question_id": 3,
+      "text": "The aggregate demand and aggregate supply graph has",
+      "options": [
+        {
+          "text": "the price level on the horizontal axis. The price level can be measured by the GDP deflator.",
+          "is_correct": false
+        },
+        {
+          "text": "the price level on the horizontal axis. The price level can be measured by real GDP.",
+          "is_correct": false
+        },
+        {
+          "text": "the price level on the vertical axis. The price level can be measured by the GDP deflator.",
+          "is_correct": true
+        },
+        {
+          "text": "the price level on the vertical axis. The price level can be measured by GDP.",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "question_id": 4,
+      "text": "The model of aggregate demand and aggregate supply explains the relationship between",
+      "options": [
+        {
+          "text": "the price and quantity of a particular good.",
+          "is_correct": false
+        },
+        {
+          "text": "unemployment and output.",
+          "is_correct": false
+        },
+        {
+          "text": "wages and employment.",
+          "is_correct": false
+        },
+        {
+          "text": "real GDP and the price level.",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "question_id": 5,
+      "text": "Other things the same, a fall in an economy's overall level of prices tends to",
+      "options": [
+        {
+          "text": "raise both the quantity demanded and supplied of goods and services.",
+          "is_correct": false
+        },
+        {
+          "text": "raise the quantity demanded of goods and services, but lower the quantity supplied.",
+          "is_correct": true
+        },
+        {
+          "text": "lower the quantity demanded of goods and services, but raise the quantity supplied.",
+          "is_correct": false
+        },
+        {
+          "text": "lower both the quantity demanded and the quantity supplied of goods and services.",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "question_id": 6,
+      "text": "In the context of aggregate demand and aggregate supply, the wealth effect refers to the idea that, when the price level decreases, the real wealth of households",
+      "options": [
+        {
+          "text": "increases and as a result consumption spending increases. This effect contributes to the downward slope of the aggregate-demand curve.",
+          "is_correct": true
+        },
+        {
+          "text": "decreases and as a result consumption spending increases. This effect contributes to the upward slope of the aggregate-supply curve.",
+          "is_correct": false
+        },
+        {
+          "text": "increases and as a result households increase their money holdings; in turn, interest rates increase and investment spending decreases. This effect contributes to the downward slope of the aggregate-demand curve.",
+          "is_correct": false
+        },
+        {
+          "text": "decreases and as a result households increase their money holdings; in turn, interest rates increase and investment spending decreases. This effect contributes to the upward slope of the aggregate-supply curve.",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "question_id": 7,
+      "text": "Other things the same, if the price level falls, people",
+      "options": [
+        {
+          "text": "increase foreign bond purchases, so the supply of dollars in the market for foreign- currency exchange increases.",
+          "is_correct": true
+        },
+        {
+          "text": "increase foreign bond purchases, so the supply of dollars in the market for foreign- currency exchange decreases.",
+          "is_correct": false
+        },
+        {
+          "text": "decrease foreign bond purchases, so the supply of dollars in market for foreign- currency exchange increases.",
+          "is_correct": false
+        },
+        {
+          "text": "decrease foreign bond purchases, so the supply of dollars in the market for foreign- currency exchange decreases.",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "question_id": 8,
+      "text": "As the price level rises,",
+      "options": [
+        {
+          "text": "the exchange rate falls, so net exports fall.",
+          "is_correct": false
+        },
+        {
+          "text": "the exchange rate falls, so net exports rise.",
+          "is_correct": false
+        },
+        {
+          "text": "the exchange rate rises, so net exports fall.",
+          "is_correct": true
+        },
+        {
+          "text": "the exchange rate rises, so net exports rise.",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "question_id": 9,
+      "text": "A decrease in U.S. interest rates leads to",
+      "options": [
+        {
+          "text": "a depreciation of the dollar that leads to greater net exports.",
+          "is_correct": true
+        },
+        {
+          "text": "a depreciation of the dollar that leads to smaller net exports.",
+          "is_correct": false
+        },
+        {
+          "text": "an appreciation of the dollar that leads to greater net exports.",
+          "is_correct": false
+        },
+        {
+          "text": "an appreciation of the dollar that leads to smaller net exports.",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "question_id": 10,
+      "text": "Other things the same, as the price level falls, the real value of a dollar",
+      "options": [
+        {
+          "text": "rises, and interest rates rise.",
+          "is_correct": false
+        },
+        {
+          "text": "rises, and interest rates fall.",
+          "is_correct": true
+        },
+        {
+          "text": "falls, and interest rates rise.",
+          "is_correct": false
+        },
+        {
+          "text": "falls, and interest rates fall.",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "question_id": 11,
+      "text": "If the dollar appreciates because of speculation or government policy",
+      "options": [
+        {
+          "text": "aggregate demand shifts left. If other countries experience recessions, aggregate demand in the U.S. also shifts left.",
+          "is_correct": true
+        },
+        {
+          "text": "aggregate demand shifts left. If other countries experience recessions, aggregate demand in the U.S. shifts right.",
+          "is_correct": false
+        },
+        {
+          "text": "aggregate demand shifts right. If other countries experience recessions, aggregate demand in the U.S. shifts left.",
+          "is_correct": false
+        },
+        {
+          "text": "aggregate demand shifts right. If other countries experience recessions, aggregate demand in the U.S. also shifts right.",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "question_id": 13,
+      "text": "Other things the same, if the long-run aggregate supply curve shifts right, prices",
+      "options": [
+        {
+          "text": "and output both increase.",
+          "is_correct": false
+        },
+        {
+          "text": "and output both decrease.",
+          "is_correct": false
+        },
+        {
+          "text": "increase and output decreases.",
+          "is_correct": false
+        },
+        {
+          "text": "decrease and output increases.",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "question_id": 14,
+      "text": "The aggregate supply curve is upward sloping in",
+      "options": [
+        {
+          "text": "the short and long run.",
+          "is_correct": false
+        },
+        {
+          "text": "neither the short nor long run.",
+          "is_correct": false
+        },
+        {
+          "text": "the long run, but not the short run.",
+          "is_correct": false
+        },
+        {
+          "text": "the short run, but not the long run.",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "question_id": 15,
+      "text": "Other things the same, the aggregate quantity of output supplied will decrease if the price level",
+      "options": [
+        {
+          "text": "is lower than expected so that firms believe the relative price of their output has increased.",
+          "is_correct": false
+        },
+        {
+          "text": "is lower than expected so that firms believe the relative price of their output has decreased.",
+          "is_correct": true
+        },
+        {
+          "text": "is higher than expected so that firms believe the relative price of their output has increased.",
+          "is_correct": false
+        },
+        {
+          "text": "is higher than expected so that firms believe the relative price of their output has decreased. Figure 33-2.",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "question_id": 16,
+      "text": "Refer to Figure 33-2. Point B represents",
+      "options": [
+        {
+          "text": "a short-run equilibrium and a long-run equilibrium.",
+          "is_correct": false
+        },
+        {
+          "text": "a short-run equilibrium but not a long-run equilibrium.",
+          "is_correct": true
+        },
+        {
+          "text": "a long-run equilibrium but not a short-run equilibrium.",
+          "is_correct": false
+        },
+        {
+          "text": "neither a short-run equilibrium nor a long-run equilibrium. The Stock Market Boom of 2014 Imagine that in 2014 the economy is in long-run equilibrium. Then stock prices rise more than expected and stay high for some time.",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "question_id": 17,
+      "text": "Refer to Stock Market Boom 2014. In the short run what happens to the price level and real GDP?",
+      "options": [
+        {
+          "text": "both the price level and real GDP rise.",
+          "is_correct": true
+        },
+        {
+          "text": "both the price level and real GDP fall.",
+          "is_correct": false
+        },
+        {
+          "text": "the price level rises and real GDP falls.",
+          "is_correct": false
+        },
+        {
+          "text": "the price level falls and real GDP rises. Optimism Imagine that the economy is in long-run equilibrium. Then, perhaps because of improved international relations and increased confidence in policy makers, people become more optimistic about the future and stay this way for some time.",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "question_id": 18,
+      "text": "Refer to Optimism. What happens to the expected price level and what’s the result for wage bargaining?",
+      "options": [
+        {
+          "text": "The expected price level falls. Bargains are struck for higher wages.",
+          "is_correct": false
+        },
+        {
+          "text": "The expected price level falls. Bargains are struck for lower wages.",
+          "is_correct": false
+        },
+        {
+          "text": "The expected price level rises. Bargains are struck for higher wages.",
+          "is_correct": true
+        },
+        {
+          "text": "The expected price level rises. Bargains are struck for lower wages.",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "question_id": 19,
+      "text": "Which of the following would increase the price level?",
+      "options": [
+        {
+          "text": "an increase in the money supply.",
+          "is_correct": true
+        },
+        {
+          "text": "an increase in taxes.",
+          "is_correct": false
+        },
+        {
+          "text": "a decrease in the expected price level.",
+          "is_correct": false
+        },
+        {
+          "text": "a decrease in the natural rate of unemployment.",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "question_id": 20,
+      "text": "When production costs rise,",
+      "options": [
+        {
+          "text": "the short-run aggregate supply curve shifts to the right.",
+          "is_correct": false
+        },
+        {
+          "text": "the short-run aggregate supply curve shifts to the left.",
+          "is_correct": true
+        },
+        {
+          "text": "the aggregate demand curve shifts to the right.",
+          "is_correct": false
+        },
+        {
+          "text": "the aggregate demand curve shifts to the left.",
+          "is_correct": false
+        }
+      ]
+    }
+  ]
+}

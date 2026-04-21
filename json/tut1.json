@@ -1,0 +1,453 @@
+{
+  "tutorial_id": "tut1",
+  "tables": [
+    {
+      "table_id": "table_23_5",
+      "title": "Table 23-5",
+      "html": "<table style='border-collapse:collapse;width:100%;min-width:640px'><thead><tr><th style='border:1px solid #ccc;padding:6px'>Year</th><th style='border:1px solid #ccc;padding:6px'>Price of Waffles</th><th style='border:1px solid #ccc;padding:6px'>Quantity of Waffles</th><th style='border:1px solid #ccc;padding:6px'>Price of Pancakes</th><th style='border:1px solid #ccc;padding:6px'>Quantity of Pancakes</th></tr></thead><tbody><tr><td style='border:1px solid #ccc;padding:6px'>2005</td><td style='border:1px solid #ccc;padding:6px'>$2</td><td style='border:1px solid #ccc;padding:6px'>100</td><td style='border:1px solid #ccc;padding:6px'>$1</td><td style='border:1px solid #ccc;padding:6px'>100</td></tr><tr><td style='border:1px solid #ccc;padding:6px'>2006</td><td style='border:1px solid #ccc;padding:6px'>$2</td><td style='border:1px solid #ccc;padding:6px'>120</td><td style='border:1px solid #ccc;padding:6px'>$2</td><td style='border:1px solid #ccc;padding:6px'>150</td></tr><tr><td style='border:1px solid #ccc;padding:6px'>2007</td><td style='border:1px solid #ccc;padding:6px'>$3</td><td style='border:1px solid #ccc;padding:6px'>150</td><td style='border:1px solid #ccc;padding:6px'>$3</td><td style='border:1px solid #ccc;padding:6px'>200</td></tr><tr><td style='border:1px solid #ccc;padding:6px'>2008</td><td style='border:1px solid #ccc;padding:6px'>$4</td><td style='border:1px solid #ccc;padding:6px'>180</td><td style='border:1px solid #ccc;padding:6px'>$3</td><td style='border:1px solid #ccc;padding:6px'>220</td></tr></tbody></table>"
+    }
+  ],
+  "questions": [
+    {
+      "question_id": 12,
+      "text": "What word do economists use to refer to the purchase of goods that will be used in the future to produce more goods and services?",
+      "options": [
+        {
+          "text": "capital",
+          "is_correct": false
+        },
+        {
+          "text": "consumption",
+          "is_correct": false
+        },
+        {
+          "text": "investment",
+          "is_correct": true
+        },
+        {
+          "text": "costs",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "question_id": 1,
+      "text": "Which of the following is not a question that macroeconomists address?",
+      "options": [
+        {
+          "text": "Why is average income high in some countries while it is low in others?",
+          "is_correct": false
+        },
+        {
+          "text": "Why does the price of oil rise when war erupts in the Middle East?",
+          "is_correct": true
+        },
+        {
+          "text": "Why do production and employment expand in some years and contract in others?",
+          "is_correct": false
+        },
+        {
+          "text": "Why do prices rise rapidly in some periods of time while they are more stable in other periods?",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "question_id": 18,
+      "text": "Suppose an economy's production consists only of corn and soybeans. In 2005, 20 bushels of corn are sold at $4 per bushel and 10 bushels of soybeans are sold at $2 per bushel. In 2004, the price of corn was $2 per bushel and the price of soybeans was $1 per bushel. Using 2004 as the base year, it follows that, for 2005,",
+      "options": [
+        {
+          "text": "nominal GDP is $50, real GDP is $100, and the GDP deflator is 50.",
+          "is_correct": false
+        },
+        {
+          "text": "nominal GDP is $50, real GDP is $100, and the GDP deflator is 200.",
+          "is_correct": false
+        },
+        {
+          "text": "nominal GDP is $100, real GDP is $50, and the GDP deflator is 50.",
+          "is_correct": false
+        },
+        {
+          "text": "nominal GDP is $100, real GDP is $50, and the GDP deflator is 200.",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "question_id": 7,
+      "text": "Which of the following domestically produced items is not included in GDP?",
+      "options": [
+        {
+          "text": "a bottle of shampoo",
+          "is_correct": false
+        },
+        {
+          "text": "a hairdryer",
+          "is_correct": false
+        },
+        {
+          "text": "a haircut",
+          "is_correct": false
+        },
+        {
+          "text": "All of the above are included in GDP.",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "question_id": 20,
+      "text": "Suppose that twenty-five years ago a country had nominal GDP of $1,000, a GDP deflator of 200, and a population of 100. Today it has nominal GDP of $3,000, a GDP deflator of 400, and population of 150. What happened to the real GDP per person?",
+      "options": [
+        {
+          "text": "It more than doubled.",
+          "is_correct": false
+        },
+        {
+          "text": "It increased, but it less than doubled.",
+          "is_correct": false
+        },
+        {
+          "text": "It was unchanged.",
+          "is_correct": true
+        },
+        {
+          "text": "It decreased.",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "question_id": 3,
+      "text": "Which of the following is included in GDP?",
+      "options": [
+        {
+          "text": "medical marijuana purchased from a government-run pharmacy by a glaucoma patient",
+          "is_correct": true
+        },
+        {
+          "text": "recreational marijuana purchased from a drug dealer by a college student",
+          "is_correct": false
+        },
+        {
+          "text": "recreational marijuana produced and consumed by a man in his attic",
+          "is_correct": false
+        },
+        {
+          "text": "All of the above are included in GDP.",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "question_id": 14,
+      "text": "If net exports is a negative number for a particular year, then",
+      "options": [
+        {
+          "text": "the value of firms' inventories declined over the course of the year.",
+          "is_correct": false
+        },
+        {
+          "text": "consumption exceeded the sum of investment and government purchases during the year.",
+          "is_correct": false
+        },
+        {
+          "text": "the value of goods sold to foreigners exceeded the value of foreign goods purchased during the year.",
+          "is_correct": false
+        },
+        {
+          "text": "the value of foreign goods purchased exceeded the value of goods sold to foreigners during the year.",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "question_id": 5,
+      "text": "Suppose there are only two firms in an economy: Rolling Rawhide produces rawhide and sells it to Chewy Chomp, Inc., which uses the rawhide to produce and sell dog chews. With each $2 of rawhide that it buys from Rolling Rawhide, Chewy Chomp, Inc. produces a dog chew and sells it for $5. Neither firm had any inventory at the beginning of 2007. During that year, Rolling Rawhide produced enough rawhide for 1000 dog chews. Chewy Chomp, Inc. bought 75% of that rawhide for $1500 and promised to buy the remaining 25% for $500 in 2008. Chewy Chomp, Inc. produced 750 dog chews during 2007 and sold each one during that year for $5. What was the economy's GDP for 2007?",
+      "options": [
+        {
+          "text": "$3750",
+          "is_correct": false
+        },
+        {
+          "text": "$4250",
+          "is_correct": true
+        },
+        {
+          "text": "$5250",
+          "is_correct": false
+        },
+        {
+          "text": "$5750",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "question_id": 9,
+      "text": "Gina, a U.S. citizen, works only in Germany. The value of Gina's production is included in",
+      "options": [
+        {
+          "text": "U.S. GDP and German GDP.",
+          "is_correct": false
+        },
+        {
+          "text": "U.S. GDP and German GNP.",
+          "is_correct": false
+        },
+        {
+          "text": "U.S. GNP and German GDP.",
+          "is_correct": true
+        },
+        {
+          "text": "U.S. GNP and German GNP.",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "question_id": 17,
+      "text": "If real GDP doubles and the GDP deflator doubles, then nominal GDP",
+      "options": [
+        {
+          "text": "remains constant.",
+          "is_correct": false
+        },
+        {
+          "text": "doubles.",
+          "is_correct": false
+        },
+        {
+          "text": "triples.",
+          "is_correct": false
+        },
+        {
+          "text": "quadruples.",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "question_id": 19,
+      "table_id": "table_23_5",
+      "text": "Refer to Table 23-5. In 2008, Batterland's real GDP was",
+      "options": [
+        {
+          "text": "$540.",
+          "is_correct": false
+        },
+        {
+          "text": "$800.",
+          "is_correct": true
+        },
+        {
+          "text": "$930.",
+          "is_correct": false
+        },
+        {
+          "text": "$1380.",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "question_id": 2,
+      "text": "Because every transaction has a buyer and a seller,",
+      "options": [
+        {
+          "text": "GDP is more closely associated with an economy's income than it is with an economy's expenditure.",
+          "is_correct": false
+        },
+        {
+          "text": "every transaction contributes equally to an economy's income and to its expenditure.",
+          "is_correct": true
+        },
+        {
+          "text": "the number of firms must be equal to the number of households in a simple circular-flow diagram.",
+          "is_correct": false
+        },
+        {
+          "text": "firms' profits are necessarily zero in a simple circular-flow diagram.",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "question_id": 15,
+      "text": "In the economy of Wrexington in 2008, exports were $200, GDP was $2000, government purchases were $300, imports were $130, and investment was $400. What was Wrexington's consumption in 2008?",
+      "options": [
+        {
+          "text": "$970",
+          "is_correct": false
+        },
+        {
+          "text": "$1230",
+          "is_correct": true
+        },
+        {
+          "text": "$1370",
+          "is_correct": false
+        },
+        {
+          "text": "$1630",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "question_id": 8,
+      "text": "Which of the following is included in U.S. GDP?",
+      "options": [
+        {
+          "text": "the value of production by an American working in Morocco",
+          "is_correct": false
+        },
+        {
+          "text": "the value of production by a Moroccan working in the U.S.",
+          "is_correct": true
+        },
+        {
+          "text": "Both (a) and (b) are correct.",
+          "is_correct": false
+        },
+        {
+          "text": "Neither (a) nor (b) is correct.",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "question_id": 11,
+      "text": "Which of the following is not an example of a durable good?",
+      "options": [
+        {
+          "text": "a refrigerator",
+          "is_correct": false
+        },
+        {
+          "text": "an automobile",
+          "is_correct": false
+        },
+        {
+          "text": "a business suit",
+          "is_correct": true
+        },
+        {
+          "text": "a furnace",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "question_id": 4,
+      "text": "Spots, Inc. produces ink and sells it to Write on Target, which makes pens. The ink produced by Spots, Inc. is called",
+      "options": [
+        {
+          "text": "an inventory good.",
+          "is_correct": false
+        },
+        {
+          "text": "a transitory good.",
+          "is_correct": false
+        },
+        {
+          "text": "a preliminary good.",
+          "is_correct": false
+        },
+        {
+          "text": "an intermediate good.",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "question_id": 16,
+      "text": "Changes in real GDP reflect",
+      "options": [
+        {
+          "text": "only changes in prices.",
+          "is_correct": false
+        },
+        {
+          "text": "only changes in the amounts being produced.",
+          "is_correct": true
+        },
+        {
+          "text": "both changes in prices and changes in the amounts being produced.",
+          "is_correct": false
+        },
+        {
+          "text": "neither changes in prices nor changes in the amounts being produced.",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "question_id": 13,
+      "text": "Which of the following items is the one type of household expenditure that is categorized as investment rather than consumption?",
+      "options": [
+        {
+          "text": "spending on education",
+          "is_correct": false
+        },
+        {
+          "text": "the purchase of stocks and bonds",
+          "is_correct": false
+        },
+        {
+          "text": "the purchase of a new house",
+          "is_correct": true
+        },
+        {
+          "text": "the purchase of durable goods such as stoves and washing machines",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "question_id": 10,
+      "text": "In the national income accounts, depreciation is called",
+      "options": [
+        {
+          "text": "consumption of fixed capital.",
+          "is_correct": true
+        },
+        {
+          "text": "negative investment.",
+          "is_correct": false
+        },
+        {
+          "text": "capital taxation.",
+          "is_correct": false
+        },
+        {
+          "text": "loss due to wear.",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "question_id": 6,
+      "text": "The total sales of all firms in the economy for a year",
+      "options": [
+        {
+          "text": "equals GDP for the year.",
+          "is_correct": false
+        },
+        {
+          "text": "is larger than GDP for the year.",
+          "is_correct": false
+        },
+        {
+          "text": "is smaller than GDP for the year.",
+          "is_correct": false
+        },
+        {
+          "text": "Any of the above is possible.",
+          "is_correct": true
+        }
+      ]
+    }
+  ]
+}

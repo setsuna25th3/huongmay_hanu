@@ -1,0 +1,2476 @@
+         HANOI UNIVERSITY
+FACULTY OF MANAGEMENT AND TOURISM
+
+
+
+
+ MACROECONOMICS
+TUTORIAL EXERCISES
+          61ECO2MAC
+
+
+
+
+           Spring 2026
+
+
+
+
+                                    1
+TUT 1
+CASE STUDY
+
+ADB lowers Thailand’s GDP growth forecast
+
+In its latest Asian Development Outlook (ADO) report, ADB projects Thai GDP to expand 2%
+this year, down from 2.9% forecast in April, with the economy slowing in the second half as
+front-loaded shipments to the US end.
+
+
+
+
+The Thai economy is projected to slow in the second half of 2025 and next year as US tariff hikes
+reduce exports, weaken private consumption, and reduce private investment, according to ADB.
+(Photo: Bangkok Post)
+
+Bangkok (VNA) - The Asian Development Bank (ADB) has lowered its forecast for Thailand’s
+GDP growth for 2025 and the following year, given export deceleration, a slow recovery of foreign
+tourist arrivals, as well as weakened private consumption and investments.
+
+In its latest Asian Development Outlook (ADO) report, the bank projects Thai GDP to expand 2%
+this year, down from 2.9% forecast in April, with the economy slowing in the second half as front-
+
+
+                                                                                                2
+loaded shipments to the US end. Economic growth is expected to slow further to 1.6% in 2026,
+down from its previous prediction of 2.9%. According to the report, the 19% US tariff on exports
+will slow shipments, particularly of electrical equipment, machinery, metals, processed food and
+vehicles. Small businesses may find it difficult to adjust to the tariffs compared with their US
+counterparts, which often benefit from larger operations and lower production costs.
+Meanwhile, a sluggish recovery of tourist arrivals together with a weakened global economy is
+dampening the tourism sector. The forecast for foreign tourist arrivals was downgraded from 39.5
+million in April to 34 million, primarily due to fewer tourists from China.
+Increased competition from other regional destinations is also contributing to the projected
+slowdown. Many countries in the region are spending heavily to attract international visitors by
+developing tourism infrastructure and offering competitive costs. Weakened currencies in some
+countries also make them more affordable to foreign tourists, ADB noted./.
+
+Source: https://en.vietnamplus.vn/adb-lowers-thailands-gdp-growth-forecast-post329675.vnp
+
+   1. Using the standard GDP formula, identify which specific variables are being impacted
+      according to the article and explain how a "19% US tariff on exports" would mathematically
+      affect Thailand's total GDP. Show your work in the article
+   2. When international organizations like the ADB or World Bank forecast "GDP growth," are
+      they typically referring to Nominal GDP or Real GDP? Why is it essential for economists to
+      use "Real" values when comparing Thailand's 2025 performance to its 2024 performance?
+   3. In the context of GDP accounting, is the money spent by a foreign tourist in Thailand
+      classified as a Consumption (C) expenditure or an Export (X)? How does a "sluggish
+      recovery of tourist arrivals" specifically impact the "Net Exports" component of Thailand's
+      national accounts?
+
+
+
+
+                                                                                               3
+Multiple Choice
+Identify the choice that best completes the statement or answers the question.
+
+____   1. Which of the following is not a question that macroeconomists address?
+          a. Why is average income high in some countries while it is low in others?
+          b. Why does the price of oil rise when war erupts in the Middle East?
+          c. Why do production and employment expand in some years and contract in others?
+          d. Why do prices rise rapidly in some periods of time while they are more stable in
+             other periods?
+
+
+____   2. Because every transaction has a buyer and a seller,
+          a. GDP is more closely associated with an economy’s income than it is with an
+             economy’s expenditure.
+          b. every transaction contributes equally to an economy’s income and to its
+             expenditure.
+          c. the number of firms must be equal to the number of households in a simple
+             circular-flow diagram.
+          d. firms’ profits are necessarily zero in a simple circular-flow diagram.
+
+
+____   3. Which of the following is included in GDP?
+          a. medical marijuana purchased from a government-run pharmacy by a glaucoma
+             patient
+          b. recreational marijuana purchased from a drug dealer by a college student
+          c. recreational marijuana produced and consumed by a man in his attic
+          d. All of the above are included in GDP.
+
+
+____   4. Spots, Inc. produces ink and sells it to Write on Target, which makes pens. The ink produced by
+          Spots, Inc. is called
+          a. an inventory good.
+          b. a transitory good.
+          c. a preliminary good.
+          d. an intermediate good.
+
+
+____   5. Suppose there are only two firms in an economy: Rolling Rawhide produces rawhide and sells it to
+          Chewy Chomp, Inc., which uses the rawhide to produce and sell dog chews. With each $2 of
+          rawhide that it buys from Rolling Rawhide, Chewy Chomp, Inc. produces a dog chew and sells it for
+          $5. Neither firm had any inventory at the beginning of 2007. During that year, Rolling Rawhide
+          produced enough rawhide for 1000 dog chews. Chewy Chomp, Inc. bought 75% of that rawhide for
+          $1500 and promised to buy the remaining 25% for $500 in 2008. Chewy Chomp, Inc. produced 750
+          dog chews during 2007 and sold each one during that year for $5. What was the economy's GDP for
+          2007?
+
+
+                                                                                                            4
+          a.   $3750
+          b.   $4250
+          c.   $5250
+          d.   $5750
+
+
+____   6. The total sales of all firms in the economy for a year
+          a. equals GDP for the year.
+          b. is larger than GDP for the year.
+          c. is smaller than GDP for the year.
+          d. Any of the above is possible.
+
+____   7. Which of the following domestically produced items is not included in GDP?
+          a. a bottle of shampoo
+          b. a hairdryer
+          c. a haircut
+          d. All of the above are included in GDP.
+
+____   8. Which of the following is included in U.S. GDP?
+          a. the value of production by an American working in Morocco
+          b. the value of production by a Moroccan working in the U.S.
+          c. Both (a) and (b) are correct.
+          d. Neither (a) nor (b) is correct.
+
+____   9. Gina, a U.S. citizen, works only in Germany. The value of Gina’s production is included in
+          a. U.S. GDP and German GDP.
+          b. U.S. GDP and German GNP.
+          c. U.S. GNP and German GDP.
+          d. U.S. GNP and German GNP.
+
+____ 10. In the national income accounts, depreciation is called
+         a. "consumption of fixed capital."
+         b. "negative investment."
+         c. "capital taxation."
+         d. "loss due to wear."
+
+
+____ 11. Which of the following is not an example of a durable good?
+         a. a refrigerator
+         b. an automobile
+         c. a business suit
+         d. a furnace
+
+
+
+                                                                                                       5
+____ 12. What word do economists use to refer to the purchase of goods that will be used in the future to
+         produce more goods and services?
+         a. capital
+         b. consumption
+         c. investment
+         d. costs
+
+____ 13. Which of the following items is the one type of household expenditure that is categorized as
+         investment rather than consumption?
+         a. spending on education
+         b. the purchase of stocks and bonds
+         c. the purchase of a new house
+         d. the purchase of durable goods such as stoves and washing machines
+
+____ 14. If net exports is a negative number for a particular year, then
+         a. the value of firms’ inventories declined over the course of the year.
+         b. consumption exceeded the sum of investment and government purchases during
+             the year.
+         c. the value of goods sold to foreigners exceeded the value of foreign goods
+             purchased during the year.
+         d. the value of foreign goods purchased exceeded the value of goods sold to
+             foreigners during the year.
+
+____ 15. In the economy of Wrexington in 2008, exports were $200, GDP was $2000, government purchases
+         were $300, imports were $130, and investment was $400. What was Wrexington’s consumption in
+         2008?
+         a. $970
+         b. $1230
+         c. $1370
+         d. $1630
+
+____ 16. Changes in real GDP reflect
+         a. only changes in prices.
+         b. only changes in the amounts being produced.
+         c. both changes in prices and changes in the amounts being produced.
+         d. neither changes in prices nor changes in the amounts being produced.
+
+
+____ 17. If real GDP doubles and the GDP deflator doubles, then nominal GDP
+         a. remains constant.
+         b. doubles.
+         c. triples.
+         d. quadruples.
+
+
+
+
+                                                                                                            6
+____ 18. Suppose an economy’s production consists only of corn and soybeans. In 2005, 20 bushels of corn
+         are sold at $4 per bushel and 10 bushels of soybeans are sold at $2 per bushel. In 2004, the price of
+         corn was $2 per bushel and the price of soybeans was $1 per bushel. Using 2004 as the base year, it
+         follows that, for 2005,
+
+           a.    nominal GDP is $50, real GDP is $100, and the GDP deflator is 50.
+           b.    nominal GDP is $50, real GDP is $100, and the GDP deflator is 200.
+           c.    nominal GDP is $100, real GDP is $50, and the GDP deflator is 50.
+           d.    nominal GDP is $100, real GDP is $50, and the GDP deflator is 200.
+
+           Table 23-5
+           The table below contains data for the country of Batterland, which produces only waffles and
+           pancakes. The base year is 2006.
+
+                Year      Price          Quantity           Price             Quantity
+                           of               of               of                  of
+                         Waffles         Waffles          Pancakes            Pancakes
+                2005       $2              100               $1                 100
+                2006       $2              120               $2                 150
+                2007       $3              150               $3                 200
+                2008       $4              180               $3                 220
+
+____ 19. Refer to Table 23-5. In 2008, Batterland’s real GDP was
+         a. $540.
+         b. $800.
+         c. $930.
+         d. $1380.
+
+____ 20. Suppose that twenty-five years ago a country had nominal GDP of $1,000, a GDP deflator of 200,
+         and a population of 100. Today it has nominal GDP of $3,000, a GDP deflator of 400, and
+         population of 150. What happened to the real GDP per person?
+         a. It more than doubled.
+         b. It increased, but it less than doubled.
+         c. It was unchanged.
+         d. It decreased.
+
+
+
+
+                                                                                                             7
+       TUT 2
+CASE STUDY
+
+       Indonesia's productivity gap threatens long-term economic growth
+             December 15, 2025 21:33 GMT+700
+
+
+
+
+       Manpower Minister Yassierli opens the Indonesian Forum on Labour Productivity (IFLP) themed
+       “Gig Workers: Flexibility and Vulnerability from Multiple Perspectives” in Jakarta on Tuesday
+       (25/11/2025). (ANTARA/HO–Ministry of Manpower of the Republic of Indonesia)
+       Jakarta (ANTARA) - While the Indonesian government focuses on physical investment,
+       downstreaming, and infrastructure development, labor force productivity remains a crucial factor in
+       determining how effectively capital, technology, and labor generate added value for the national
+       economy.
+       Productivity is often dubbed a “silent investment” because its impact is not always as visible as the
+       construction of roads, ports, or industrial estates. Yet, it serves as the foundation for a country’s
+       long-term growth and competitiveness.
+
+
+
+
+                                                                                                          8
+Without productivity gains, increased investment risks merely expanding the scale of the economy
+without being followed by a rise in value added per worker, making it difficult for national industrial
+competitiveness to improve sustainably.
+Statistics Indonesia (BPS) data show that Indonesia’s labor force as of February 2025 reached
+153.05 million people, with 145.77 million employed, while the open unemployment rate stood at
+4.76 percent.
+These figures indicate that Indonesia’s job market is relatively stable in quantitative terms. However,
+they do not fully reflect job quality or the overall level of labor productivity.
+Manpower Minister Yassierli noted that the proportion of formal workers in Indonesia remains at
+around 39 percent, indicating that the majority of the workforce is employed in the informal sector.
+
+The informal sector generally faces limitations in technology adoption, business management, and
+workforce skill development, resulting in productivity levels that tend to be lower than those in the
+formal sector. Overall, these conditions point to quality challenges in Indonesia’s labor structure, as
+reflected in regional productivity comparisons. Based on data from the Ministry of Manpower,
+Indonesia’s labor productivity in 2022 stood at around US$26.6 thousand per worker.
+ This figure remains below the ASEAN average of approximately US$30.2 thousand per worker,
+indicating Indonesia’s challenge in increasing value added per worker at the regional level.
+
+Labor productivity per worker is a key indicator in economic analysis, as it describes the economic
+value generated by each worker within a specific period. From a macroeconomic perspective,
+growth supported by productivity improvements is generally considered more sustainable than
+growth that relies solely on an increase in the number of workers. Speaking at the Indonesia
+Productivity Summit 2025, Yassierli asserted that productivity is the key to strengthening
+Indonesia’s competitiveness amid intensifying global competition. He emphasized that Indonesia’s
+productivity gap is evident not only at the ASEAN level but also when compared with countries that
+have undertaken industrial transformation and human resource development earlier.
+
+Labor productivity among members of the Organization for Economic Co-operation and
+Development (OECD) ranges from tens of thousands of US dollars to nearly US$100,000 per
+worker per year. Meanwhile, productivity levels in upper-middle-income countries stand at around
+US$40,000 to US$50,000 per worker annually. The minister stressed that productivity plays a
+crucial role in industries’ ability to adapt to technological transformation, global trade dynamics, and
+rising demands for efficiency.
+
+
+
+
+                                                                                                      9
+Amid the transition toward a digital and green economy, workforce demand is shifting rapidly and
+becoming more complex. Without consistent efforts to enhance productivity, economic growth risks
+being insufficient to sustainably drive an increase in per capita income. This places productivity not
+merely as a labor issue, but as an integral component of the national strategy to build
+competitiveness.
+
+
+
+
+Challenges and policy direction
+
+Yassierli assessed that the challenges in Indonesia's productivity are structural in nature, especially
+related to the educational attainment of the country's labor force.
+Approximately 85–86 percent of the Indonesian workforce has an educational attainment of high
+school (SMA) or vocational high school (SMK),
+Meanwhile, industries continue to demand more complex skills driven by digitalization and
+automation.
+This situation coincides with the high proportion of informal workers, which reaches around 60
+percent.
+This structure limits the labor force productivity from improving rapidly because access to training,
+technology, and upskilling is not yet evenly distributed.
+In this context, the government is promoting a combination of top-down and bottom-up approaches
+to boost national productivity.
+The top-down strategy is implemented through industrialization, downstreaming, and large-scale
+investment, which are expected to generate demand for a more productive workforce.
+Meanwhile, the bottom-up strategy is directed at direct intervention at the company level, especially
+medium-sized companies that create a significant number of jobs.
+The Ministry of Manpower has stated that it will establish productivity clinics in 15 vocational
+training centers in 2026.
+Currently, the ministry manages 42 vocational training centers that serve as facilities to improve the
+quality of Indonesian human resources.
+The government has also prepared certification programs for productivity experts and productivity
+service operations targeting medium-sized enterprises.
+To improve labor force productivity, the Ministry of Manpower has also implemented the National
+Internship Program as an instrument to strengthen industry-based skills.
+This year, the program targets 100,000 participants in paid internships across state-owned enterprises
+(SOEs), private companies, and strategic institutions, as part of the bottom-up strategy to boost
+
+
+                                                                                                    10
+productivity through direct work experience.
+
+Unlike physical infrastructure development, productivity growth is largely achieved through non-
+physical investment, such as training, competency certification, improvements in work processes,
+and the strengthening of organizational culture.
+
+Policy analyses consistently show that economic growth supported by productivity improvement is
+more resilient to external pressures than growth that relies on sectoral expansion.
+
+Going forward, Indonesia’s challenge lies not only in attracting investment, but also in ensuring that
+investment generates optimal added value through sustained improvements in labor productivity—an
+essential foundation for the country’s economic competitiveness toward its Golden Indonesia 2045
+vision.
+
+Source: https://en.antaranews.com/news/396601/indonesias-productivity-gap-threatens-long-term-
+economic-growth
+
+   1. In growth theory, how does the quality of Human Capital (skills and education) affect the
+      Production Function? Given the statistics in the article, why might an increase in the
+      number of workers ($L$) fail to lead to a proportional increase in Indonesia's total output
+      ($Y$)?
+   2. Based on the Catch-up Effect (Convergence), Indonesia should theoretically grow faster
+      than OECD countries. According to the article's discussion on the "structural nature" of
+      Indonesia's challenges, what specific factors are preventing Indonesia from narrowing this
+      productivity gap more quickly?
+   3. Define the difference between extensive growth (adding more inputs like labor and land)
+      and intensive growth (improving productivity). Why does the Minister argue that intensive
+      growth is the only way for Indonesia to sustainably reach its "Golden Indonesia 2045" vision
+      of becoming a high-income country?
+
+
+
+
+                                                                                                   11
+Multiple Choice
+Identify the choice that best completes the statement or answers the question.
+
+____   1. You are told that Country A experienced growth of real GDP per person of 4 percent per year
+          throughout the 1900s. In view of other countries’ experience, you would have to characterize
+          Country A’s growth as
+          a. exceptionally high.
+          b. moderately high.
+          c. moderately low.
+          d. exceptionally low.
+
+
+____   2. The level of real GDP person
+          a. differs widely across countries, but the growth rate of real GDP per person is
+             similar across countries.
+          b. is very similar across countries, but the growth rate of real GDP per person differs
+             widely across countries.
+          c. and the growth rate of real GDP per person are similar across countries.
+          d. and the growth rate of real GDP per person vary widely across countries.
+
+
+____   3. Which of the following countries had the highest growth rate over the last 100 or so years?
+          a. Brazil
+          b. Germany
+          c. Canada
+          d. United States
+
+
+____   4. Which of the following countries had the highest level of real GDP per person in 2006?
+          a. Germany
+          b. United Kingdom
+          c. United States
+          d. Japan
+
+
+____   5. The average amount of goods and services produced from each hour of a worker's time is called
+          a. GDP.
+          b. per capita GDP.
+          c. productivity.
+          d. technological knowledge.
+
+
+____   6. Dilbert’s Incorporated produced 5,000,000 units of accounting software in 2004. At the start of 2005
+          the pointy-haired boss reduced total annual hours of employment from 10,000 to 8,000 and
+          production was 4,800,000. These numbers indicate that productivity
+
+
+                                                                                                            12
+           a.   fell by 4%.
+           b.   fell by 20%.
+           c.   rose by 12%.
+           d.   rose by 20%.
+
+____   7. Dilbert’s Incorporated produced 6,000,000 units of software in 2005. At the start of 2006 the pointy-
+          haired boss raised employment from 10,000 total annual hours to 14,000 annual hours and
+          production was 7,000,000 units. Based on these numbers what happened to productivity?
+          a. It fell by about 16.7%.
+          b. It stayed the same.
+          c. It rose by about 16.7%.
+          d. It rose by about 40%.
+
+____   8. Which of the following is human capital?
+          a. textbooks
+          b. hand held power tools
+          c. understanding how to repair cars
+          d. All of the above are correct.
+
+____   9. Which of the following statements is true?
+          a. Natural resources per worker influence productivity only when those natural
+             resources are renewable.
+          b. The prices of most natural resources are stable or falling relative to other prices.
+          c. Technology requires greater use of natural resources.
+          d. The terms human capital and technological knowledge are used interchangeably.
+
+____ 10. Suppose over the last year that the price of iron ore increased from $1,200 a ton to $1,300 a ton.
+         Over the same time a measure of the overall price level increased from 168 to 187. The price of iron
+         ore increased by
+         a. less than inflation, and this means it became relatively less scarce.
+         b. less than inflation, and this means it became scarcer.
+         c. more than inflation, and this means it became scarcer.
+         d. more than inflation, but this doesn’t necessarily mean that it become scarcer.
+
+____ 11. Human capital is
+         a. the same thing as technological knowledge.
+         b. the same thing as labor.
+         c. the tools and equipment operated by humans.
+         d. knowledge and skills that workers have acquired.
+
+
+____ 12. If there are constant returns to scale, the production function can be written as
+         a. xY = 2xAF(L, K, H, N).
+         b. Y/L = A F(xL, xK, xH, xN).
+
+
+                                                                                                             13
+           c. Y/L = A F( 1, K/L, H/L, N/L).
+           d. L = AF(Y, K, H, N).
+
+
+         Scenario 25-1. An economy’s production form takes the form Y = AF(L, K, H, N).
+____ 13. Refer to Scenario 25-1. In the production function, which variable would increase in value as
+         technology improved?
+         a. A
+         b. K
+         c. H
+         d. N
+
+____ 14. Refer to Scenario 25-1. If the production function has the constant-returns-to-scale property, then if
+         we know the values of A, K/L, H/L, and N/L, we also know the value of
+         a. output.
+         b. labor productivity.
+         c. A.
+         d. All of the above are correct.
+
+____ 15. Consider three imaginary countries. In Old York, saving amounts to $3,000 and consumption
+         amounts to $7,000; in New Frank, saving amounts to $2,000 and consumption amounts to $8,000;
+         and in Ganzee, saving amounts to $4,500 and consumption amounts to $10,500. The saving rate is
+         a. higher in Old York than in Ganzee, and it is higher in Ganzee than in New Frank.
+         b. higher in New Frank than in Ganzee, and it is higher in Ganzee than in Old York.
+         c. higher in Ganzee than in New Frank, and it is the same in New Frank and Old
+            York.
+         d. higher in Old York than in New Frank, and it is the same in Old York and Ganzee.
+
+____ 16. Over the period 1960-1991,
+         a. South Korea had a higher growth rate than the United States because it had a
+            higher ratio of investment to GDP.
+         b. the United States had a higher growth rate than South Korea because it had a
+            higher ratio of investment to GDP.
+         c. South Korea had a higher growth rate than the United States even though it had a
+            similar ratio of investment to GDP.
+         d. the United States had a higher growth rate than South Korea even though it had a
+            similar ratio of investment to real GDP.
+
+____ 17. All else equal, if there are diminishing returns, then which of the following is true if a country
+         increases its capital by one unit?
+         a. Output will rise by more than it did when the previous unit was added.
+         b. Output will rise but by less than it did when the previous unit was added.
+         c. Output will fall by more than it did when the previous unit was added.
+         d. Output will fall but by less then it did when the previous unit was added.
+
+
+
+                                                                                                              14
+____ 18. All else equal, if there are diminishing returns, then if a country raised its capital by 100 units last
+         year and by 100 units this year,
+         a. the increase in output was greater for this year than last year.
+         b. the increase in output was greater last year than this year.
+         c. the increase in output is the same in both years.
+         d. None of the above is necessarily correct.
+
+
+           SHORT ANSWER
+
+           In addition to investment in physical and human capital, what other public policies might a country
+           adopt to increase productivity?
+
+
+
+
+                                                                                                                    15
+         TUT 3
+CASE STUDY
+        Source: Bureau of Labor
+        Statistics
+
+
+
+
+         Economists had forecast payroll gains of 40,000 jobs in November, according to a poll by FactSet.
+
+         The Labor Department on Tuesday also released partial employment data from October, which
+         shows a loss of 105,000 jobs that month.
+
+         The drag on October employment was driven by a steep loss in the federal workforce, which shed
+         162,000 jobs that month. The decline is due to a wave of deferred resignations starting to show up in
+         the payroll data, according to Samuel Tombs, chief U.S. economist at Pantheon Macroeconomics.
+
+         Job growth for August and September was also revised down by a collective 33,000.
+
+         The government's official employment data for October and November had been delayed due to the
+         43-day government shutdown, which ended in last month.
+
+         In the absence of federal data, economists at the Federal Reserve and on Wall Street had been
+         monitoring alternative sources, which have signaled ongoing headwinds in the labor market. For
+         instance, ADP earlier this month said private-sector employers in the U.S. cut 32,000 jobs in
+         November, while outplacement firm Challenger, Gray & Christmas has tracked more than 1.1
+         million layoffs so far this year.
+
+
+                                                                                                             16
+Economic uncertainty has led workers to stay put and employers to pull back on hiring, creating a
+difficult situation for job seekers, especially those early in their careers.
+
+The labor market is slowly cooling, Federal Reserve Bank of New York president John C. Williams
+said in a speech Monday.
+
+"I should emphasize that this has been an ongoing, gradual process, without signs of a sharp rise in
+layoffs or other indications of rapid deterioration," Williams said. But, he added, "Job growth has
+been anemic."
+What it means
+The unemployment rate ticked up to 4.6% in November — the highest since September 2021 — as
+more people entered the labor force to look for jobs, according to Adam Crisafulli, head of Vital
+Knowledge.
+While the numbers offer a glimpse into the labor market during the government shutdown, experts
+say investors and government officials will likely view the data with some skepticism, given
+questions about the accuracy and completeness of data collection following the shutdown.
+Indeed, the Federal Reserve may not place much emphasis on the November numbers at its January
+rate-setting meeting because of the data disruption, said Kay Haigh, global co-head of fixed income
+and liquidity solutions at Goldman Sachs Asset Management.
+"The report on December's employment data, released in early January ahead of the next meeting,
+will likely be a much more meaningful indicator for the Fed when it comes to deciding the near-term
+policy trajectory," she said in an email.
+Earlier this month, Federal Reserve Chair Jerome Powell said the central bank would likely view the
+October and November data with a "somewhat skeptical eye," given the data may be distorted.
+The larger-than-expected rise in the unemployment rate could, however, raise concerns within the
+Fed, said Seema Shah, chief global strategist of Principal Asset Management, in an email.
+The central bank lowered interest rates by 0.25 percentage points for the third consecutive time last
+week, citing the rise in the downside risks to employment.
+
+Source: https://www.cbsnews.com/news/jobs-report-november-2025-economy-trump-hiring-bls/
+
+   1. How did the government shutdown and the resulting "data blackout" likely impact the
+      sectoral shifts and the efficiency of job searches? Explain with the help of a graph
+   2. Distinguish between frictional and structural unemployment in the context of the "AI
+      adjustment" mentioned in the article. If AI renders certain human skill sets obsolete while
+
+
+                                                                                                  17
+   creating a demand for others, does this represent a temporary "search" issue or a fundamental
+   "mismatch"?
+3. Explain how it is mathematically possible for the unemployment rate to rise even if the
+   economy is technically adding jobs (64,000 in November). Does this rise necessarily indicate
+   a "weak" economy, or could it represent a "re-entry" of discouraged workers?
+4. How does the fear of "turnover" during uncertain times (as mentioned in the article) support
+   the Efficiency Wage argument? Support your answer with a graph
+
+
+
+
+                                                                                             18
+Multiple Choice
+Identify the choice that best completes the statement or answers the question.
+____ 1. Wages in excess of their equilibrium level help explain
+            a. structural unemployment but not the natural rate of unemployment.
+            b. the natural rate of unemployment but not structural unemployment.
+            c. both structural unemployment and the natural rate of unemployment.
+            d. neither structural unemployment nor the natural rate of unemployment.
+
+____   2. Which of the following is not a reason that paying efficiency wages may increase a firm's profit?
+          a. Efficiency wages increase worker health and therefore increase worker
+             productivity.
+          b. Efficiency wages decrease worker turnover and therefore decrease hiring and
+             training costs.
+          c. Efficiency wages decrease worker shirking and therefore increase worker
+             productivity.
+          d. Efficiency wages decrease a country's natural rate of unemployment and therefore
+             increase its standard of living.
+
+____   3. Who of the following would be included in the Bureau of Labor Statistics’ “unemployed” category?
+          a. Cemal, a full-time student who is not looking for work
+          b. Halim, who is on temporary layoff
+          c. Zeynep, who has retired and is not looking for work
+          d. All of the above are correct.
+
+____   4. Who is not included in the labor force by the Bureau of Labor Statistics?
+          a. Kawanari, who is on temporary layoff
+          b. Takuji, who has retired and is not looking for work
+          c. Izumi, who does not have a job, but has applied for several in the last week
+          d. None of the above is correct.
+
+____   5. A person who is counted as unemployed by the Bureau of Labor Statistics
+          a. is also in the labor force.
+          b. must have recently looked for work or be on temporary layoff.
+          c. be at least 16 years old.
+          d. All of the above are correct.
+
+____   6. The labor-force participation rate tells us the fraction of the population that
+          a. is able to participate in the labor market.
+          b. has ever been employed.
+          c. has chosen to participate in the labor market.
+          d. has chosen not to participate in the labor market.
+
+
+
+
+                                                                                                              19
+____   7. The labor-force participation rate is computed as
+          a. (Employed Adult Population) 100.
+          b. (Employed Labor Force) 100.
+          c. (Labor Force Adult Population) 100.
+          d. (Adult Population Labor Force) 100.
+
+          Table 28-2
+          2009 Labor Data for Wrexington
+          Number of adults                                                               20,000
+          Number of adults who are paid employees                                        8,000
+          Number of adults who work in their own businesses                              1,600
+          Number of adults who are unpaid workers in a family member’s business          1,000
+          Number of adults who were temporarily absent from their jobs because of an     400
+          earthquake
+          Number of adults who were waiting to be recalled to a job from which they      200
+          had been laid off
+          Number of adults who do not have a job, are available for work, and have       1,400
+          tried to find a job within the past four weeks
+          Number of adults who do not have a job, are available for work, but have not   780
+          tried to find a job within the past four weeks
+          Number of adults who are full-time students                                    3,000
+          Number of adults who are homemakers or retirees                                3,620
+
+____   8. Refer to Table 28-2. How many people were employed in Wrexington in 2009?
+          a. 9,600
+          b. 10,600
+          c. 11,000
+          d. 11,200
+
+____   9. Which of the following is not correct?
+          a. Most people who become unemployed will soon find jobs.
+          b. In an ideal labor market, wages would adjust to ensure that all workers are always
+             fully employed.
+          c. The unemployment rate occasionally falls to zero.
+          d. There are always some workers without jobs, even when the overall economy is
+             doing well.
+
+
+
+
+                                                                                                  20
+____ 10. Meredith is looking for work as a computer programmer. Although her prospects are good, she
+         hasn't yet taken a job. Julie is looking for work in a steel mill. Every time she shows up for an
+         interview, there are more people looking for work than their are openings. Someone waiting in line
+         with her tells her it has been that way for a long time.
+         a. Meredith and Julie are both frictionally unemployed.
+         b. Meredith and Julie are both structurally unemployed.
+         c. Meredith is frictionally unemployed, and Julie is structurally unemployed.
+         d. Meredith is structurally unemployed, and Julie is frictionally unemployed.
+
+____ 11. From time to time, the demand for workers has risen in one region of the United States and fallen in
+         another. This illustrates
+         a. frictional unemployment created by efficiency wages.
+         b. structural unemployment created by efficiency wages.
+         c. frictional unemployment created by sectoral shifts.
+         d. structural unemployment created by sectoral shifts.
+
+____ 12. Which of the following is not a cause of frictional unemployment?
+         a. the destruction of manufacturing jobs
+         b. a worker leaving a job to find one with better benefits
+         c. minimum-wage laws
+         d. unemployment insurance
+
+____ 13. Which of the following does not help reduce frictional unemployment?
+         a. government-run employment agencies
+         b. public training programs
+         c. unemployment insurance
+         d. All of the above help reduce frictional unemployment.
+
+____ 14. Of the following groups, who is eligible for unemployment insurance benefits?
+         a. the unemployed who quit their jobs
+         b. the unemployed who were laid off because their previous employers no longer
+             needed their skills
+         c. the unemployed who were fired for cause
+         d. the unemployed who just entered the labor force
+
+____ 15. When a minimum-wage law forces the wage to remain above the level that balances supply and
+         demand, there are
+         a. more workers willing to work than there are jobs, so some workers are
+            unemployed.
+         b. fewer workers willing to work than there are jobs, so some workers are
+            unemployed.
+         c. more workers willing to work than there are jobs, so unemployment decreases.
+         d. fewer workers willing to work than there are jobs, so unemployment decreases.
+
+
+                                                                                                           21
+____ 16. If the minimum wage were currently above the equilibrium wage, than a decrease in the minimum
+         wage would
+         a. increase both the quantity demanded and the quantity supplied of labor.
+         b. decrease both the quantity demanded and the quantity supplied of labor.
+         c. increase the quantity of labor demanded but decrease the quantity of labor
+              supplied.
+         d. decrease the quantity of labor demanded but increase the quantity of labor
+              supplied.
+
+
+
+
+          Short Answer
+
+          The table below uses data for the year 2003 provided by the Bureau of Labor Statistics and
+          adjusted to be comparable to U.S. data. All values are in thousands. Fill in the blank entries in
+          the table.
+
+                                                                         Labor-Force
+                         Adult    Labor                        Unemploym Participation
+           Country     Population Force    Employed Unemployed     ent       Rate
+                                                                  Rate
+            Japan        109,474            62,510     3,500
+            France                  26,870             2,577                57.41
+           Germany       70,159     39,591                        9.69
+
+
+
+
+                                                                                                              22
+         TUT 4
+CASE STUDY
+        Weak savings, declining investment constrain Kenya’s job growth - report
+
+
+
+
+         KIPPRA Executive Director Eldah Onsomu speaking during the launch of the report.
+         The Kenya Institute for Public Policy Research and Analysis (Kippra) warns that weak domestic
+         savings are widening structural constraints in the economy, limiting investment and contributing to
+         slowing employment growth.
+
+         Kenya’s ability to generate jobs is increasingly under pressure as the country struggles to save
+         enough to support productive investments, a report has said.
+
+         Dubbed "Kenya Economic Report 2025" by the state-owned research firm, Kenya Institute for
+         Public Policy Research and Analysis (Kippra), it warns that weak domestic savings are widening
+         structural constraints in the economy, limiting investment and contributing to slowing employment
+         growth.
+
+
+
+
+                                                                                                         23
+The government mobilises savings through several avenues, including domestic revenue collection
+such as taxes on income, consumption, and corporate profits, as well as social contributions like
+pension schemes.
+
+It can also raise funds by issuing government bonds and treasury bills to both institutional and retail
+investors, encouraging public participation in financing national projects.
+
+Other avenues include leveraging state-owned enterprises’ retained earnings, encouraging voluntary
+savings schemes, and creating development funds that pool resources from citizens, diaspora
+remittances, and private-sector contributions to support targeted investments and infrastructure
+projects.
+
+Kippra reveals that the country’s gross national savings have remained largely stable but subdued.
+
+In 2024, savings declined marginally to 16.0 per cent of GDP from 16.1 per cent in 2023, remaining
+below the 2021 peak of 16.5 per cent.
+
+This stagnation highlights the limited capacity of households, firms and the public sector to mobilise
+sufficient resources for investment-led growth.
+
+Investment levels, however, have followed a clearer downward trend.
+
+Total investment fell from 19.0 per cent of GDP in 2019 to 17.5 per cent in 2024, signalling reduced
+capital formation across key sectors of the economy.
+
+“The declining trends in employment growth mirror the declining trends in investment,” the report
+notes.
+
+As a result, Kenya’s savings-investment gap has narrowed in recent years, shrinking from 4.9 per
+cent of GDP in 2019 to 1.6 per cent in 2024.
+
+However, Kippra cautions that this improvement does not reflect stronger savings performance.
+
+Instead, it is largely the outcome of declining investment, raising concerns about the economy’s
+future growth potential.
+
+“The improvement in the savings-investment gap is due to a decline in investment rather than a
+substantial increase in savings.”
+
+
+
+                                                                                                     24
+          1. If Kenyan households and firms continue to reduce their savings, explain what happens to the
+             Supply Curve in the loanable funds market with a graph.
+
+                  Further question:
+                  The article mentions that Kenya’s savings-investment gap narrowed from 4.9% in 2019 to
+                   1.6% in 2024. According to the KIPPRA report, why is this narrowing gap considered a
+                   negative sign for the economy rather than a positive one?
+
+          2. If the "savings-investment gap" forces interest rates to rise, explain how this change in the interest
+          rate would likely affect the level of "capital formation" (investment) mentioned in the report.
+                 Further question: Identify the specific percentage of GDP that Kenya’s gross national savings
+                    fell to in 2024, and compare it to the "peak" year mentioned in the article.
+
+           3. If Kenya successfully attracts a large amount of foreign capital, explain how this "capital inflow"
+           would shift the Supply of Loanable Funds curve.
+           Further question: The report draws a direct parallel between the "declining trends in investment" and
+           another specific economic metric. What is that metric, and what was the change in its growth rate
+           between 2019 and 2024?
+
+Multiple Choice
+Identify the choice that best completes the statement or answers the question.
+
+____   1. If the government's expenditures exceeded its receipts, it would likely
+          a. lend money to a bank or other financial intermediary.
+          b. borrow money from a bank or other financial intermediary.
+          c. buy bonds directly from the public.
+          d. sell bonds directly to the public.
+
+____   2. Which of the following is correct?
+          a. Some bonds have terms as short as a few months.
+          b. Because they are so risky, junk bonds pay a low rate of interest.
+          c. Corporations buy bonds to raise funds.
+          d. All of the above are correct.
+
+____   3. Which of the following is not correct?
+          a. If you buy a bond from a corporation, you can sell the bond to someone else before
+             it matures.
+          b. Term refers to the scheduling of periodic interest rate payments on a bond.
+          c. A bond is an IOU.
+          d. There are millions of different bonds in the U.S. economy.
+
+
+                                                                                                                25
+____   4. ABC Co. sells newly issued bonds. JLG Co. sells newly issued stocks. Which company is raising
+          funds in financial markets?
+          a. only ABC
+          b. only JLG
+          c. both ABC and JLG
+          d. neither ABC nor JLG
+
+____   5. Suppose the government finds a major defect in one of a company's products and demands that the
+          product be taken off the market. We would expect that the
+          a. supply of existing shares of the stock and the price will both rise.
+          b. supply of existing shares of the stock and the price will both fall.
+          c. demand for existing shares of the stock and the price will both rise.
+          d. demand for existing shares of the stock and the price will both fall.
+
+____   6. In the Coen Brothers’ movie The Hudsucker Proxy the board of directors picks someone to run the
+          company who they believe will make poor decisions. If things turn out as they plan,
+          a. the price of a share of stock in the Hudsucker corporation should decline as the
+              demand for shares falls.
+          b. the price of a share of stock in the Hudsucker corporation should rise as the
+              demand for shares rises.
+          c. the price of a share of stock in the Hudsucker corporation should decline as the
+              supply of existing shares falls.
+          d. the price of a share of stock in the Hudsucker corporation should rise as the supply
+              of existing shares rises.
+
+____   7. After a corporation issues stock, the stock
+          a. can not be resold.
+          b. can be resold only if the corporation wants to buy it back.
+          c. can be resold on exchanges; the resale will raise additional funds for the
+             corporation.
+          d. None of the above are correct.
+
+____   8. Which of the following is both a financial institution and a financial intermediary?
+          a. banks
+          b. stock exchanges
+          c. the bond market
+          d. All of the above are correct.
+
+____   9. The primary advantage of mutual funds is that they
+          a. always make a return that "beats the market."
+          b. allow people with small amounts of money to diversify.
+          c. provide customers with a medium of exchange.
+          d. All of the above are correct.
+
+
+                                                                                                          26
+____ 10. Suppose a closed economy had public saving of $3 trillion and private saving of $2 trillion. What are
+         national saving and investment for this country?
+         a. $5 trillion, $5 trillion
+         b. $5 trillion, $2 trillion
+         c. $1 trillion, $5 trillion
+         d. $1 trillion, $2 trillion
+
+____ 11. For a closed economy, GDP is $11 trillion, consumption is $7 trillion, taxes are $3 trillion and the
+         government runs a surplus of $1 trillion. What are private saving and national saving?
+         a. $4 trillion and $1 trillion, respectively
+         b. $4 trillion and $5 trillion, respectively
+         c. $1 trillion and $2 trillion, respectively
+         d. $1 trillion and $1 trillion, respectively
+
+____ 12. If in a closed economy Y = $11 trillion, which of the following combinations would be consistent
+         with national saving of $2.5 trillion?
+         a. C = $8 trillion, G = $.5 trillion
+         b. C = $6.5 trillion, G = $3 trillion
+         c. C = $8.5 trillion, G = $2 trillion
+         d. C = $9 trillion, G = $.5 trillion
+
+____ 13. The country of Yokovia does not trade with any other country. Its GDP is $30 billion. Its
+         government purchases $5 billion worth of goods and services each year, collects $7 billion in taxes,
+         and provides $3 billion in transfer payments to households. Private saving in Yokovia amounts to $5
+         billion. What are consumption and investment in Yokovia?
+         a. $18 billion and $5 billion, respectively
+         b. $21 billion and $4 billion, respectively
+         c. $13 billion and $7 billion, respectively
+         d. There is not enough information to answer the question.
+
+
+____ 14. Other things the same, when the interest rate rises,
+         a. people would want to lend more, making the supply of loanable funds increase.
+         b. people would want to lend less, making the supply of loanable funds decrease.
+         c. people would want to lend more, making the quantity of loanable funds supplied
+            increase.
+         d. people would want to lend less, making the quantity of loanable funds supplied
+            decrease.
+
+
+
+
+                                                                                                                27
+____ 15. Which of the following could explain an increase in the interest rate and the equilibrium quantity of
+         loanable funds?
+         a. The demand for loanable funds shifted rightward.
+         b. The demand for loanable funds shifted leftward.
+         c. The supply of loanable funds shifted rightward.
+         d. The supply of loanable funds shifted leftward.
+
+
+____ 16. Which of the following statements is correct?
+         a. As a group, economists see no purpose in distinguishing between the nominal
+            interest rate and the real interest rate.
+         b. The interest rate that is usually reported is the nominal interest rate.
+         c. If the nominal interest rate increases and the inflation rate remains unchanged, then
+            the real interest rate decreases.
+         d. All of the above are correct.
+
+
+____ 17. Suppose that Congress were to institute an investment tax credit. What would happen in the market
+         for loanable funds?
+         a. The demand for loanable funds would shift left.
+         b. The supply of loanable funds would shift left.
+         c. The demand for loanable funds would shift right.
+         d. The supply of loanable funds would shift right.
+
+
+____ 18. Suppose government expenditures on goods and services and net taxes both decrease, and
+         expenditures fall by more than net taxes. The effects of these changes on the budget deficit cause
+         a. both the equilibrium interest rate and the equilibrium quantity of loanable funds to
+            fall.
+         b. both the equilibrium interest rate and the equilibrium quantity of loanable funds to
+            rise.
+         c. the equilibrium interest rate to rise and the equilibrium quantity of loanable funds
+            to fall.
+         d. the equilibrium interest rate to fall and the equilibrium quantity of loanable funds
+            to rise.
+
+____ 19. A change in the tax laws that increases the supply of loanable funds will have a bigger effect on
+         investment when
+         a. the demand for loanable funds is more elastic and the supply of loanable funds is
+             more inelastic.
+         b. the demand for loanable funds is more inelastic and the supply of loanable funds is
+             more elastic.
+         c. both the demand for and supply of loanable funds are more elastic.
+         d. both the demand for and supply of loanable funds are more inelastic.
+
+
+                                                                                                              28
+         TUT 5
+CASE STUDY
+        Central bank reduces intervention on OMO
+
+         The open market operations (OMO) have been more stable this month after the State Bank of
+         Vietnam (SBV) reduced its intervention in the market.
+         Hanoi (VNS/VNA) - The open market operations (OMO) have been more stable this month after the
+         State Bank of Vietnam (SBV) reduced its intervention in the market.
+         According to Saigon Securities Incorporation (SSI)’s research division, the OMO had seen strong
+         fluctuations last month when the SBV consecutively injected a large amount of Vietnamese dong
+         total 46 trillion VND through bill issues.
+         In August, the SBV changed its policy, starting to withdraw cash out of the market through the
+         OMO. It withdrew more than 1 trillion VND through the bill channel in the first week of August.
+         However, SSI analysts noted, the SBV has still applied the interest rate bidding method in the OMO,
+         with a floor rate of 3.5% per year, with an aim to keep the interbank lending interest rates at high
+         levels.
+         Under the SBV’s move, the interbank lending interest rate has hit a new high, accelerating from 0.3-
+         0.5% per year to some 5% per year in the few weeks. On August 8, the interbank interest rate
+         for dong loans was at 4.42% per year for overnight terms and 4.49% per year for one-week terms.
+         According to the analysts, the SBV’s move to keep interest rates of dong loans in the interbank
+         market at a high level is aimed at making a positive gap in lending interest rates between dong and
+         US dollar loans, which will help reduce the need to hold the greenback among banks and indirectly
+         cool down the foreign exchange rate.
+         By the end of last week, the USD/VND exchange rate on the interbank channel was traded at 23,389
+         VND per dollar, lower than the SBV’s selling price of 23,400VND per dollar.
+         The listed exchange rate at Vietcom bank was at 23,250 VND and 23,530 VND per dollar for buying
+         and selling, respectively, unchanged from last week.
+         Meanwhile, the exchange rate on the free market dropped sharply to 23,930 VND and24,020 VND
+         per dollar for buying and selling, significantly narrowing the gap compared to the official market.
+         According to SSI, although the exchange rate has cooled down, the pressure is still relatively high as
+         the market has not yet determined the time and extent of interest rate hikes by the US Federal
+         Reserve (Fed).
+         SSI forecast the SBV might have to take stronger measures to stabilise the exchange rate at the end
+         of the year when the Fed’s dollar interest rate is expected to reach 3.5-3.75% per year in December.
+
+
+                                                                                                            29
+Therefore, SSI suggested the interest rate of dong loans on the interbank channel needs to hit a
+higher level to reduce pressure on the exchange rate.
+According to Tran Ngoc Bau, General Director of financial data provider WiGroup, the strong surge
+of the overnight interbank interest rate from 0.3-0.5% per year to some 5% per year in the past few
+weeks showed the SBV no longer maintained its loose monetary policy in the interbank market.
+In addition, he said, the fact that the SBV actively withdrew money through the bill issue channel,
+and at the same time limited the credit growth quota for banks, can be seen as signs of tightening
+monetary policy.
+The SBV’s moves were mainly aimed to stabilise the USD/VND exchange rate, Bau said.
+Vietcombank Securities Company (VCBS) also believes the SBV's recent interventions in the
+money market were aimed to reduce inflation and exchange rate pressures.
+However, VCBS said, the fact that the Fed is still raising interest rates will make the greenback
+appreciate and maintain relative strength compared to other currencies. In this context, VCBS
+forecasts that the dong may depreciate by 3% against the dollar this year.
+With the interbank interest rate, VCBS said the pressure from inflation has made the SBV act more
+cautiously and cannot maintain the abundant liquidity for banks.
+However, VCBS expects the liquidity pressure in the interbank market will only happen in the short
+term and interest rates will gradually cool down at the end of the year, but are unlikely to return to
+low levels as per the average threshold of 2021./.
+
+Source: https://en.vietnamplus.vn/central-bank-reduces-intervention-on-omo-post235647.vnp
+
+1.   Have you read the article yourself? What do the author mean by “injected” in the second
+     paragraph? Which word can you replace it with? How do they do this (through which action?)
+     Draw a diagram/graph to illustrate this situation.
+2.   In which paragraph do they mention an increase in the interest rate? How did this happen?
+     Draw a graph of the money market and explain why the interest rate increase?
+3.   How much will the VND decrease its value against the dollar in this article? In which line did
+     you find this information? How did they do it? How does this affect net export? And the
+     Loanable funds market?
+
+
+
+
+                                                                                                    30
+Multiple Choice
+Identify the choice that best completes the statement or answers the question.
+
+____   1. In an economy that relies upon barter,
+          a. trade does not require a double coincidence of wants.
+          b. scarce resources are allocated just as easily as they are in economies that do not
+              rely upon barter.
+          c. there is no item in the economy that is widely accepted in exchange for goods and
+              services.
+          d. All of the above are correct.
+
+
+____   2. Economists use the word "money" to refer to
+          a. income generated by the production of goods and services.
+          b. those assets regularly used to buy goods and services.
+          c. the value of a person's assets.
+          d. the value of stocks and bonds.
+
+
+____   3. Which type of money has intrinsic value?
+          a. commodity money
+          b. fiat money
+          c. both commodity money and fiat money
+          d. neither commodity money nor fiat money
+
+
+____   4. The Federal Reserve does all except which of the following?
+          a. It controls the supply of money.
+          b. It acts as a lender of last resort to banks.
+          c. It makes loans to large business firms.
+          d. It tries to ensure the health of the banking system.
+
+
+____   5. Which of the following does the Federal Reserve not do?
+          a. conduct monetary policy
+          b. act as a lender of last resort
+          c. convert Federal Reserve Notes into gold
+          d. serve as a bank regulator
+
+____   6. There is a
+          a. short-run tradeoff between inflation and unemployment.
+          b. short-run tradeoff between an increase in the money supply and inflation.
+          c. long-run tradeoff between inflation and unemployment.
+          d. long-run tradeoff between an increase in the money supply and inflation.
+
+
+                                                                                                  31
+____   7. Suppose that banks desire to hold no excess reserves, the reserve requirement is 5 percent, and a
+          bank receives a new deposit of $1,000. This bank
+          a. will increase its required reserves by $50.
+          b. will initially see its total reserves increase by $1,000.
+          c. will be able to make a new loan of $950.
+          d. All of the above are correct.
+
+____   8. Suppose banks desire to hold no excess reserves. If the reserve requirement is 15 percent and if a
+          bank receives a new deposit of $10, then this bank
+          a. must increase its required reserves by $10.
+          b. will initially see its total reserves increase by $15.
+          c. will be able to make new loans up to a maximum of $8.50.
+          d. All of the above are correct.
+
+____   9. If banks desire to hold no excess reserves, the reserve ratio is 10 percent, and a bank that was
+          previously just meeting its reserve requirement receives a new deposit of $400, then initially the
+          bank has a
+          a. $400 increase in excess reserves and no increase in required reserves.
+          b. $400 increase in required reserves and no increase in excess reserves.
+          c. $360 increase in excess reserves and $40 increase in required reserves.
+          d. $40 increase in excess reserves and $360 increase in required reserves.
+
+____ 10. If the reserve ratio is 12.5 percent, the money multiplier is
+         a. 6.25.
+         b. 8.
+         c. 12.5.
+         d. 25.
+
+           Scenario 29-2.
+           The Monetary Policy of Tazi is controlled by the country’s central bank known as the Bank of Tazi.
+           The local unit of currency is the Taz. Aggregate banking statistics show that collectively the banks
+           of Tazi hold 300 million Tazes of required reserves, 75 million Tazes of excess reserves, have issued
+           7,500 million Tazes of deposits, and hold 225 million Tazes of Tazian Treasury bonds. Tazians
+           prefer to use only demand deposits and so all money is on deposit at the bank.
+
+____ 11. Refer to Scenario 29-2. Suppose that the Bank of Tazi changes the reserve requirement ratio to 3
+         percent. Assuming that the banks still want to hold the same percentage of excess reserves what is
+         the value of the money supply after the change in the reserve requirement ratio?
+         a. 9,375 million Tazes
+         b. 10,000 million Tazes
+         c. 12,500 million Tazes
+         d. None of the above is correct to the nearest million salidos.
+
+
+
+                                                                                                               32
+____ 12. Which of the following lists two things that both increase the money supply?
+         a. lower the discount rate, raise the reserve requirement
+         b. lower the discount rate, lower the reserve requirement
+         c. raise the discount rate, raise the reserve requirement
+         d. raise the discount rate, lower the reserve requirement
+
+____ 13. Which of the following lists two things that both decrease the money supply?
+         a. make open market purchases, raise the reserve requirement
+         b. make open market purchases, lower the reserve requirement
+         c. make open market sales, raise the reserve requirement
+         d. make open market sales, lower the reserve requirement
+
+____ 14. Suppose banks decide to hold more excess reserves relative to deposits. Other things the same, this
+         action will cause the
+         a. money supply to fall. To reduce the impact of this the Fed could lower the discount
+             rate.
+         b. money supply to fall. To reduce the impact of this the Fed could raise the discount
+             rate.
+         c. money supply to rise. To reduce the impact of this the Fed could lower the
+             discount rate.
+         d. money supply to rise. To reduce the impact of this the Fed could raise the discount
+             rate.
+
+____ 15. When the Fed conducts open-market sales,
+         a. it sells Treasury securities, which increases the money supply.
+         b. it sells Treasury securities, which decreases the money supply.
+         c. it borrows from member banks, which increases the money supply.
+         d. it lends money to member banks, which decreases the money supply.
+
+____ 16. The Fed’s primary tool to change the money supply is
+         a. changing the discount rate.
+         b. changing the reserve requirement.
+         c. conducting open market operations.
+         d. redeeming Federal Reserve notes.
+
+      Short Answer
+
+       1. What is meant by the term "lender of last resort?" In what circumstances might the Fed be a lender
+          of last resort?
+
+       2. Explain why banks can influence the money supply if the required reserve ratio is less than 100
+          percent.
+
+       3. If the reserve ratio is 20 percent, how much money can be created from $100 of reserves? Show your
+          work.
+
+
+                                                                                                               33
+          TUT 6
+CASE STUDY
+        Understanding inflation in North Korea: Demand-pull and cost-push dynamics in a self-reliant
+        economy
+
+          Looking forward, several plausible scenarios emerge, though most suggest a trajectory of sustained
+          instability
+
+          By Dr. Jungho Baek
+           -
+          September 15, 2025
+          North Korea’s economy is experiencing a period of acute instability, characterized by rising
+          consumer prices, currency depreciation, and increasing policy uncertainty. Inflation in particular has
+          emerged as one of the most pressing challenges facing the regime, not only because it erodes real
+          household incomes but also because it undermines the informal markets (jangmadang) that have
+          sustained livelihoods since the collapse of the state distribution system in the 1990s. To understand
+          what is happening, why it is happening, and what might lie ahead, it is helpful to analyze the
+          phenomenon through the classic lenses of demand-pull and cost-push inflation. These frameworks
+          clarify how domestic policy missteps and external shocks are interacting in ways that could
+          destabilize both household welfare and the broader economic system.
+          What is happening with inflation?
+          Since late 2023, the North Korean government has implemented a comprehensive wage reform that
+          has dramatically increased salaries for state-sector workers, in some cases by as much as fifty times.
+          These sharp increases have injected large amounts of cash into the economy without any
+          corresponding rise in productivity or output. From the perspective of demand-pull inflation, this
+          represents a classic imbalance: more money is now circulating, but the supply of goods has not
+          expanded in step. The immediate consequence is that households with access to wages have more
+          nominal purchasing power, which pushes up demand for food and consumer items.
+          Simultaneously, the country is grappling with a currency crisis that has triggered cost-push inflation.
+          The North Korean won has depreciated severely against the U.S. dollar, collapsing from roughly
+          8,000 won per dollar after the pandemic to over 40,000 won per dollar by mid-2025. This sharp
+          devaluation has dramatically raised the cost of imported goods and commodities, which are critical
+          inputs for both households and state industries. The price of rice has soared from approximately
+          4,000 won per kilogram to 20,000 won, while the cost of corn has tripled from 2,000 won to 6,000
+          won. Since grains represent around 70 percent of household consumption, such increases directly
+          translate into severe hardship for the majority of citizens.
+
+
+                                                                                                              34
+The interaction of these two forces—policy-induced demand surges and externally driven supply
+shocks—has created a volatile and unprecedented inflationary environment. Instead of strengthening
+the state sector, the reforms are eroding the purchasing power of wages, destabilizing the informal
+markets that provide most goods, and amplifying the vulnerabilities of an already fragile economy.
+What are the underlying reasons?
+The roots of this inflationary crisis lie in a misalignment between policy and economic fundamentals.
+At the core is the government’s attempt to use wage hikes as a tool to revive the socialist economy
+and reassert control over labor. The official rationale was to lure workers away from the informal
+markets back into state factories and enterprises. However, without parallel increases in
+productivity—such as through the modernization of outdated machinery, the introduction of new
+technology, or the restoration of disrupted supply chains—higher wages translate into higher
+demand without corresponding increases in supply. In demand-pull terms, this is a textbook recipe
+for inflation: money incomes rise, but real goods do not, pushing up prices while eroding the real
+value of those very wages. For ordinary North Koreans, this effectively acts as an inflation tax,
+reducing their ability to purchase essentials and undermining the informal market system that
+sustains 70 percent of economic activity.
+At the same time, structural supply constraints have intensified. North Korea’s rigid adherence to
+self-reliance means that its economy lacks flexibility in production and is highly exposed to external
+shocks. The steep depreciation of the won against the U.S. dollar has inflated the price of imported
+goods, which are indispensable given the country’s limited domestic production capacity. The
+depreciation—driven partly by the strengthening dollar and compounded by international sanctions
+and restricted trade with China—has led to soaring food and consumer prices. In such a context,
+supply cannot adjust quickly enough, embedding cost-push inflation into the economy.
+Finally, the regime’s broader misallocation of resources has worsened the inflationary spiral.
+Substantial state investments have been directed toward nuclear weapons, missile development, and
+massive construction projects, rather than into productive sectors such as agriculture or consumer
+manufacturing. This diversion of capital and labor reduces the economy’s capacity to produce
+essential goods, amplifying shortages and making the state’s wage policy even more inflationary.
+Thus, demand-side stimulus collides with supply-side rigidity, reinforcing the inflationary spiral and
+undermining the stability of markets.
+What are the possible future scenarios?
+Looking forward, several plausible scenarios emerge, though most suggest a trajectory of sustained
+instability. In the short term, the regime may continue to use Russian hard-currency inflows to
+finance wage payments and stabilize the exchange rate. This could temporarily mask the worst
+effects of inflation, but the benefits will be unevenly distributed: households with access to dollars or
+
+
+
+                                                                                                     35
+state wages may cope, while the majority dependent on informal markets will face worsening
+poverty as prices for basic necessities remain at record highs.
+In the medium term, the risks of stagflation are significant. If Russian support diminishes or
+sanctions tighten further, the government will lack the resources to maintain its inflated wage
+structure. In this scenario, nominal wages may remain high in official statistics, but their real value
+will plummet as the won continues to depreciate and cost-push pressures from import dependency
+persist. This would result in an economy characterized by both persistent inflation and stagnating
+output, exacerbating economic suffering.
+There is also the possibility of historical repetition, echoing the 2009 currency reform. Then, state
+interventions wiped out household savings, triggered hyperinflation, and provoked rare public
+protests. The current experiment with wage hikes and forced re-centralization of the economy could
+lead to a similar outcome. If inflation accelerates beyond control, the regime may again resort to
+repression and scapegoating of traders, potentially dismantling the jangmadang system and
+intensifying hardship.
+Finally, a scenario of policy confusion within the self-reliance framework appears likely. The
+government’s ideological commitment to Juche economics clashes with its increasing dependence
+on external hard-currency inflows, particularly from Russia. As the won continues to depreciate
+against the dollar, and as the state attempts to sustain demand through wage increases while failing
+to bolster supply, contradictions in policy will deepen. Such reactive policymaking risks prolonging
+economic instability and eroding the resilience of both households and informal markets.
+Conclusion
+North Korea’s inflation crisis is best understood as the outcome of simultaneous demand-pull and
+cost-push forces. On one side, wage hikes without productivity gains have spurred demand beyond
+the economy’s capacity to supply, driving prices higher and imposing an inflation tax on households.
+On the other hand, currency depreciation, external sanctions, and chronic supply disruptions have led
+to cost-push inflation, resulting in persistently high prices in the economy. These pressures are
+intensified by the regime’s misallocation of scarce resources toward military and prestige projects
+rather than productive sectors. The result is a deepening structural imbalance that undermines the
+informal markets responsible for most of the country’s economic vitality. Looking ahead, North
+Korea may achieve only short-term stability by relying on external financial inflows; however, the
+more likely trajectory is one of stagflation, persistent inflation, or even a recurrence of past crises.
+Without a decisive pivot toward genuine supply-side reforms and greater international economic
+engagement, inflation will remain both a symptom and a driver of systemic fragility in the North
+Korean economy.
+Source: https://www.dailynk.com/english/understanding-inflation-in-north-korea-demand-pull-and-
+cost-push-dynamics-in-a-self-reliant-economy/
+
+
+                                                                                                     36
+           Q1: Wage Reform and Rationale
+          According to the article, by how much did the North Korean government increase state-sector wages
+           starting in late 2023? What was the regime's primary "official rationale" for this drastic policy?
+           Which graph do you use to illustrate this situation?
+           Q2: Currency and Commodity Prices
+           Use the data in the article to describe the change in the value of the North Korean won against the
+           USD from the post-pandemic period to mid-2025. How did this specifically impact the price of rice?
+           What is the name of this incident? Where does it come from?
+           Q3: Demand-Pull vs. Cost-Push Dynamics
+           The author describes a "classic imbalance" regarding demand-pull inflation in North Korea. Explain
+           how the 2023 wage hike led to demand-pull inflation. Then, identify one factor mentioned in the text
+           that is simultaneously causing cost-push inflation.
+           Q5: The "Inflation Tax"
+           The author argues that for ordinary North Koreans, these reforms effectively act as an "inflation
+           tax." Explain what this means in the context of the article. Who is most vulnerable to this "tax," and
+           why?
+           The article mentions North Korea's ideological commitment to Juche (self-reliance). How does the
+           article suggest this ideology is currently being contradicted by the regime's financial reality? What
+           "external factor" is temporarily masking the worst effects of inflation?
+
+Multiple Choice
+Identify the choice that best completes the statement or answers the question.
+
+____   1. In which of the following cases was the inflation rate 10 percent over the last year?
+          a. One year ago the price index had a value of 110 and now it has a value of 120.
+          b. One year ago the price index had a value of 120 and now it has a value of 132.
+          c. One year ago the price index had a value of 126 and now it has a value of 140.
+          d. One year ago the price index had a value of 145 and now it has a value of 163.
+
+____   2. When prices are falling, economists say that there is
+          a. disinflation.
+          b. deflation.
+          c. a contraction.
+          d. an inverted inflation.
+
+____   3. With the value of money on the vertical axis, the money supply curve is
+          a. upward-sloping.
+          b. downward-sloping.
+          c. horizontal.
+          d. vertical.
+
+
+                                                                                                              37
+____   4. The inflation tax refers to
+          a. the revenue a government creates by printing money.
+          b. higher inflation which requires more frequent price changes.
+          c. the idea that, other things the same, an increase in the tax rate raises the inflation
+             rate.
+          d. taxes being indexed for inflation.
+
+____   5. When the money market is drawn with the value of money on the vertical axis, as the price level
+          increases the quantity of money
+          a. demanded increases.
+          b. demanded decreases.
+          c. supplied increases.
+          d. supplied decreases.
+
+____   6. Suppose the money market, drawn with the value of money on the vertical axis, is in equilibrium. If
+          the money supply increases, then at the old value of money there is an
+          a. excess demand for money that will result in an increase in spending.
+          b. excess demand for money that will result in a decrease in spending.
+          c. excess supply of money that will result in an increase in spending.
+          d. excess supply of money that will result in a decrease in spending.
+
+
+____   7. If the Fed increases the money supply, then 1/P
+          a. falls, so the value of money falls.
+          b. falls, so the value of money rises.
+          c. rises, so the value of money falls.
+          d. rises, so the value of money rises.
+
+
+____   8. When the money market is drawn with the value of money on the vertical axis, an increase in the
+          money supply causes the equilibrium value of money
+          a. and equilibrium quantity of money to increase.
+          b. and equilibrium quantity of money to decrease.
+          c. to increase, while the equilibrium quantity of money decreases.
+          d. to decrease, while the equilibrium quantity of money increases.
+
+
+
+
+                                                                                                            38
+____   9. Refer to Figure 30-1. If the money supply is MS2 and the value of money is 2, then
+          a. the value of money is lower than its equilibrium level.
+          b. the price level is higher than its equilibrium level.
+          c. the quantity of money demanded is greater than the quantity of money supplied.
+          d. the quantity of money supplied is greater than the quantity of money demanded.
+
+
+          Figure 30-2. On the graph, MS represents the money supply and MD represents money demand.
+          The usual quantities are measured along the axes.
+
+
+
+
+____ 10. Refer to Figure 30-2. If the relevant money-demand curve is the one labeled MD1, then
+         a. when the money market is in equilibrium, one dollar purchases one-half of a
+            basket of goods and services.
+         b. when the money market is in equilibrium, one unit of goods and services sells for 2
+            dollars.
+         c. there is an excess demand for money if the value of money in terms of goods and
+            services is 0.375.
+         d. All of the above are correct.
+
+
+
+
+                                                                                                      39
+____ 11. Last year, Tealandia produced 50,000 bags of green tea, and tea was the only good Tealandia
+         produced. Each bag sold at 4 units each of Tealandia's currency — the Leaf. Tealandia's money
+         supply was 40,000. What was the velocity of money in Tealandia?
+         a. 20
+         b. 5
+         c. 1/20
+         d. 1/5
+
+____ 12. If Y and M are constant, and V doubles, the quantity equation implies that the price level
+         a. falls to half it’s original level.
+         b. doubles.
+         c. more than doubles.
+         d. does not change.
+
+____ 13. Suppose over some period of time the money supply tripled, velocity fell by half, and real GDP
+         doubled. According to the quantity equation the price level is now
+         a. 6 times its old value.
+         b. 3 times its old value.
+         c. 1.5 times its old value.
+         d. 0.75 times its old value.
+
+____ 14. Suppose monetary neutrality holds and velocity is constant. A 5 percent increase in the money
+         supply
+         a. increases the price level by more than 5 percent.
+         b. increases the price level by 5 percent.
+         c. increases the price level by 5 percent.
+         d. does not change the price level.
+
+
+____ 15. The evidence from hyperinflations indicates that money growth and inflation
+         a. are positively related, which is consistent with the quantity theory of money.
+         b. are positively related, which is not consistent with the quantity theory of money.
+         c. are not related in a discernible fashion, which is consistent with the quantity theory
+            of money.
+         d. are not related in a discernible fashion, which is not consistent with the quantity
+            theory of money.
+
+____ 16. Whitney puts money in a savings account at her bank earning 3.5 percent. One year later she takes
+         her money out and notes that while her money was earning interest, prices rose 1.5 percent. Whitney
+         earned a nominal interest rate of
+         a. 3.5 percent and a real interest rate of 5 percent.
+         b. 3.5 percent and a real interest rate of 2 percent.
+         c. 5 percent and a real interest rate of 3.5 percent
+         d. 5 percent and a real interest rate of 2 percent
+
+
+                                                                                                          40
+____ 17. For a given real interest rate, a decrease in the inflation rate would
+         a. decrease the after-tax real interest rate and so decrease saving.
+         b. decrease the after-tax real interest rate and so increase saving.
+         c. increase the after-tax real interest rate and so decrease saving.
+         d. increase the after-tax real interest rate and so increase saving.
+
+____ 18. Wealth is redistributed from creditors to debtors when inflation was expected to be
+         a. high and it turns out to be high.
+         b. low and it turns out to be low.
+         c. low and it turns out to be high.
+         d. high and it turns out to be low.
+
+____ 19. If inflation is higher than what was expected,
+         a. creditors receive a lower real interest rate than they had anticipated.
+         b. creditors pay a lower real interest rate than they had anticipated.
+         c. debtors receive a higher real interest rate than they had anticipated.
+         d. debtors pay a higher real interest rate than they had anticipated.
+
+
+        Short Answer
+
+       1. Wages and prices are many times higher today than they were 30 years ago, yet people do not work
+          a lot more hours or buy fewer goods. How can this be?
+
+       2. What is the inflation tax, and how might it explain the creation of inflation by a central bank?
+
+       3. Economists agree that increases in the money-supply growth rate increase inflation and that inflation
+          is undesirable. So why have there been hyperinflations and how have they been ended?
+
+
+
+
+                                                                                                             41
+           TUT 7
+CASE STUDY
+        Stronger solutions needed to boost domestic consumption demand
+        HÀ NỘI — Việt Nam needs to apply stronger solutions to boost domestic consumption demand to
+        drive economic growth this year.
+        Domestic consumption is one of three drivers for growth, besides investment and export, and is the
+        only pillar which finished the target last year with total retail sales of goods and services rising by
+        9.6 per cent, according to the General Statistics Office’s report.
+        Public investment disbursement was estimated at 73.5 per cent of the plan while bottlenecks in the
+        legal system, if not changed thoroughly, would continue to be a barrier in 2024.
+        Regarding trade, acceleration in the last months of 2023 could not help this pillar reach the finish
+        line as import-export revenue fell by 6.6 per cent against 2022 to $683 billion, although the trade
+        surplus was more than two times higher at $28 billion.
+        In the context of rising global uncertainties, aggregate demand was unlikely to recover to the level of
+        the pre-pandemic period, so Việt Nam needs to take advantage of extensive and comprehensive
+        cooperation to create momentum for 2024.
+        Lê Quốc Phương, former Deputy Director of the Việt Nam Industry and Trade Information Centre,
+        said that the total retail sales of goods and services jumped quite high, by nearly 10 per cent, but the
+        domestic aggregate demand was low. “The increase might be mainly from tourism and services,
+        while consumption was not very positive,” Phương said.
+        Low consumption demand stemmed from the economic recession and a decrease in average income,
+        forcing consumers to tighten spending.
+        A survey by PwC last year found that Vietnamese consumers had become more cautious with their
+        spending habits. Specifically, 63 per cent of surveyed consumers tended to cut unnecessary spending
+        due to concerns over rising prices, 54 per cent cut spending on luxury products and 13 per cent cut
+        spending on grocery and food products.
+        According to Vũ Vinh Phú, an expert in trade, it is necessary to introduce appropriate policies to
+        stimulate domestic purchasing power.
+        The Government’s policy of continuing reducing value added tax (VAT) by two percentage points to
+        the end of June is a solution. However, the VAT reduction policy should be longer, together with
+        bigger reductions for necessary products.
+        To stimulate domestic consumption, prices must be lower, Nguyễn Ngọc Hoà, President of HCM
+        City Business Association said, adding that enterprises need support from the Government to
+        implement demand stimulus activities.
+
+
+
+
+                                                                                                             42
+Greater attention should be paid to developing the domestic market which plays a significant role in
+ensuring a firm foundation for the economy, economist Trần Đình Thiên said.
+According to Lê Việt Nga, Deputy Director of the Domestic Market Department under the Ministry
+of Industry and Trade, the domestic market is always a foundation for Vietnamese businesses in all
+situations. “The domestic market needs to be further promoted with effective and practical demand
+stimulation programmes,” she said. — VNS
+
+Source:    https://vietnamnews.vn/economy/1638941/stronger-solutions-needed-to-boost-domestic-
+consumption-demand.html
+
+1. What are the main ideas of paragraph 1,2,3,4,5? Which problem does the economy face? What
+   kind of gap do you think they mention in the article? Where do you think the government wants
+   the output to be?
+Draw the graph of the situation and illustrate the problem on the graph.
+2. What was Mr. Phuong’s point of view regarding consumption in comparison with other factors?
+   Where did you find this information? Find a synonym for the word “to originate from” in the
+   article. Why did the people tend to decrease their consumption? What kind of good do they
+   consume less in your opinion?
+3. What are some possible solutions does the government think of to solve the problem? How does
+   that reflect in the formula of the total output? Can you draw a graph of the situation and explain
+   how the solution may help close the gap we mentioned earlier in question 1?
+
+
+
+
+                                                                                                  43
+Multiple Choice
+Identify the choice that best completes the statement or answers the question.
+
+____   1. During recessions investment
+          a. falls by a larger percentage than GDP.
+          b. falls by about the same percentage as GDP.
+          c. falls by a smaller percentage than GDP.
+          d. falls but the percentage change is sometimes much larger and sometimes much
+             smaller.
+
+
+____   2. According to classical macroeconomic theory, changes in the money supply affect
+          a. nominal variables and real variables.
+          b. nominal variables, but not real variables.
+          c. real variables, but not nominal variables.
+          d. neither nominal nor real variables.
+
+
+____   3. The aggregate demand and aggregate supply graph has
+          a. the price level on the horizontal axis. The price level can be measured by the GDP
+             deflator.
+          b. the price level on the horizontal axis. The price level can be measured by real
+             GDP.
+          c. the price level on the vertical axis. The price level can be measured by the GDP
+             deflator.
+          d. the price level on the vertical axis. The price level can be measured by GDP.
+
+
+____   4. The model of aggregate demand and aggregate supply explains the relationship between
+          a. the price and quantity of a particular good.
+          b. unemployment and output.
+          c. wages and employment.
+          d. real GDP and the price level.
+
+
+____   5. Other things the same, a fall in an economy's overall level of prices tends to
+          a. raise both the quantity demanded and supplied of goods and services.
+          b. raise the quantity demanded of goods and services, but lower the quantity supplied.
+          c. lower the quantity demanded of goods and services, but raise the quantity supplied.
+          d. lower both the quantity demanded and the quantity supplied of goods and services.
+
+
+
+
+                                                                                                   44
+____   6. In the context of aggregate demand and aggregate supply, the wealth effect refers to the idea that,
+          when the price level decreases, the real wealth of households
+          a. increases and as a result consumption spending increases. This effect contributes
+              to the downward slope of the aggregate-demand curve.
+          b. decreases and as a result consumption spending increases. This effect contributes
+              to the upward slope of the aggregate-supply curve.
+          c. increases and as a result households increase their money holdings; in turn, interest
+              rates increase and investment spending decreases. This effect contributes to the
+              downward slope of the aggregate-demand curve.
+          d. decreases and as a result households increase their money holdings; in turn,
+              interest rates increase and investment spending decreases. This effect contributes
+              to the upward slope of the aggregate-supply curve.
+
+____   7. Other things the same, if the price level falls, people
+          a. increase foreign bond purchases, so the supply of dollars in the market for foreign-
+             currency exchange increases.
+          b. increase foreign bond purchases, so the supply of dollars in the market for foreign-
+             currency exchange decreases.
+          c. decrease foreign bond purchases, so the supply of dollars in market for foreign-
+             currency exchange increases.
+          d. decrease foreign bond purchases, so the supply of dollars in the market for foreign-
+             currency exchange decreases.
+
+____   8. As the price level rises,
+          a. the exchange rate falls, so net exports fall.
+          b. the exchange rate falls, so net exports rise.
+          c. the exchange rate rises, so net exports fall.
+          d. the exchange rate rises, so net exports rise.
+
+____   9. A decrease in U.S. interest rates leads to
+          a. a depreciation of the dollar that leads to greater net exports.
+          b. a depreciation of the dollar that leads to smaller net exports.
+          c. an appreciation of the dollar that leads to greater net exports.
+          d. an appreciation of the dollar that leads to smaller net exports.
+
+____ 10. Other things the same, as the price level falls, the real value of a dollar
+         a. rises, and interest rates rise.
+         b. rises, and interest rates fall.
+         c. falls, and interest rates rise.
+         d. falls, and interest rates fall.
+
+
+
+
+                                                                                                                45
+____ 11. If the dollar appreciates because of speculation or government policy
+         a. aggregate demand shifts left. If other countries experience recessions, aggregate
+              demand in the U.S. also shifts left.
+         b. aggregate demand shifts left. If other countries experience recessions, aggregate
+              demand in the U.S. shifts right.
+         c. aggregate demand shifts right. If other countries experience recessions, aggregate
+              demand in the U.S. shifts left.
+         d. aggregate demand shifts right. If other countries experience recessions, aggregate
+              demand in the U.S. also shifts right.
+
+____ 13. Other things the same, if the long-run aggregate supply curve shifts right, prices
+         a. and output both increase.
+         b. and output both decrease.
+         c. increase and output decreases.
+         d. decrease and output increases.
+
+____ 14. The aggregate supply curve is upward sloping in
+         a. the short and long run.
+         b. neither the short nor long run.
+         c. the long run, but not the short run.
+         d. the short run, but not the long run.
+
+____ 15. Other things the same, the aggregate quantity of output supplied will decrease if the price level
+         a. is lower than expected so that firms believe the relative price of their output has
+            increased.
+         b. is lower than expected so that firms believe the relative price of their output has
+            decreased.
+         c. is higher than expected so that firms believe the relative price of their output has
+            increased.
+         d. is higher than expected so that firms believe the relative price of their output has
+            decreased.
+
+
+           Figure 33-2.
+
+
+
+
+                                                                                                             46
+____ 16. Refer to Figure 33-2. Point B represents
+         a. a short-run equilibrium and a long-run equilibrium.
+         b. a short-run equilibrium but not a long-run equilibrium.
+         c. a long-run equilibrium but not a short-run equilibrium.
+         d. neither a short-run equilibrium nor a long-run equilibrium.
+
+
+           The Stock Market Boom of 2014
+           Imagine that in 2014 the economy is in long-run equilibrium. Then stock prices rise more than
+           expected and stay high for some time.
+
+____ 17. Refer to Stock Market Boom 2014. In the short run what happens to the price level and real GDP?
+         a. both the price level and real GDP rise.
+         b. both the price level and real GDP fall.
+         c. the price level rises and real GDP falls.
+         d. the price level falls and real GDP rises.
+
+
+           Optimism
+           Imagine that the economy is in long-run equilibrium. Then, perhaps because of improved
+           international relations and increased confidence in policy makers, people become more optimistic
+           about the future and stay this way for some time.
+
+____ 18. Refer to Optimism. What happens to the expected price level and what’s the result for wage
+         bargaining?
+         a. The expected price level falls. Bargains are struck for higher wages.
+         b. The expected price level falls. Bargains are struck for lower wages.
+         c. The expected price level rises. Bargains are struck for higher wages.
+         d. The expected price level rises. Bargains are struck for lower wages.
+
+____ 19. Which of the following would increase the price level?
+         a. an increase in the money supply.
+         b. an increase in taxes.
+         c. a decrease in the expected price level.
+         d. a decrease in the natural rate of unemployment.
+
+
+____ 20. When production costs rise,
+         a. the short-run aggregate supply curve shifts to the right.
+         b. the short-run aggregate supply curve shifts to the left.
+         c. the aggregate demand curve shifts to the right.
+         d. the aggregate demand curve shifts to the left.
+
+
+
+
+                                                                                                              47
+Short Answer
+
+      1. Make a list of things that would shift the aggregate demand curve to the right.
+
+      2. Make a list of things that would shift the long-run aggregate supply curve to the right.
+
+      3. Suppose that a decrease in the demand for goods and services pushes the economy into recession.
+         What happens to the price level? If the government does nothing, what ensures that the economy still
+         eventually gets back to the natural rate of output?
+
+
+
+
+                                                                                                          48
+           TUT 8
+CASE STUDY
+        Japan: Fiscal Consolidation and Gradual Monetary Policy Normalization Key to
+        Sustaining Economic Resilience
+        SINGAPORE, March 4, 2025 – The Japanese economy is projected to grow at 1.3 percent in 2025,
+        driven by sustained wage gains, strong business investments, and resilient performance in goods
+        exports and tourism. While inflation has eased, it is expected to remain above the Bank of Japan’s
+        (BOJ) target, with CPI (excluding fresh food) inflation estimated to average 2.2 percent in 2025.
+        Amid ongoing uncertainties surrounding the growth and inflation outlook, the BOJ should maintain
+        a flexible, data-driven approach to monetary policy. Meanwhile, with public debt at elevated levels
+        and rising fiscal pressures due to an aging population, stronger fiscal consolidation efforts will be
+        needed to strengthen fiscal resilience.
+        These policy recommendations are highlighted in the 2024 Annual Consultation Report on
+        Japan published today by the ASEAN+3 Macroeconomic Research Office (AMRO). The report is
+        based on AMRO’s Annual Consultation Visit to Japan which was completed on November 22, 2024,
+        and data and information available up to December 13, 2024.
+        Recent developments and outlook
+        Japan’s economic growth moderated to 0.1 percent in 2024 following the post-pandemic rebound.
+        Although the economy contracted sharply in Q1 2024, growth rebounded over the subsequent three
+        quarters, driven by strong consumption as wage hikes from the “Shunto” wage negotiations began to
+        take effect. Wage increases are expected to remain high on account of a tight labor market and a
+        shift in firm behavior. Corporate earnings are also expected to contribute to higher wages and
+        increased capital investment in 2025, further boosting domestic demand. Goods exports and tourism
+        are projected to remain robust, provided there is no sharp slowdown in major global economies.
+        While inflation slowed in 2024, CPI (excluding fresh food) inflation remained above the inflation
+        target at 3.0 percent in December. Stripping out fresh food and energy, “core-core” CPI inflation was
+        stable at 2.4 percent in the last two months of 2024 after increasing in successive months since July.
+        Amid a positive shift in firms’ wage- and price-setting behavior, the BOJ terminated its yield curve
+        control and negative-interest rate policy in March 2024, and renormalized its monetary policy
+        framework using short-term interest rate as its main policy instrument.
+        Japan’s current account surplus remained substantial at 4.8 percent of GDP in 2024, up from 3.8
+        percent in 2023. The larger surplus primarily reflects a narrower trade deficit and a higher primary
+        income surplus. While automobile exports were negatively affected by factory closures related to
+        safety certification issues, exports of semiconductors and semiconductor equipment surged reflecting
+        the upswing in the tech cycle.
+
+
+                                                                                                           49
+Credit growth expanded by over 3.3 percent in 2024, driven by resilient domestic demand and
+accommodative lending stance of banks. The overall banking system remains sound, supported by
+strong asset quality, adequate capital buffers, and robust profitability.
+The fiscal deficit is projected to widen to 3.6 percent of GDP in FY2024 from 2.9 percent in FY2023
+despite the gradual phase-out of some economic support packages. This increase reflects a sharper
+decline in revenue due to a temporary income tax cut, lower carryover revenue from the previous
+year, and higher spending from a supplementary budget amounting to JPY13.9 trillion. While public
+debt has been declining steadily after a significant increase during the COVID-19 pandemic, it
+remains high, at 240.6 percent of GDP in FY2024.
+Risks, vulnerabilities, and challenges
+Japan’s macrofinancial outlook is skewed to the downside, reflecting substantial uncertainties,
+particularly from external factors. Key risks include a spike in global commodity prices triggered by
+escalating geopolitical tensions and a pronounced economic slowdown in other major economies.
+On the domestic front, a slowdown in wage growth could undermine the BOJ’s efforts to achieve its
+2-percent inflation target. Conversely, a significant overshoot of inflation above its target could force
+a sharp tightening of monetary policy, straining households and businesses. Higher interest rates
+would also challenge fiscal sustainability by driving up interest payments on the government’s
+substantial debt.
+1.      What is the author’s attitude towards Japan’s inflation in 2025? What happened to their
+economy from January to March in 2025? Why did it happen? How is that related to the graph of
+AD and AS? Find in the article a sign of a fiscal policy?
+2.      “On the domestic front, a slowdown in wage growth could undermine the BOJ’s efforts to
+achieve its 2-percent inflation target.” Explain this sentence with a graph
+3.      If Japan wants to achieve the same result with a monetary policy, how should they do it?
+Facilitate your answer with a graph
+
+
+
+
+                                                                                                      50
+Multiple Choice
+Identify the choice that best completes the statement or answers the question.
+
+____   1. According to the liquidity preference theory, an increase in the overall price level of 10 percent
+          a. increases the equilibrium interest rate, which in turn decreases the quantity of
+             goods and services demanded.
+          b. decreases the equilibrium interest rate, which in turn increases the quantity of
+             goods and services demanded.
+          c. increases the quantity of money supplied by 10 percent, leaving the interest rate
+             and the quantity of goods and services demanded unchanged.
+          d. decreases the quantity of money demanded by 10 percent, leaving the interest rate
+             and the quantity of goods and services demanded unchanged.
+
+____   2. In which of the following cases would the quantity of money demanded be largest?
+          a. r = 0.03, P = 1.4
+          b. r = 0.03, P = 1.2
+          c. r = 0.04, P = 1.2
+          d. r = 0.06, P = 1.0
+
+____   3. According to the theory of liquidity preference, which variable adjusts to balance the supply and
+          demand for money?
+          a. interest rate
+          b. money supply
+          c. quantity of output
+          d. price level
+
+
+           Figure 34-2. On the left-hand graph, MS represents the supply of money and MD represents the
+           demand for money; on the right-hand graph, AD represents aggregate demand. The usual quantities
+           are measured along the axes of both graphs.
+
+
+
+
+                                                                                                               51
+____   4. Refer to Figure 34-2. A decrease in Y from Y1 to Y2 is explained as follows:
+          a. The Federal Reserve increases the money supply, causing the money-demand
+             curve to shift from MD1 to MD2; this shift of MD causes r to increase from r1 to r2;
+             and this increase in r causes Y to decrease from Y1 to Y2.
+          b. An increase in P from P1 to P2 causes the money-demand curve to shift from MD1
+             to MD2; this shift of MD causes r to increase from r1 to r2; and this increase in r
+             causes Y to decrease from Y1 to Y2.
+          c. A decrease in P from P2 to P1 causes the money-demand curve to shift from MD1
+             to MD2; this shift of MD causes r to increase from r1 to r2; and this increase in r
+             causes Y to decrease from Y1 to Y2.
+          d. An increase in the price level causes the money-demand curve to shift from MD2
+             to MD1; this shift of MD causes r to decrease from r2 to r1; and this decrease in r
+             causes Y to decrease from Y1 to Y2.
+
+
+____   5. Refer to Figure 34-2. As we move from one point to another along the money-demand curve MD1,
+          a. the price level is held fixed at P1.
+          b. the interest rate is held fixed at r1.
+          c. the money supply is changing so as to keep the money market in equilibrium.
+          d. the expected inflation rate is changing so as to keep the real interest rate constant.
+
+
+____   6. Refer to Figure 34-2. Assume the money market is always in equilibrium, and suppose r1 = 0.08; r2
+          = 0.12; Y1 = 13,000; Y2 = 10,000; P1 = 1.0; and P2 = 1.2. Which of the following statements is
+          correct? When P = P2,
+          a. investment is lower than it is when P = P1.
+          b. nominal output is higher than it is when P = P1.
+          c. the expected rate of inflation is higher than it is when P = P1.
+          d. the velocity of money is higher than it is when P = P1.
+
+
+
+
+                                                                                                        52
+____   7. According to liquidity preference theory, if the quantity of money demanded is greater than the
+          quantity supplied, then the interest rate will
+          a. increase and the quantity of money demanded will decrease.
+          b. increase and the quantity of money demanded will increase.
+          c. decrease and the quantity of money demanded will decrease.
+          d. decrease and the quantity of money demanded will increase.
+
+
+____   8. Which of the following events would shift money demand to the right?
+          a. an increase in the interest rate or an increase in the price level
+          b. an increase in the interest rate, but not an increase in the price level
+          c. an increase in the price level, but not an increase in the interest rate
+          d. neither an increase in the interest rate nor an increase in the price level
+
+
+____   9. Which of the following events would shift money demand to the left?
+          a. an increase in the interest rate or an increase in the price level
+          b. an increase in the interest rate, but not an increase in the price level
+          c. an increase in the price level, but not an increase in the interest rate
+          d. neither an increase in the interest rate nor an increase in the price level
+
+
+
+____ 10. The multiplier for changes in government spending is calculated as
+         a. MPC.
+         b. 1 - MPC.
+         c. 1/MPC.
+         d. 1/(1 - MPC).
+
+
+          Figure 34-4. On the figure, MS represents money supply and MD represents money demand.
+
+
+
+
+                                                                                                            53
+____ 11. Refer to Figure 34-4. A shift of the money-demand curve from MD2 to MD1 is consistent with
+         which of the following sets of events?
+         a. The government cuts taxes, resulting in an increase in people’s incomes.
+         b. The government reduces government spending, resulting in a decrease in people’s
+            incomes.
+         c. The Federal Reserve increases the supply of money, which decreases the interest
+            rate.
+         d. All of the above are correct.
+
+
+____ 12. An increase in government spending initially and primarily shifts
+         a. aggregate demand to the right.
+         b. aggregate demand to the left.
+         c. aggregate supply to the right.
+         d. neither aggregate demand nor aggregate supply in either direction.
+
+
+____ 14. If taxes
+         a. increase, then consumption increases, and aggregate demand shifts rightward.
+         b. increase, then consumption decreases, and aggregate demand shifts leftward.
+         c. decrease, then consumption increases, and aggregate demand shifts leftward.
+         d. decrease, then consumption decreases, and aggregate demand shifts rightward.
+
+
+____ 17. If businesses and consumers become pessimistic, the Federal Reserve can attempt to reduce the
+         impact on the price level and real GDP by
+         a. increasing the money supply, which raises interest rates.
+         b. increasing the money supply, which lowers interest rates.
+         c. decreasing the money supply, which raises interest rates.
+         d. decreasing the money supply, which lowers interest rates.
+
+
+____ 18. Which of the following policies would be advocated by proponents of stabilization policy when the
+         economy is experiencing severe unemployment?
+         a. a decrease in the money supply
+         b. a reduction in tax rates
+         c. a decrease in government purchases
+         d. None of the above is correct.
+
+
+
+
+                                                                                                         54
+          Figure 34-6.
+
+
+
+
+____ 19. Refer to Figure 34-6. Which of the following is correct?
+         a. Unemployment rises as the economy moves from point a to point b.
+         b. Either fiscal or monetary policy could be used to move the economy from point b
+            to point a.
+         c. If the economy is left alone, then as the economy moves from point b to long-run
+            equilibrium, the price level will fall farther.
+         d. All of the above are correct.
+
+Short Answer
+
+       1. Describe the process in the money market by which the interest rate reaches its equilibrium value if
+          it starts above equilibrium.
+
+       2. Explain the logic according to liquidity preference theory by which an increase in the money supply
+          changes the aggregate demand curve.
+
+
+
+
+                                                                                                             55
+          TUT 9
+
+CASE STUDY
+        Export strength does not equal tech strength: Rethinking EU comparative advantage
+        Amid geopolitical shocks, the EU is revisiting its industrial strategy. However, traditional metrics
+        often paint a misleading picture of Europe’s underlying strength. This column uses a new approach
+        to measure the EU’s relative state of technology in different sectors. It shows that although EU
+        manufacturing broadly outperforms the rest of the world in productivity terms, the industries in
+        which it specialises are not always those in which it is relatively more productive. It argues that
+        industrial policy must be rooted in productivity diagnostics and support should target sectors with
+        strong relative state of technology but weak trade performance.
+
+          In the face of geopolitical shocks and intensifying global competition, the EU is revisiting its
+          industrial strategy. Policymakers are particularly concerned about the erosion of Europe’s
+          technological edge vis-à-vis the US and China (Draghi 2024). Yet, how should one measure
+          technological prowess in the first place?
+          Our recent research (di Mauro et al. 2025) suggests that traditional metrics like revealed comparative
+          advantage – based on observed export shares – paint a misleading picture of Europe’s underlying
+          strength. Instead, we apply a methodology grounded in economic theory that purges trade data of
+          distortions caused by input costs, market size, and other external factors. The resulting ‘Ricardian’
+          measure offers a more accurate view of the EU’s relative state of technology. What we find is a
+          sobering misalignment: Europe often specialises in industries where it does not hold a true
+          productivity advantage, and vice versa.
+          Why revealed comparative advantage can be misleading
+          The Balassa index of revealed comparative advantage (BRCA) has long been used to infer a
+          country's sectoral strengths. But BRCA is a noisy indicator. A country might export motor vehicles
+          not because it is more productive at making them, but because it enjoys cheaper capital, looser
+          regulations, or deeper supplier networks. That is, external competitiveness doesn't always reflect
+          internal productivity.
+          To overcome this, we adopt a new model developed by Huang and Ottaviano (2024) that isolates
+          technology-driven comparative advantage by controlling for:
+              Relative input prices (à la Heckscher-Ohlin)
+              Market size and access (à la Krugman)
+              Firm selection dynamics (à la Melitz)
+              Trade frictions and heterogeneity
+
+
+
+
+                                                                                                             56
+This model delivers a structural measure of a sector’s relative state of technology, capturing its
+productivity net of market distortions.
+Applying the model to the EU
+We apply this framework to 16 EU countries using CompNet’s micro-aggregated firm-level data and
+OECD input-output tables from 2010-2018. The model leverages data on export propensity, export
+intensity, market size, and firm heterogeneity to back out sectoral productivity.
+Figure 1 Misalignment between export specialisation and technological strength
+
+
+
+
+Note: Ranks for 2010-2018 averages (higher ranks are associated with smaller values). The 45-
+degree line shows perfect alignment between sectors' export specialisation (BRCA) and techno-
+logical strength (RST). Sectors above the line are overrepresented in exports relative to their
+technological advantage.
+The key finding is that although EU manufacturing broadly outperforms the rest of the world in
+productivity terms, the industries it specialises in are not always those where it is relatively more
+productive. For example, wearing apparel shows a high technology advantage but weak export
+performance, whereas motor vehicles, by contrast, show strong export performance but lagging
+productivity.
+
+
+
+
+                                                                                                  57
+The EU versus the US: A tougher benchmark
+When we compare Europe to the US, the misalignment becomes starker. Europe’s technological
+advantage erodes in key high-tech sectors like electrical equipment, machinery and equipment n.e.c.,
+and motor vehicles. These are precisely the sectors Europe aims to bolster through in-dustrial policy.
+Figure 2 EU vs US: Relative state of technology by sector
+
+
+
+
+Note: Values greater than 1 indicate EU technological leadership. Europe underperforms the
+US in several high-tech sectors despite strong export performance.
+What drives the misalignment?
+A decomposition shows that export specialisation depends on a complex interplay of:
+    Input prices – lower costs can inflate export shares.
+    Firm heterogeneity – more homogeneous firms correlate with higher observed revealed
+      comparative advantage.
+    Trade freeness – more open sectors attract more exporting firms, boosting revealed
+      comparative advantage.
+    Market size – larger domestic markets enable firms to scale and export more.
+In short, favourable trade performance may reflect structural advantages other than productivity (e.g.
+subsidies, geographic clustering, or network effects).
+Policy implications
+Our findings have several important implications for EU policy. First, don’t equate exports with
+excellence: export success should not be mistaken for technological strength, and policymakers risk
+promoting sectors that look competitive but are structurally weak. Second, industrial policy must be
+
+                                                                                                   58
+rooted in productivity diagnostics; rather than blindly backing export winners, support should target
+sectors with strong relative state of technology but weak trade performance – these 'hidden
+champions' have untapped potential. Third, complement tech investment with eco-system reforms,
+since achieving comparative advantage requires more than innovation subsi-dies. The EU should
+ensure access to affordable inputs, deepen the Single Market to expand firm scale, streamline firm
+entry and exit to encourage competition, and invest in workforce skills and capital deployment.
+Conclusion
+As Europe ramps up its industrial strategy, it must distinguish between observed trade success and
+underlying productivity. Comparative advantage is about more than what you export – it’s about
+why you export it. Our analysis shows that Europe’s trade specialisation often deviates from its true
+technological strengths. For a smarter industrial policy, start with smarter metrics.
+
+Source: https://cepr.org/voxeu/columns/export-strength-does-not-equal-tech-strength-rethinking-eu-
+comparative-advantage
+
+           1. What is the main idea of paragraph 1, 2, 3? What is a synonym for “originate from”,
+              “to be based on” or “to be developed from”? What is surprising about their findings?
+              How do you identify if a country has the absolute advantage in producing something?
+           2. Which word in the passage means “inconsistency”? Which word means “tendency”?
+              Which word means “disorder” or “messed up”? Which words means “to do better
+              than” or “have more efficient outcome”?
+              Draw an opportunity cost table between EU and US of electric equipment and food
+              products?
+           Write a paragraph (4-5 sentences) describing figure 2?
+
+
+
+
+                                                                                                  59
+Multiple Choice
+Identify the choice that best completes the statement or answers the question.
+
+____   1. When can two countries gain from trading two goods?
+          a. when the first country can only produce the first good and the second country can
+             only produce the second good
+          b. when the first country can produce both goods, but can only produce the second
+             good at great cost, and the second country can produce both goods, but can only
+             produce the first good at great cost
+          c. when the first country is better at producing both goods and the second country is
+             worse at producing both goods
+          d. Two countries could gain from trading two goods under all of the above
+             conditions.
+
+____   2. Regan grows flowers and makes ceramic vases. Jayson also grows flowers and makes ceramic vases,
+          but Regan is better at producing both goods. In this case, trade could
+          a. benefit both Jayson and Regan.
+          b. benefit Jayson, but not Regan.
+          c. benefit Regan, but not Jayson.
+          d. benefit neither Jayson nor Regan.
+
+____   3. Kelly and David are both capable of repairing cars and cooking meals. Which of the following
+          scenarios is not possible?
+          a. Kelly has a comparative advantage in repairing cars and David has a comparative
+             advantage in cooking meals.
+          b. Kelly has an absolute advantage in repairing cars and David has an absolute
+             advantage in cooking meals.
+          c. Kelly has a comparative advantage in repairing cars and in cooking meals.
+          d. David has an absolute advantage in repairing cars and in cooking meals.
+
+
+____   4. Suppose that a worker in Freedonia can produce either 6 units of corn or 2 units of wheat per year,
+          and a worker in Sylvania can produce either 2 units of corn or 6 units of wheat per year. Each nation
+          has 10 workers. Without trade, Freedonia produces and consumes 30 units of corn and 10 units of
+          wheat per year. Sylvania produces and consumes 10 units of corn and 30 units of wheat. Suppose
+          that trade is then initiated between the two countries, and Freedonia sends 30 units of corn to
+          Sylvania in exchange for 30 units of wheat. Freedonia will now be able to consume a maximum of
+
+           a.   30 units of corn and 30 units of wheat.
+           b.   40 units of corn and 30 units of wheat.
+           c.   40 units of corn and 20 units of wheat.
+           d.   10 units of corn and 40 units of wheat.
+
+
+
+
+                                                                                                            60
+____   5. Suppose that a worker in Freedonia can produce either 6 units of corn or 2 units of wheat per year,
+          and a worker in Sylvania can produce either 2 units of corn or 6 units of wheat per year. Each nation
+          has 10 workers. Without trade, Freedonia produces and consumes 30 units of corn and 10 units of
+          wheat per year. Sylvania produces and consumes 10 units of corn and 30 units of wheat. Suppose
+          that trade is then initiated between the two countries, and Freedonia sends 30 units of corn to
+          Sylvania in exchange for 30 units of wheat. Sylvania will now be able to consume a maximum of
+          a. 30 units of corn and 30 units of wheat.
+          b. 40 units of corn and 30 units of wheat.
+          c. 40 units of corn and 20 units of wheat.
+          d. 10 units of corn and 40 units of wheat.
+
+
+____   6. Suppose that a worker in Agland can produce either 10 units of organic grain or 2 units of incense
+          per year, and a worker in Zenland can produce either 5 units of organic grain or 15 units of incense
+          per year. There are 20 workers in Agland and 10 workers in Zenland. Currently the two countries do
+          not trade. Agland produces and consumes 100 units of grain and 20 units of incense per year.
+          Zenland produces and consumes 50 units of grain and no incense per year. If each country made the
+          decision to specialize in producing the good in which it has a comparative advantage, then the
+          combined yearly output of the two countries would increase by
+          a. 30 units of grain and 100 units of incense.
+          b. 30 units of grain and 150 units of incense.
+          c. 50 units of grain and 90 units of incense.
+          d. 50 units of grain and 130 units of incense.
+
+
+          Table 3-1
+          Assume that Sardi and Tinaka can switch between producing corn and producing pork at a constant
+          rate.
+
+                                 Minutes Needed to Make 1
+                            Bushel of Corn        Pound of Pork
+
+          Sardi                   20                       12
+          Tinaka                  15                       10
+
+
+
+____   7. Refer to Table 3-1. Assume that Sardi and Tinaka each has 360 minutes available. If each person
+          divides his time equally between the production of corn and pork, then total production is
+          a. 10.5 bushels of corn and 16.5 pounds of pork.
+          b. 21 bushels of corn and 33 pounds of pork.
+          c. 35 bushels of corn and 22 pounds of pork.
+          d. 42 bushels of corn and 66 pounds of pork.
+
+
+
+
+                                                                                                             61
+____   8. Refer to Table 3-1. Which of the following combinations of corn and pork could Sardi produce in
+          one 8-hour day?
+          a. 6 bushels of corn and 35 pounds of pork
+          b. 9 bushels of corn and 25 pounds of pork
+          c. 15 bushels of corn and 20 pounds of pork
+          d. 24 bushels of corn and 40 pounds of pork
+
+____   9. Refer to Table 3-1. What is Sardi’s opportunity cost of producing one pound of pork?
+          a. 3/5 bushel of corn
+          b. 6/5 bushels of corn
+          c. 4/3 bushels of corn
+          d. 5/3 bushels of corn
+
+          Table 3-3
+          Assume that Zimbabwe and Portugal can switch between producing toothbrushes and producing
+          hairbrushes at a constant rate.
+
+                                                     Machine Minutes
+                                                    Needed to Make 1
+                                            Toothbrush               Hairbrush
+          Zimbabwe                              3                       10
+
+          Portugal                              5                         6
+
+____ 10. Refer to Table 3-3. Zimbabwe has an absolute advantage in the production of
+         a. toothbrushes and a comparative advantage in the production of toothbrushes.
+         b. toothbrushes and a comparative advantage in the production of hairbrushes.
+         c. hairbrushes and a comparative advantage in the production of toothbrushes.
+         d. hairbrushes and a comparative advantage in the production of hairbrushes.
+
+          Table 3-6
+          Assume that Hilda and Carlos can switch between producing quilts and producing dresses at a
+          constant rate.
+
+                           Hours Needed               Amount Produced
+                            To Make 1                   in 90 Hours
+
+                        Quilt       Dress           Quilts    Dresses
+
+          Hilda          30           10              3          9
+          Carlos         90           45              1          2
+
+
+
+
+                                                                                                        62
+____ 11. Refer to Table 3-6. We could use the information in the table to draw a production possibilities
+         frontier for Hilda and a second production possibilities frontier for Carlos. If we were to do this,
+         measuring quilts along the horizontal axis, then
+         a. the slope of Hilda’s production possibilities frontier would be -3 and the slope of
+             Carlos’ production possibilities frontier would be -2.
+         b. the slope of Hilda’s production possibilities frontier would be -0.33 and the slope
+             of Carlos’ production possibilities frontier would be -0.5.
+         c. the slope of Hilda’s production possibilities frontier would be 0.33 and the slope of
+             Carlos’ production possibilities frontier would be 0.5.
+         d. the slope of Hilda’s production possibilities frontier would be 3 and the slope of
+             Carlos’ production possibilities frontier would be 2.
+
+____ 12. Refer to Table 3-6. We could use the information in the table to draw a production possibilities
+         frontier for Hilda and a second production possibilities frontier for Carlos. If we were to do this,
+         measuring dresses along the horizontal axis, then
+         a. the slope of Hilda’s production possibilities frontier would be -3 and the slope of
+             Carlos’ production possibilities frontier would be -2.
+         b. the slope of Hilda’s production possibilities frontier would be -0.33 and the slope
+             of Carlos’ production possibilities frontier would be -0.5.
+         c. the slope of Hilda’s production possibilities frontier would be 0.33 and the slope of
+             Carlos’ production possibilities frontier would be 0.5.
+         d. the slope of Hilda’s production possibilities frontier would be 3 and the slope of
+             Carlos’ production possibilities frontier would be 2.
+
+
+           Table 3-9
+
+           Barb and Jim run a business that sets up and tests computers. Assume that Barb and Jim can switch
+           between setting up and testing computers at a constant rate. The following table applies.
+
+                              Minutes Needed to                     Number of Computers
+                                                                    Set Up or Tested in a
+                                                                       40-Hour Week
+                         Set Up 1            Test 1         Computers Setup     Computers Tested
+                         Computer           Computer
+           Barb              48                  ?                 50                   40
+           Jim               30                 40                 80                   60
+
+
+
+
+                                                                                                                63
+____ 13. Refer to Table 3-9. Barb has an absolute advantage in
+         a. both setting up and testing computers and a comparative advantage in setting up
+            computers.
+         b. both setting up and testing computers and a comparative advantage in testing
+            computers.
+         c. neither setting up nor testing computers and a comparative advantage in setting up
+            computers.
+         d. neither setting up nor testing computers and a comparative advantage in testing
+            computers.
+
+
+          Table 3-11
+
+          Assume that Falda and Varick can switch between producing wheat and producing cloth at a
+          constant rate.
+
+                                         Quantity Produced in
+                                                1 Hour
+                              Bushels of Wheat        Yards of Cloth
+
+
+          Falda                       8                      12
+          Varick                      6                      15
+
+
+____ 14. Refer to Table 3-11. Falda’s opportunity cost of one bushel of wheat is
+         a. 2/3 yard of cloth and Varick’s opportunity cost of one bushel of wheat is 2/5 yard
+            of cloth.
+         b. 2/3 yard of cloth and Varick’s opportunity cost of one bushel of wheat is 5/2 yards
+            of cloth.
+         c. 3/2 yards of cloth and Varick’s opportunity cost of one bushel of wheat is 2/5 yard
+            of cloth.
+         d. 3/2 yards of cloth and Varick’s opportunity cost of one bushel of wheat is 5/2
+            yards of cloth.
+
+
+
+
+                                                                                                     64
+           Figure 3-2
+
+
+
+
+____ 15. Refer to Figure 3-2. If the production possibilities frontier shown is for 40 hours of production,
+         then how long does it take Peru to make one ruby?
+         a. 1/6 hour
+         b. 1/5 hour
+         c. 5 hours
+         d. 6 hours
+
+
+           Figure 3-3
+
+
+
+
+                                                                                                              65
+____ 16. Refer to Figure 3-3. Enid has an absolute advantage in the production of
+         a. burritos and a comparative advantage in the production of tacos.
+         b. burritos and a comparative advantage in the production of burritos.
+         c. neither good and a comparative advantage in the production of tacos.
+         d. neither good and a comparative advantage in the production of burritos.
+
+
+          Figure 3-8
+
+
+
+
+____ 17. Refer to Figure 3-8. Belgium should specialize in the production of
+         a. waffles and import pancakes.
+         b. pancakes and import waffles.
+         c. both goods and import neither good.
+         d. neither good and import both goods.
+
+
+
+
+                                                                                      66
+          Figure 3-9
+
+
+
+
+____ 18. Refer to Figure 3-9. If the production possibilities frontiers shown are each for two days of
+         production, then which of the following combinations of bolts and nails could Uzbekistan and
+         Azerbaijan together make in a given 2-day production period?
+         a. 12 bolts and 120 nails
+         b. 24 bolts and 96 nails
+         c. 38 bolts and 50 nails
+         d. 44 bolts and 24 nails
+
+
+Short Answer
+
+       1. Explain the difference between absolute advantage and comparative advantage. Which is more
+          important in determining trade patterns, absolute advantage or comparative advantage? Why?
+
+       2. Gary and Diane must prepare a presentation for their marketing class. As part of their presentation,
+          they must do a series of calculations and prepare 50 PowerPoint slides. It would take Gary 10 hours
+          to do the required calculation and 10 hours to prepare the slides. It would take Diane 12 hours to do
+          the calculations and 20 hours to prepare the slides.
+
+          a. How much time would it take the two to complete the project if they divide the
+             calculations equally and the slides equally?
+          b. How much time would it take the two to complete the project if they use comparative
+             advantage and specialize in calculating or preparing slides?
+          c. If Diane and Gary have the same opportunity cost of $5 per hour, is there a better
+             solution than for each to specialize in calculating or preparing slides?
+
+
+
+
+                                                                                                              67
+

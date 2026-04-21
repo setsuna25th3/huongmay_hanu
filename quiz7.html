@@ -1,0 +1,674 @@
+<!DOCTYPE html>
+<html lang="vi">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Macroeconomics Tutorial 7 - Quiz</title>
+    <style>
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+
+        body {
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+            background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+            min-height: 100vh;
+            padding: 20px;
+        }
+
+        .container {
+            max-width: 900px;
+            margin: 0 auto;
+            background: white;
+            border-radius: 15px;
+            box-shadow: 0 20px 60px rgba(0, 0, 0, 0.3);
+            padding: 40px;
+        }
+
+        .header {
+            text-align: center;
+            margin-bottom: 30px;
+            border-bottom: 3px solid #667eea;
+            padding-bottom: 20px;
+        }
+
+        .header h1 {
+            color: #333;
+            font-size: 2.5em;
+            margin-bottom: 10px;
+        }
+
+        .header p {
+            color: #666;
+            font-size: 1.1em;
+        }
+
+        .progress {
+            width: 100%;
+            height: 8px;
+            background: #e0e0e0;
+            border-radius: 10px;
+            margin: 20px 0;
+            overflow: hidden;
+        }
+
+        .progress-bar {
+            height: 100%;
+            background: linear-gradient(90deg, #667eea, #764ba2);
+            border-radius: 10px;
+            transition: width 0.3s ease;
+        }
+
+        .question-container {
+            margin-bottom: 40px;
+            padding: 25px;
+            background: #f9f9f9;
+            border-left: 5px solid #667eea;
+            border-radius: 8px;
+            display: none;
+        }
+
+        .question-container.active {
+            display: block;
+            animation: slideIn 0.3s ease;
+        }
+
+        @keyframes slideIn {
+            from {
+                opacity: 0;
+                transform: translateY(10px);
+            }
+            to {
+                opacity: 1;
+                transform: translateY(0);
+            }
+        }
+
+        .question-number {
+            color: #667eea;
+            font-weight: bold;
+            font-size: 0.95em;
+            text-transform: uppercase;
+            letter-spacing: 1px;
+            margin-bottom: 10px;
+        }
+
+        .question-text {
+            font-size: 1.3em;
+            color: #333;
+            margin-bottom: 25px;
+            font-weight: 500;
+            line-height: 1.6;
+        }
+
+        .options {
+            display: flex;
+            flex-direction: column;
+            gap: 15px;
+        }
+
+        .option {
+            display: flex;
+            align-items: flex-start;
+            padding: 15px;
+            background: white;
+            border: 2px solid #e0e0e0;
+            border-radius: 8px;
+            cursor: pointer;
+            transition: all 0.3s ease;
+        }
+
+        .option:hover {
+            border-color: #667eea;
+            background: #f0f4ff;
+        }
+
+        .option input[type="radio"] {
+            margin-right: 15px;
+            margin-top: 3px;
+            cursor: pointer;
+            accent-color: #667eea;
+            width: 20px;
+            height: 20px;
+        }
+
+        .option-text {
+            color: #555;
+            font-size: 1em;
+            line-height: 1.5;
+            flex: 1;
+        }
+
+        .option.selected {
+            border-color: #667eea;
+            background: #f0f4ff;
+        }
+
+        .option.correct {
+            border-color: #28a745;
+            background: #d4edda;
+        }
+
+        .option.correct::after {
+            content: "✓ Correct";
+            color: #28a745;
+            font-weight: bold;
+            margin-left: 10px;
+        }
+
+        .option.incorrect {
+            border-color: #dc3545;
+            background: #f8d7da;
+        }
+
+        .option.incorrect::after {
+            content: "✗ Incorrect";
+            color: #dc3545;
+            font-weight: bold;
+            margin-left: 10px;
+        }
+
+        .controls {
+            display: flex;
+            justify-content: space-between;
+            gap: 15px;
+            margin-top: 30px;
+        }
+
+        button {
+            padding: 12px 25px;
+            font-size: 1em;
+            border: none;
+            border-radius: 8px;
+            cursor: pointer;
+            font-weight: bold;
+            transition: all 0.3s ease;
+        }
+
+        .btn-prev {
+            background: #6c757d;
+            color: white;
+        }
+
+        .btn-prev:hover:not(:disabled) {
+            background: #5a6268;
+            transform: translateX(-3px);
+        }
+
+        .btn-prev:disabled {
+            background: #d3d3d3;
+            cursor: not-allowed;
+        }
+
+        .btn-submit {
+            background: linear-gradient(135deg, #667eea, #764ba2);
+            color: white;
+            flex: 1;
+        }
+
+        .btn-submit:hover {
+            box-shadow: 0 10px 25px rgba(102, 126, 234, 0.4);
+            transform: translateY(-2px);
+        }
+
+        .btn-next {
+            background: #667eea;
+            color: white;
+        }
+
+        .btn-next:hover:not(:disabled) {
+            background: #764ba2;
+            transform: translateX(3px);
+        }
+
+        .btn-next:disabled {
+            background: #d3d3d3;
+            cursor: not-allowed;
+        }
+
+        .result-message {
+            padding: 15px;
+            border-radius: 8px;
+            margin-top: 15px;
+            font-weight: bold;
+            text-align: center;
+            display: none;
+            animation: fadeIn 0.3s ease;
+        }
+
+        @keyframes fadeIn {
+            from {
+                opacity: 0;
+            }
+            to {
+                opacity: 1;
+            }
+        }
+
+        .result-message.correct {
+            background: #d4edda;
+            color: #155724;
+            border: 2px solid #28a745;
+        }
+
+        .result-message.incorrect {
+            background: #f8d7da;
+            color: #721c24;
+            border: 2px solid #dc3545;
+        }
+
+        .stats {
+            display: flex;
+            justify-content: space-around;
+            margin-top: 30px;
+            padding-top: 30px;
+            border-top: 2px solid #e0e0e0;
+        }
+
+        .stat-item {
+            text-align: center;
+        }
+
+        .stat-number {
+            font-size: 2em;
+            font-weight: bold;
+            color: #667eea;
+        }
+
+        .stat-label {
+            color: #666;
+            margin-top: 5px;
+        }
+
+        .summary {
+            display: none;
+            text-align: center;
+            padding: 40px 20px;
+        }
+
+        .summary.show {
+            display: block;
+        }
+
+        .summary-score {
+            font-size: 3em;
+            font-weight: bold;
+            color: #667eea;
+            margin-bottom: 20px;
+        }
+
+        .summary-message {
+            font-size: 1.3em;
+            color: #333;
+            margin-bottom: 30px;
+        }
+
+        .btn-restart {
+            background: linear-gradient(135deg, #667eea, #764ba2);
+            color: white;
+            padding: 15px 40px;
+            font-size: 1.1em;
+        }
+
+        .btn-restart:hover {
+            box-shadow: 0 10px 25px rgba(102, 126, 234, 0.4);
+            transform: translateY(-2px);
+        }
+
+        .loading {
+            text-align: center;
+            padding: 40px;
+            font-size: 1.2em;
+            color: #667eea;
+        }
+
+        .error {
+            background: #f8d7da;
+            color: #721c24;
+            padding: 20px;
+            border-radius: 8px;
+            border: 2px solid #dc3545;
+            text-align: center;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <div class="header">
+            <h1>Macroeconomics Tutorial 7</h1>
+            <p>Multiple Choice Quiz</p>
+        </div>
+
+        <div id="loadingDiv" class="loading">Loading questions...</div>
+        <div style="text-align:center; margin-top: 10px; display:none;" id="filePickerWrap">
+            <button type="button" id="pickFileBtn" class="btn-submit" style="max-width:300px; width:100%;">Chon file tut7.json</button>
+        </div>
+
+        <div id="quizDiv" style="display: none;">
+            <div class="progress">
+                <div class="progress-bar" id="progressBar" style="width: 0%"></div>
+            </div>
+
+            <form id="quizForm">
+                <div id="questionsContainer"></div>
+
+                <div class="controls">
+                    <button type="button" class="btn-prev" id="btnPrev" disabled>← Previous</button>
+                    <button type="button" class="btn-submit" id="btnSubmit">Submit Answer</button>
+                    <button type="button" class="btn-next" id="btnNext" disabled>Next →</button>
+                </div>
+            </form>
+
+            <div class="stats" id="stats">
+                <div class="stat-item">
+                    <div class="stat-number" id="correctCount">0</div>
+                    <div class="stat-label">Correct</div>
+                </div>
+                <div class="stat-item">
+                    <div class="stat-number" id="incorrectCount">0</div>
+                    <div class="stat-label">Incorrect</div>
+                </div>
+                <div class="stat-item">
+                    <div class="stat-number" id="currentQuestion">1</div>
+                    <div class="stat-label">Current Question</div>
+                </div>
+            </div>
+        </div>
+
+        <div id="summaryDiv" class="summary">
+            <div class="summary-score" id="finalScore">0%</div>
+            <div class="summary-message" id="summaryMessage"></div>
+            <button type="button" class="btn-restart" onclick="location.reload()">Restart Quiz</button>
+        </div>
+    </div>
+
+        <script>
+                let questions = [];
+                let tablesById = {};
+                let currentQuestionIndex = 0;
+                let answers = {};
+                let submitted = {};
+
+                function shuffleArray(items) {
+                    const arr = [...items];
+                    for (let i = arr.length - 1; i > 0; i--) {
+                        const j = Math.floor(Math.random() * (i + 1));
+                        [arr[i], arr[j]] = [arr[j], arr[i]];
+                    }
+                    return arr;
+                }
+
+                function normalizeQuizData(rawData) {
+                    if (Array.isArray(rawData)) {
+                        questions = rawData;
+                        tablesById = {};
+                        return;
+                    }
+
+                    if (rawData && Array.isArray(rawData.questions)) {
+                        questions = rawData.questions;
+                        tablesById = {};
+                        if (Array.isArray(rawData.tables)) {
+                            rawData.tables.forEach((table) => {
+                                if (table && table.table_id) {
+                                    tablesById[table.table_id] = table;
+                                }
+                            });
+                        }
+                        return;
+                    }
+
+                    throw new Error('Invalid JSON structure');
+                }
+
+                async function loadQuestions() {
+                        const candidates = ['./json/tut7.json', 'json/tut7.json', './tut7.json'];
+                        let lastError = null;
+
+                        for (const path of candidates) {
+                                try {
+                                        const response = await fetch(path, { cache: 'no-store' });
+                                        if (!response.ok) {
+                                                throw new Error(`HTTP ${response.status} at ${path}`);
+                                        }
+
+                                        const data = await response.json();
+                                        normalizeQuizData(data);
+                                        if (!Array.isArray(questions) || questions.length === 0) {
+                                            throw new Error(`Invalid JSON structure at ${path}`);
+                                        }
+                                        initializeQuiz();
+                                        return;
+                                } catch (error) {
+                                        lastError = error;
+                                }
+                        }
+
+                        console.error('Failed to load quiz JSON:', lastError);
+                        const isFileProtocol = window.location.protocol === 'file:';
+                        const message = isFileProtocol
+                                ? 'Khong the doc json khi mo truc tiep file://. Hay mo bang Live Server hoac server local, sau do thu lai.'
+                                : 'Khong tim thay json/tut1.json. Vui long kiem tra lai vi tri file.';
+                        document.getElementById('loadingDiv').innerHTML = `<div class="error">${message}</div>`;
+                        if (isFileProtocol) {
+                            document.getElementById('filePickerWrap').style.display = 'block';
+                        }
+                }
+
+                    async function loadQuestionsFromPicker() {
+                        const picker = document.createElement('input');
+                        picker.type = 'file';
+                        picker.accept = 'application/json,.json';
+
+                        picker.addEventListener('change', async (event) => {
+                            const file = event.target.files && event.target.files[0];
+                            if (!file) return;
+
+                            try {
+                                const text = await file.text();
+                                const data = JSON.parse(text);
+                                normalizeQuizData(data);
+                                if (!Array.isArray(questions) || questions.length === 0) {
+                                    throw new Error('Invalid JSON format');
+                                }
+                                document.getElementById('filePickerWrap').style.display = 'none';
+                                initializeQuiz();
+                            } catch (error) {
+                                console.error('Invalid picked JSON:', error);
+                                document.getElementById('loadingDiv').innerHTML = '<div class="error">File JSON khong hop le. Vui long chon dung tut1.json.</div>';
+                                document.getElementById('filePickerWrap').style.display = 'block';
+                            }
+                        });
+
+                        picker.click();
+                    }
+
+        function initializeQuiz() {
+            questions = shuffleArray(questions);
+            document.getElementById('loadingDiv').style.display = 'none';
+            document.getElementById('quizDiv').style.display = 'block';
+            
+            // Initialize answers object
+            questions.forEach((q, idx) => {
+                answers[idx] = null;
+                submitted[idx] = false;
+            });
+
+            renderQuestion(0);
+        }
+
+        function renderQuestion(index) {
+            const container = document.getElementById('questionsContainer');
+            container.innerHTML = '';
+
+            const question = questions[index];
+            const isSubmitted = submitted[index];
+            const questionDiv = document.createElement('div');
+            questionDiv.className = 'question-container active';
+
+            let html = `
+                <div class="question-number">Question ${index + 1} of ${questions.length}</div>
+                <div class="question-text">${question.text}</div>
+                <div class="options">
+            `;
+
+            if (question.table_id && tablesById[question.table_id] && tablesById[question.table_id].html) {
+                const tableTitle = tablesById[question.table_id].title ? `<div style="font-weight:600; margin-bottom:8px;">${tablesById[question.table_id].title}</div>` : '';
+                html = `
+                <div class="question-number">Question ${index + 1} of ${questions.length}</div>
+                <div class="question-text">${question.text}</div>
+                <div style="margin-bottom:18px; background:#fff; border:1px solid #ddd; border-radius:8px; padding:10px; overflow-x:auto;">
+                    ${tableTitle}
+                    ${tablesById[question.table_id].html}
+                </div>
+                <div class="options">
+                `;
+            }
+
+            question.options.forEach((option, optIndex) => {
+                const isSelected = answers[index] === optIndex;
+                const isCorrect = option.is_correct;
+                const userSelected = isSelected && isSubmitted;
+
+                let optionClass = 'option';
+                if (isSubmitted) {
+                    if (userSelected && isCorrect) {
+                        optionClass += ' correct';
+                    } else if (userSelected && !isCorrect) {
+                        optionClass += ' incorrect';
+                    } else if (!userSelected && isCorrect) {
+                        optionClass += ' correct';
+                    }
+                } else if (isSelected) {
+                    optionClass += ' selected';
+                }
+
+                html += `
+                    <label class="${optionClass}">
+                        <input type="radio" name="option" value="${optIndex}" 
+                            ${isSelected ? 'checked' : ''} 
+                            ${isSubmitted ? 'disabled' : ''}
+                            onchange="selectOption(${index}, ${optIndex})">
+                        <span class="option-text">${option.text}</span>
+                    </label>
+                `;
+            });
+
+            if (isSubmitted) {
+                const userAnswer = answers[index];
+                const isCorrect = questions[index].options[userAnswer].is_correct;
+                const messageClass = isCorrect ? 'correct' : 'incorrect';
+                const messageText = isCorrect ? '✓ Correct!' : '✗ Incorrect! The correct answer is marked above.';
+                html += `<div class="result-message ${messageClass}" style="display:block">${messageText}</div>`;
+            }
+
+            html += `</div>`;
+
+            questionDiv.innerHTML = html;
+            container.appendChild(questionDiv);
+
+            updateUI();
+        }
+
+        function selectOption(questionIndex, optionIndex) {
+            answers[questionIndex] = optionIndex;
+        }
+
+        function submitAnswer() {
+            if (answers[currentQuestionIndex] === null) {
+                alert('Please select an answer!');
+                return;
+            }
+
+            submitted[currentQuestionIndex] = true;
+            renderQuestion(currentQuestionIndex);
+        }
+
+        function goToPrevious() {
+            currentQuestionIndex = (currentQuestionIndex - 1 + questions.length) % questions.length;
+            renderQuestion(currentQuestionIndex);
+        }
+
+        function goToNext() {
+            currentQuestionIndex = (currentQuestionIndex + 1) % questions.length;
+            renderQuestion(currentQuestionIndex);
+        }
+
+        function updateUI() {
+            // Update progress bar
+            const progress = ((currentQuestionIndex + 1) / questions.length) * 100;
+            document.getElementById('progressBar').style.width = progress + '%';
+
+            // Update question number
+            document.getElementById('currentQuestion').textContent = currentQuestionIndex + 1;
+
+            // Update stats
+            let correct = 0, incorrect = 0;
+            Object.keys(submitted).forEach(idx => {
+                if (submitted[idx]) {
+                    if (questions[idx].options[answers[idx]].is_correct) {
+                        correct++;
+                    } else {
+                        incorrect++;
+                    }
+                }
+            });
+            document.getElementById('correctCount').textContent = correct;
+            document.getElementById('incorrectCount').textContent = incorrect;
+
+            // Update buttons
+            document.getElementById('btnPrev').disabled = questions.length === 0;
+            document.getElementById('btnNext').disabled = questions.length === 0;
+            document.getElementById('btnSubmit').disabled = submitted[currentQuestionIndex];
+
+            // Check if all questions are answered
+            if (Object.keys(submitted).length === questions.length && 
+                Object.values(submitted).every(v => v === true)) {
+                showSummary();
+            }
+        }
+
+        function showSummary() {
+            let correct = 0;
+            questions.forEach((q, idx) => {
+                if (submitted[idx] && questions[idx].options[answers[idx]].is_correct) {
+                    correct++;
+                }
+            });
+
+            const percentage = Math.round((correct / questions.length) * 100);
+            document.getElementById('finalScore').textContent = `${percentage}%`;
+
+            let message = '';
+            if (percentage === 100) {
+                message = 'Perfect! You got all questions correct!';
+            } else if (percentage >= 80) {
+                message = 'Excellent! You have a strong understanding!';
+            } else if (percentage >= 60) {
+                message = 'Good! You understand most concepts.';
+            } else if (percentage >= 40) {
+                message = 'You need to review some concepts.';
+            } else {
+                message = 'Keep studying! You\'ll improve with practice.';
+            }
+
+            document.getElementById('summaryMessage').textContent = message;
+            document.getElementById('summaryMessage').textContent += ` (${correct}/${questions.length} correct)`;
+
+            document.getElementById('quizDiv').style.display = 'none';
+            document.getElementById('summaryDiv').classList.add('show');
+        }
+
+        // Event listeners
+        document.getElementById('btnPrev').addEventListener('click', goToPrevious);
+        document.getElementById('btnNext').addEventListener('click', goToNext);
+        document.getElementById('btnSubmit').addEventListener('click', submitAnswer);
+        document.getElementById('pickFileBtn').addEventListener('click', loadQuestionsFromPicker);
+
+        // Load questions from JSON file
+        loadQuestions();
+    </script>
+</body>
+</html>

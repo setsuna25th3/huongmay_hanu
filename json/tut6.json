@@ -1,0 +1,424 @@
+{
+  "tutorial_id": "tut6",
+  "tables": [],
+  "questions": [
+    {
+      "question_id": 1,
+      "text": "In which of the following cases was the inflation rate 10 percent over the last year?",
+      "options": [
+        {
+          "text": "One year ago the price index had a value of 110 and now it has a value of 120.",
+          "is_correct": false
+        },
+        {
+          "text": "One year ago the price index had a value of 120 and now it has a value of 132.",
+          "is_correct": true
+        },
+        {
+          "text": "One year ago the price index had a value of 126 and now it has a value of 140.",
+          "is_correct": false
+        },
+        {
+          "text": "One year ago the price index had a value of 145 and now it has a value of 163.",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "question_id": 2,
+      "text": "When prices are falling, economists say that there is",
+      "options": [
+        {
+          "text": "disinflation.",
+          "is_correct": false
+        },
+        {
+          "text": "deflation.",
+          "is_correct": true
+        },
+        {
+          "text": "a contraction.",
+          "is_correct": false
+        },
+        {
+          "text": "an inverted inflation.",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "question_id": 3,
+      "text": "With the value of money on the vertical axis, the money supply curve is",
+      "options": [
+        {
+          "text": "upward-sloping.",
+          "is_correct": false
+        },
+        {
+          "text": "downward-sloping.",
+          "is_correct": false
+        },
+        {
+          "text": "horizontal.",
+          "is_correct": false
+        },
+        {
+          "text": "vertical.",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "question_id": 4,
+      "text": "The inflation tax refers to",
+      "options": [
+        {
+          "text": "the revenue a government creates by printing money.",
+          "is_correct": true
+        },
+        {
+          "text": "higher inflation which requires more frequent price changes.",
+          "is_correct": false
+        },
+        {
+          "text": "the idea that, other things the same, an increase in the tax rate raises the inflation rate.",
+          "is_correct": false
+        },
+        {
+          "text": "taxes being indexed for inflation.",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "question_id": 5,
+      "text": "When the money market is drawn with the value of money on the vertical axis, as the price level increases the quantity of money",
+      "options": [
+        {
+          "text": "demanded increases.",
+          "is_correct": true
+        },
+        {
+          "text": "demanded decreases.",
+          "is_correct": false
+        },
+        {
+          "text": "supplied increases.",
+          "is_correct": false
+        },
+        {
+          "text": "supplied decreases.",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "question_id": 6,
+      "text": "Suppose the money market, drawn with the value of money on the vertical axis, is in equilibrium. If the money supply increases, then at the old value of money there is an",
+      "options": [
+        {
+          "text": "excess demand for money that will result in an increase in spending.",
+          "is_correct": false
+        },
+        {
+          "text": "excess demand for money that will result in a decrease in spending.",
+          "is_correct": false
+        },
+        {
+          "text": "excess supply of money that will result in an increase in spending.",
+          "is_correct": true
+        },
+        {
+          "text": "excess supply of money that will result in a decrease in spending.",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "question_id": 7,
+      "text": "If the Fed increases the money supply, then 1/P",
+      "options": [
+        {
+          "text": "falls, so the value of money falls.",
+          "is_correct": true
+        },
+        {
+          "text": "falls, so the value of money rises.",
+          "is_correct": false
+        },
+        {
+          "text": "rises, so the value of money falls.",
+          "is_correct": false
+        },
+        {
+          "text": "rises, so the value of money rises.",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "question_id": 8,
+      "text": "When the money market is drawn with the value of money on the vertical axis, an increase in the money supply causes the equilibrium value of money",
+      "options": [
+        {
+          "text": "and equilibrium quantity of money to increase.",
+          "is_correct": false
+        },
+        {
+          "text": "and equilibrium quantity of money to decrease.",
+          "is_correct": false
+        },
+        {
+          "text": "to increase, while the equilibrium quantity of money decreases.",
+          "is_correct": false
+        },
+        {
+          "text": "to decrease, while the equilibrium quantity of money increases.",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "question_id": 9,
+      "text": "Refer to Figure 30-1. If the money supply is MS2 and the value of money is 2, then",
+      "options": [
+        {
+          "text": "the value of money is lower than its equilibrium level.",
+          "is_correct": false
+        },
+        {
+          "text": "the price level is higher than its equilibrium level.",
+          "is_correct": false
+        },
+        {
+          "text": "the quantity of money demanded is greater than the quantity of money supplied.",
+          "is_correct": false
+        },
+        {
+          "text": "the quantity of money supplied is greater than the quantity of money demanded. Figure 30-2. On the graph, MS represents the money supply and MD represents money demand. The usual quantities are measured along the axes.",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "question_id": 10,
+      "text": "Refer to Figure 30-2. If the relevant money-demand curve is the one labeled MD1, then",
+      "options": [
+        {
+          "text": "when the money market is in equilibrium, one dollar purchases one-half of a basket of goods and services.",
+          "is_correct": false
+        },
+        {
+          "text": "when the money market is in equilibrium, one unit of goods and services sells for 2 dollars.",
+          "is_correct": false
+        },
+        {
+          "text": "there is an excess demand for money if the value of money in terms of goods and services is 0.375.",
+          "is_correct": false
+        },
+        {
+          "text": "All of the above are correct.",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "question_id": 11,
+      "text": "Last year, Tealandia produced 50,000 bags of green tea, and tea was the only good Tealandia produced. Each bag sold at 4 units each of Tealandia's currency — the Leaf. Tealandia's money supply was 40,000. What was the velocity of money in Tealandia?",
+      "options": [
+        {
+          "text": "20",
+          "is_correct": false
+        },
+        {
+          "text": "5",
+          "is_correct": true
+        },
+        {
+          "text": "1/20",
+          "is_correct": false
+        },
+        {
+          "text": "1/5",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "question_id": 12,
+      "text": "If Y and M are constant, and V doubles, the quantity equation implies that the price level",
+      "options": [
+        {
+          "text": "falls to half it’s original level.",
+          "is_correct": false
+        },
+        {
+          "text": "doubles.",
+          "is_correct": true
+        },
+        {
+          "text": "more than doubles.",
+          "is_correct": false
+        },
+        {
+          "text": "does not change.",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "question_id": 13,
+      "text": "Suppose over some period of time the money supply tripled, velocity fell by half, and real GDP doubled. According to the quantity equation the price level is now",
+      "options": [
+        {
+          "text": "6 times its old value.",
+          "is_correct": false
+        },
+        {
+          "text": "3 times its old value.",
+          "is_correct": false
+        },
+        {
+          "text": "1.5 times its old value.",
+          "is_correct": false
+        },
+        {
+          "text": "0.75 times its old value.",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "question_id": 14,
+      "text": "Suppose monetary neutrality holds and velocity is constant. A 5 percent increase in the money supply",
+      "options": [
+        {
+          "text": "increases the price level by more than 5 percent.",
+          "is_correct": false
+        },
+        {
+          "text": "increases the price level by 5 percent.",
+          "is_correct": true
+        },
+        {
+          "text": "increases the price level by 5 percent.",
+          "is_correct": false
+        },
+        {
+          "text": "does not change the price level.",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "question_id": 15,
+      "text": "The evidence from hyperinflations indicates that money growth and inflation",
+      "options": [
+        {
+          "text": "are positively related, which is consistent with the quantity theory of money.",
+          "is_correct": true
+        },
+        {
+          "text": "are positively related, which is not consistent with the quantity theory of money.",
+          "is_correct": false
+        },
+        {
+          "text": "are not related in a discernible fashion, which is consistent with the quantity theory of money.",
+          "is_correct": false
+        },
+        {
+          "text": "are not related in a discernible fashion, which is not consistent with the quantity theory of money.",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "question_id": 16,
+      "text": "Whitney puts money in a savings account at her bank earning 3.5 percent. One year later she takes her money out and notes that while her money was earning interest, prices rose 1.5 percent. Whitney earned a nominal interest rate of",
+      "options": [
+        {
+          "text": "3.5 percent and a real interest rate of 5 percent.",
+          "is_correct": false
+        },
+        {
+          "text": "3.5 percent and a real interest rate of 2 percent.",
+          "is_correct": true
+        },
+        {
+          "text": "5 percent and a real interest rate of 3.5 percent",
+          "is_correct": false
+        },
+        {
+          "text": "5 percent and a real interest rate of 2 percent",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "question_id": 17,
+      "text": "For a given real interest rate, a decrease in the inflation rate would",
+      "options": [
+        {
+          "text": "decrease the after-tax real interest rate and so decrease saving.",
+          "is_correct": false
+        },
+        {
+          "text": "decrease the after-tax real interest rate and so increase saving.",
+          "is_correct": false
+        },
+        {
+          "text": "increase the after-tax real interest rate and so decrease saving.",
+          "is_correct": false
+        },
+        {
+          "text": "increase the after-tax real interest rate and so increase saving.",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "question_id": 18,
+      "text": "Wealth is redistributed from creditors to debtors when inflation was expected to be",
+      "options": [
+        {
+          "text": "high and it turns out to be high.",
+          "is_correct": false
+        },
+        {
+          "text": "low and it turns out to be low.",
+          "is_correct": false
+        },
+        {
+          "text": "low and it turns out to be high.",
+          "is_correct": true
+        },
+        {
+          "text": "high and it turns out to be low.",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "question_id": 19,
+      "text": "If inflation is higher than what was expected,",
+      "options": [
+        {
+          "text": "creditors receive a lower real interest rate than they had anticipated.",
+          "is_correct": true
+        },
+        {
+          "text": "creditors pay a lower real interest rate than they had anticipated.",
+          "is_correct": false
+        },
+        {
+          "text": "debtors receive a higher real interest rate than they had anticipated.",
+          "is_correct": false
+        },
+        {
+          "text": "debtors pay a higher real interest rate than they had anticipated.",
+          "is_correct": false
+        }
+      ]
+    }
+  ]
+}

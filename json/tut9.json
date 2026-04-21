@@ -1,0 +1,436 @@
+{
+  "tutorial_id": "tut9",
+  "tables": [
+    {
+      "table_id": "table_3_1",
+      "title": "Table 3-1",
+      "html": "<pre style='margin:0; white-space:pre; font-family:Consolas,monospace; font-size:13px; line-height:1.35'>Table 3-1\n          Assume that Sardi and Tinaka can switch between producing corn and producing pork at a constant\n          rate.\n\n                                 Minutes Needed to Make 1\n                            Bushel of Corn        Pound of Pork\n\n          Sardi                   20                       12\n          Tinaka                  15                       10</pre>"
+    },
+    {
+      "table_id": "table_3_3",
+      "title": "Table 3-3",
+      "html": "<pre style='margin:0; white-space:pre; font-family:Consolas,monospace; font-size:13px; line-height:1.35'>Table 3-3\n          Assume that Zimbabwe and Portugal can switch between producing toothbrushes and producing\n          hairbrushes at a constant rate.\n\n                                                     Machine Minutes\n                                                    Needed to Make 1\n                                            Toothbrush               Hairbrush\n          Zimbabwe                              3                       10\n\n          Portugal                              5                         6</pre>"
+    },
+    {
+      "table_id": "table_3_6",
+      "title": "Table 3-6",
+      "html": "<pre style='margin:0; white-space:pre; font-family:Consolas,monospace; font-size:13px; line-height:1.35'>Table 3-6\n          Assume that Hilda and Carlos can switch between producing quilts and producing dresses at a\n          constant rate.\n\n                           Hours Needed               Amount Produced\n                            To Make 1                   in 90 Hours\n\n                        Quilt       Dress           Quilts    Dresses\n\n          Hilda          30           10              3          9\n          Carlos         90           45              1          2</pre>"
+    },
+    {
+      "table_id": "table_3_9",
+      "title": "Table 3-9",
+      "html": "<pre style='margin:0; white-space:pre; font-family:Consolas,monospace; font-size:13px; line-height:1.35'>Table 3-9\n\n           Barb and Jim run a business that sets up and tests computers. Assume that Barb and Jim can switch\n           between setting up and testing computers at a constant rate. The following table applies.\n\n                              Minutes Needed to                     Number of Computers\n                                                                    Set Up or Tested in a\n                                                                       40-Hour Week\n                         Set Up 1            Test 1         Computers Setup     Computers Tested\n                         Computer           Computer\n           Barb              48                  ?                 50                   40\n           Jim               30                 40                 80                   60</pre>"
+    },
+    {
+      "table_id": "table_3_11",
+      "title": "Table 3-11",
+      "html": "<pre style='margin:0; white-space:pre; font-family:Consolas,monospace; font-size:13px; line-height:1.35'>Table 3-11\n\n          Assume that Falda and Varick can switch between producing wheat and producing cloth at a\n          constant rate.\n\n                                         Quantity Produced in\n                                                1 Hour\n                              Bushels of Wheat        Yards of Cloth\n\n\n          Falda                       8                      12\n          Varick                      6                      15</pre>"
+    }
+  ],
+  "questions": [
+    {
+      "question_id": 1,
+      "text": "When can two countries gain from trading two goods?",
+      "options": [
+        {
+          "text": "when the first country can only produce the first good and the second country can only produce the second good",
+          "is_correct": false
+        },
+        {
+          "text": "when the first country can produce both goods, but can only produce the second good at great cost, and the second country can produce both goods, but can only produce the first good at great cost",
+          "is_correct": false
+        },
+        {
+          "text": "when the first country is better at producing both goods and the second country is worse at producing both goods",
+          "is_correct": false
+        },
+        {
+          "text": "Two countries could gain from trading two goods under all of the above conditions.",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "question_id": 2,
+      "text": "Regan grows flowers and makes ceramic vases. Jayson also grows flowers and makes ceramic vases, but Regan is better at producing both goods. In this case, trade could",
+      "options": [
+        {
+          "text": "benefit both Jayson and Regan.",
+          "is_correct": true
+        },
+        {
+          "text": "benefit Jayson, but not Regan.",
+          "is_correct": false
+        },
+        {
+          "text": "benefit Regan, but not Jayson.",
+          "is_correct": false
+        },
+        {
+          "text": "benefit neither Jayson nor Regan.",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "question_id": 3,
+      "text": "Kelly and David are both capable of repairing cars and cooking meals. Which of the following scenarios is not possible?",
+      "options": [
+        {
+          "text": "Kelly has a comparative advantage in repairing cars and David has a comparative advantage in cooking meals.",
+          "is_correct": false
+        },
+        {
+          "text": "Kelly has an absolute advantage in repairing cars and David has an absolute advantage in cooking meals.",
+          "is_correct": false
+        },
+        {
+          "text": "Kelly has a comparative advantage in repairing cars and in cooking meals.",
+          "is_correct": true
+        },
+        {
+          "text": "David has an absolute advantage in repairing cars and in cooking meals.",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "question_id": 4,
+      "text": "Suppose that a worker in Freedonia can produce either 6 units of corn or 2 units of wheat per year, and a worker in Sylvania can produce either 2 units of corn or 6 units of wheat per year. Each nation has 10 workers. Without trade, Freedonia produces and consumes 30 units of corn and 10 units of wheat per year. Sylvania produces and consumes 10 units of corn and 30 units of wheat. Suppose that trade is then initiated between the two countries, and Freedonia sends 30 units of corn to Sylvania in exchange for 30 units of wheat. Freedonia will now be able to consume a maximum of",
+      "options": [
+        {
+          "text": "30 units of corn and 30 units of wheat.",
+          "is_correct": true
+        },
+        {
+          "text": "40 units of corn and 30 units of wheat.",
+          "is_correct": false
+        },
+        {
+          "text": "40 units of corn and 20 units of wheat.",
+          "is_correct": false
+        },
+        {
+          "text": "10 units of corn and 40 units of wheat.",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "question_id": 5,
+      "text": "Suppose that a worker in Freedonia can produce either 6 units of corn or 2 units of wheat per year, and a worker in Sylvania can produce either 2 units of corn or 6 units of wheat per year. Each nation has 10 workers. Without trade, Freedonia produces and consumes 30 units of corn and 10 units of wheat per year. Sylvania produces and consumes 10 units of corn and 30 units of wheat. Suppose that trade is then initiated between the two countries, and Freedonia sends 30 units of corn to Sylvania in exchange for 30 units of wheat. Sylvania will now be able to consume a maximum of",
+      "options": [
+        {
+          "text": "30 units of corn and 30 units of wheat.",
+          "is_correct": true
+        },
+        {
+          "text": "40 units of corn and 30 units of wheat.",
+          "is_correct": false
+        },
+        {
+          "text": "40 units of corn and 20 units of wheat.",
+          "is_correct": false
+        },
+        {
+          "text": "10 units of corn and 40 units of wheat.",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "question_id": 6,
+      "text": "Suppose that a worker in Agland can produce either 10 units of organic grain or 2 units of incense per year, and a worker in Zenland can produce either 5 units of organic grain or 15 units of incense per year. There are 20 workers in Agland and 10 workers in Zenland. Currently the two countries do not trade. Agland produces and consumes 100 units of grain and 20 units of incense per year. Zenland produces and consumes 50 units of grain and no incense per year. If each country made the decision to specialize in producing the good in which it has a comparative advantage, then the combined yearly output of the two countries would increase by",
+      "options": [
+        {
+          "text": "30 units of grain and 100 units of incense.",
+          "is_correct": false
+        },
+        {
+          "text": "30 units of grain and 150 units of incense.",
+          "is_correct": false
+        },
+        {
+          "text": "50 units of grain and 90 units of incense.",
+          "is_correct": false
+        },
+        {
+          "text": "50 units of grain and 130 units of incense.",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "question_id": 7,
+      "text": "Refer to Table 3-1. Assume that Sardi and Tinaka each has 360 minutes available. If each person divides his time equally between the production of corn and pork, then total production is",
+      "options": [
+        {
+          "text": "10.5 bushels of corn and 16.5 pounds of pork.",
+          "is_correct": false
+        },
+        {
+          "text": "21 bushels of corn and 33 pounds of pork.",
+          "is_correct": true
+        },
+        {
+          "text": "35 bushels of corn and 22 pounds of pork.",
+          "is_correct": false
+        },
+        {
+          "text": "42 bushels of corn and 66 pounds of pork.",
+          "is_correct": false
+        }
+      ],
+      "table_id": "table_3_1"
+    },
+    {
+      "question_id": 8,
+      "text": "Refer to Table 3-1. Which of the following combinations of corn and pork could Sardi produce in one 8-hour day?",
+      "options": [
+        {
+          "text": "6 bushels of corn and 35 pounds of pork",
+          "is_correct": false
+        },
+        {
+          "text": "9 bushels of corn and 25 pounds of pork",
+          "is_correct": true
+        },
+        {
+          "text": "15 bushels of corn and 20 pounds of pork",
+          "is_correct": false
+        },
+        {
+          "text": "24 bushels of corn and 40 pounds of pork",
+          "is_correct": false
+        }
+      ],
+      "table_id": "table_3_1"
+    },
+    {
+      "question_id": 9,
+      "text": "Refer to Table 3-1. What is Sardi’s opportunity cost of producing one pound of pork?",
+      "options": [
+        {
+          "text": "3/5 bushel of corn",
+          "is_correct": true
+        },
+        {
+          "text": "6/5 bushels of corn",
+          "is_correct": false
+        },
+        {
+          "text": "4/3 bushels of corn",
+          "is_correct": false
+        },
+        {
+          "text": "5/3 bushels of corn",
+          "is_correct": false
+        }
+      ],
+      "table_id": "table_3_1"
+    },
+    {
+      "question_id": 10,
+      "text": "Refer to Table 3-3. Zimbabwe has an absolute advantage in the production of",
+      "options": [
+        {
+          "text": "toothbrushes and a comparative advantage in the production of toothbrushes.",
+          "is_correct": true
+        },
+        {
+          "text": "toothbrushes and a comparative advantage in the production of hairbrushes.",
+          "is_correct": false
+        },
+        {
+          "text": "hairbrushes and a comparative advantage in the production of toothbrushes.",
+          "is_correct": false
+        },
+        {
+          "text": "hairbrushes and a comparative advantage in the production of hairbrushes.",
+          "is_correct": false
+        }
+      ],
+      "table_id": "table_3_3"
+    },
+    {
+      "question_id": 11,
+      "text": "Refer to Table 3-6. We could use the information in the table to draw a production possibilities frontier for Hilda and a second production possibilities frontier for Carlos. If we were to do this, measuring quilts along the horizontal axis, then",
+      "options": [
+        {
+          "text": "the slope of Hilda’s production possibilities frontier would be -3 and the slope of Carlos’ production possibilities frontier would be -2.",
+          "is_correct": true
+        },
+        {
+          "text": "the slope of Hilda’s production possibilities frontier would be -0.33 and the slope of Carlos’ production possibilities frontier would be -0.5.",
+          "is_correct": false
+        },
+        {
+          "text": "the slope of Hilda’s production possibilities frontier would be 0.33 and the slope of Carlos’ production possibilities frontier would be 0.5.",
+          "is_correct": false
+        },
+        {
+          "text": "the slope of Hilda’s production possibilities frontier would be 3 and the slope of Carlos’ production possibilities frontier would be 2.",
+          "is_correct": false
+        }
+      ],
+      "table_id": "table_3_6"
+    },
+    {
+      "question_id": 12,
+      "text": "Refer to Table 3-6. We could use the information in the table to draw a production possibilities frontier for Hilda and a second production possibilities frontier for Carlos. If we were to do this, measuring dresses along the horizontal axis, then",
+      "options": [
+        {
+          "text": "the slope of Hilda’s production possibilities frontier would be -3 and the slope of Carlos’ production possibilities frontier would be -2.",
+          "is_correct": false
+        },
+        {
+          "text": "the slope of Hilda’s production possibilities frontier would be -0.33 and the slope of Carlos’ production possibilities frontier would be -0.5.",
+          "is_correct": true
+        },
+        {
+          "text": "the slope of Hilda’s production possibilities frontier would be 0.33 and the slope of Carlos’ production possibilities frontier would be 0.5.",
+          "is_correct": false
+        },
+        {
+          "text": "the slope of Hilda’s production possibilities frontier would be 3 and the slope of Carlos’ production possibilities frontier would be 2.",
+          "is_correct": false
+        }
+      ],
+      "table_id": "table_3_6"
+    },
+    {
+      "question_id": 13,
+      "text": "Refer to Table 3-9. Barb has an absolute advantage in",
+      "options": [
+        {
+          "text": "both setting up and testing computers and a comparative advantage in setting up computers.",
+          "is_correct": false
+        },
+        {
+          "text": "both setting up and testing computers and a comparative advantage in testing computers.",
+          "is_correct": false
+        },
+        {
+          "text": "neither setting up nor testing computers and a comparative advantage in setting up computers.",
+          "is_correct": false
+        },
+        {
+          "text": "neither setting up nor testing computers and a comparative advantage in testing computers.",
+          "is_correct": true
+        }
+      ],
+      "table_id": "table_3_9"
+    },
+    {
+      "question_id": 14,
+      "text": "Refer to Table 3-11. Falda’s opportunity cost of one bushel of wheat is",
+      "options": [
+        {
+          "text": "2/3 yard of cloth and Varick’s opportunity cost of one bushel of wheat is 2/5 yard of cloth.",
+          "is_correct": false
+        },
+        {
+          "text": "2/3 yard of cloth and Varick’s opportunity cost of one bushel of wheat is 5/2 yards of cloth.",
+          "is_correct": false
+        },
+        {
+          "text": "3/2 yards of cloth and Varick’s opportunity cost of one bushel of wheat is 2/5 yard of cloth.",
+          "is_correct": false
+        },
+        {
+          "text": "3/2 yards of cloth and Varick’s opportunity cost of one bushel of wheat is 5/2 yards of cloth. Figure 3-2",
+          "is_correct": true
+        }
+      ],
+      "table_id": "table_3_11"
+    },
+    {
+      "question_id": 15,
+      "text": "Refer to Figure 3-2. If the production possibilities frontier shown is for 40 hours of production, then how long does it take Peru to make one ruby?",
+      "options": [
+        {
+          "text": "1/6 hour",
+          "is_correct": true
+        },
+        {
+          "text": "1/5 hour",
+          "is_correct": false
+        },
+        {
+          "text": "5 hours",
+          "is_correct": false
+        },
+        {
+          "text": "6 hours Figure 3-3",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "question_id": 16,
+      "text": "Refer to Figure 3-3. Enid has an absolute advantage in the production of",
+      "options": [
+        {
+          "text": "burritos and a comparative advantage in the production of tacos.",
+          "is_correct": false
+        },
+        {
+          "text": "burritos and a comparative advantage in the production of burritos.",
+          "is_correct": false
+        },
+        {
+          "text": "neither good and a comparative advantage in the production of tacos.",
+          "is_correct": true
+        },
+        {
+          "text": "neither good and a comparative advantage in the production of burritos. Figure 3-8",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "question_id": 17,
+      "text": "Refer to Figure 3-8. Belgium should specialize in the production of",
+      "options": [
+        {
+          "text": "waffles and import pancakes.",
+          "is_correct": false
+        },
+        {
+          "text": "pancakes and import waffles.",
+          "is_correct": true
+        },
+        {
+          "text": "both goods and import neither good.",
+          "is_correct": false
+        },
+        {
+          "text": "neither good and import both goods. Figure 3-9",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "question_id": 18,
+      "text": "Refer to Figure 3-9. If the production possibilities frontiers shown are each for two days of production, then which of the following combinations of bolts and nails could Uzbekistan and Azerbaijan together make in a given 2-day production period?",
+      "options": [
+        {
+          "text": "12 bolts and 120 nails",
+          "is_correct": false
+        },
+        {
+          "text": "24 bolts and 96 nails",
+          "is_correct": false
+        },
+        {
+          "text": "38 bolts and 50 nails",
+          "is_correct": false
+        },
+        {
+          "text": "44 bolts and 24 nails",
+          "is_correct": true
+        }
+      ]
+    }
+  ]
+}
